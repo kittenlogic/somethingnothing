@@ -1,6 +1,14 @@
 var data = {
   "works": [
     {
+      "title": "The Insufferable Whiteness of Being",
+      "medium": "Video",
+      "year": "2018",
+      "description": "Video unpacking crypto-rich investors' utopian project, \"Sol\" (formally, \"Puertopia\"), within the larger historical context of colonialism and exploitation on the island of Puerto Rico.",
+      "image": "img/ix-crypto.png",
+      "url": "crypto.html"
+    },
+    {
       "title": "Queer AI",
       "medium": "Artificial Intelligence",
       "year": "2018 - ongoing",
