@@ -39,6 +39,9 @@ figcaption{
   display: block;
   margin: 0 auto;
 }
+.img-responsive {
+  width: 100%;
+}
 .outline {
   border: solid 1px #000;
 }

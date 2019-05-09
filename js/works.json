@@ -29,7 +29,7 @@ var data = {
       "medium": "Internet, study",
       "year": "2018",
       "description": "Visual risk calculator.",
-      "image": "img/ix-risk.jpg",
+      "image": "img/ix-risk.gif",
       "url": "risk.html"
     },
     {

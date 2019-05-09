@@ -2,7 +2,7 @@ var featured = _.template(
     "<div class='featured large-4 medium-6 columns'>" +
       "<a href= <%= url %> >" +
         "<div class='featured-image'>" +
-          "<img src= <%= image %> alt ='<%= title %>'>" +
+          "<img src= <%= image %> alt ='<%= title %>' class='img-responsive'>" +
           "<div class='featured-image-overlay'>" +
           "</div>" +
         "</div>" +
