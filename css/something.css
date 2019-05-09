@@ -365,12 +365,7 @@ a[href^="A.M.html"] > .featured-image {
 .project-container .img-fat {
 	padding: 4em 0 6em 0;
 }
-.lazy-container {
-  margin-top: 80px;
-  background: #fff;
-  margin: 20px;
-  padding: 20px;
-}
+
 /***********************************************************
  about, contact, cv, 404 pages
  ***********************************************************/
@@ -615,7 +610,7 @@ a.bm-active  {
 
 @media (max-width: 480px) {
   .container {
-	  margin-top: 80px;
+	  margin-top: 20px;
 	}
   .container.press {
 	  margin-top: 20px;
@@ -627,7 +622,7 @@ a.bm-active  {
   	font-size: 1em;
   }
 	.contact p {
-		font-size: .75em;
+		font-size: 9px;
 	}
 
   .top-bar-section li:not(.has-form) a:not(.button):hover,
@@ -651,5 +646,13 @@ a.bm-active  {
 	}
 	#canvas {
   	max-width: 480px;
+  }
+  .project-container {
+    margin: 0;
+  }
+
+  iframe.instagram-media {
+    max-width: 480px !important;
+    min-width: 260px !important;
   }
 }
