@@ -1,0 +1,102 @@
+/*
+ * Scrolling Tweet Ticker 2.0.3
+ *
+ * Copyright (c) 2013 Scott Langendyk.
+ * All Rights Reserved.
+ */
+.tweetticker-container,
+.tweetticker-container ul,
+.tweetticker-container li,
+.tweetticker-container cite,
+.tweetticker-container p,
+.tweetticker-container blockquote,
+.tweetticker-container a {
+	margin:0;
+	padding:0;
+	border:0;
+	position:relative;
+	font-weight:400;
+	font-style:normal;
+	list-style-type:none;
+	-webkit-text-size-adjust:100%
+}
+
+.tweetticker-container{
+	height:70px;
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:14px;
+	line-height:16px;
+	background:transparent url(../img/lol-smiley.gif) no-repeat 6px center;
+	padding:0 0 5px 70px;
+}
+
+.tweetticker-message{text-align:center;line-height:49px}
+
+.tweetticker-tweet_container{
+	padding-left:102px!important;
+	background:no-repeat 10px center transparent;
+}
+
+.tweetticker-tweet_wrapper{
+	position:relative;
+	left:-34px;
+	padding-right:75px;
+	padding-bottom:16px;
+	margin-top: 18px;
+}
+
+.tweetticker-tweet_container a:hover,
+
+.tweetticker-tweet_user a:hover span{text-decoration:underline}
+
+.tweetticker-tweet_container a{text-decoration:none}
+
+.tweetticker-tweet_user a:hover{text-decoration:none!important}
+
+.tweetticker-tweet_container,
+.tweetticker-tweet_container a,
+.tweetticker-tweet_user span,
+.tweetticker-tweet_user span a{color:yellow}
+
+.tweetticker-tweet_container cite,
+.tweetticker-tweet_container cite a,
+.tweetticker-tweet_date,
+.tweetticker-tweet_date a{color:yellow}
+
+.tweetticker-tweet_container cite a:hover,
+.tweetticker-tweet_date a:hover{color:yellow}
+
+.tweetticker-tweet_date a:hover,
+.tweetticker-tweet_text a{color:yellow}
+
+.tweetticker-tweet_date{position:absolute!important;font-size:12px;right:0;width:75px;text-align:right}
+
+.tweetticker-tweet_container cite{font-size:12px;display:block;white-space:nowrap}
+
+.tweetticker-tweet_container cite span{font-weight:700;font-size:14px}
+
+.tweetticker-tweet_text{
+	clear:both;
+	font-size:24px;
+	margin-right:-75px!important
+}
+
+.tweetticker-tweet_text p{display:inline;white-space:nowrap}
+
+.tweetticker-tweet_actions{margin-left:4px;position:absolute!important;right:0}
+
+.tweetticker-tweet_action{float:left;margin-left:4px}
+
+.tweetticker-tweet_action a{width:16px;height:16px;display:block;text-indent:-9999px;overflow:hidden;background:url(../img/actions_sprite.png) no-repeat}
+
+a.tweetticker-tweet_action-reply:hover{background-position:-16px 0}
+
+a.tweetticker-tweet_action-retweet{background-position:-80px 0}
+
+a.tweetticker-tweet_action-retweet:hover{background-position:-96px 0}
+
+a.tweetticker-tweet_action-favorite{background-position:-32px 0}
+
+a.tweetticker-tweet_action-favorite:hover{background-position:-48px 0}
+
+.tweetticker-tweet_retweeted-by{background:url(../img/retweeted_by.png) no-repeat 0 center;padding-left:20px!important;float:left}

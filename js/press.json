@@ -1,0 +1,276 @@
+var press = { 
+  "articles": [
+    {
+      "publication":"Squeaky Wheel Film & Media Art Center",
+      "title": "Squeaky Wheel announces Summer 2018 Workspace Residents", 
+      "author": "Ekrem Serdar", 
+      "date": "July 11, 2018",
+      "text": "<p>Artist Resident Emily Martinez will be working on a series of videos for an escape room that builds towards a live-action multimedia game <em>Eternal Boy Playground</em>. The game explores cultural tropes and trends that spring up around cryptocurrencies like Bitcoin as they relate to the utopian ideals of a group of self-proclaimed “Puertopians” who are flocking to Puerto Rico in the wake of Hurricane Maria. </p>",
+      "url": "http://squeaky.org/squeaky-wheel-announces-summer-2018-workspace-residents/"
+    },
+    {
+      "publication":"Convocatoria de Video",
+      "title": "La Faz de la Tierra", 
+      "author": "Espacio Pla", 
+      "date": "July 2018",
+      "text": "<p>'After Work' (by Anxious to Make) to be shown in the framework of a reboot of Eduardo Pla’s video installation <em>Videomundo Virtual</em>, a work made in 1995 for the 50th anniversary of the United Nations. On this occasion the installation is presented with videos selected from an international call, which invites curators and artists to reflect on the concept of Globalization and the distance between two moments in history: 1995 and 2018.</p>",
+      "url": "https://lafazdelatierravideo.wordpress.com/"
+    },
+    {
+      "publication":"Critical Interface Toolbox",
+      "title": "Artistic Approaches to the Interface", 
+      "author": "Hangar Centre for Art Research and Production", 
+      "date": "June 2018",
+      "text": "<p>Our website for <a href='http://anxioustomake.ga/'>anxioustomake.ga</a> is featured as part of the toolkit in Section 4: Artistic Approaches to the Interface</p>",
+      "url": "https://crit.hangar.org/toolbox/"
+    },
+    {
+      "publication":"Entreprecariat, Institute of Network Cultures",
+      "title": "How to Make Yourself into a Commissioning Body in 5 Easy Steps by Anxious to Make", 
+      "author": "Anxious to Make", 
+      "date": "Feb 10, 2018",
+      "text": "",
+      "url": "http://networkcultures.org/entreprecariat/how-to-make-yourself-into-a-commissioning-body/"
+    },
+    {
+      "publication":"Bubble Gum Club",
+      "title": "Queering the Algorithm", 
+      "author": "Marcia Elizabeth", 
+      "date": "Feb 2018",
+      "text": "",
+      "url": "https://bubblegumclub.co.za/queering-algorithm-conversational-ai-agents-advancement-new-eroticisms/"
+    },
+    {
+      "publication":"Centro de Cultura Digital",
+      "title": "The Wrong, la tercera edición de la bienal de arte digital", 
+      "author": "Centro de Cultura Digital", 
+      "date": "Nov 14, 2017",
+      "text": "",
+      "url": "http://editorial.centroculturadigital.mx/notacorta/the-wrong-la-tercera-edicion-de-la-bienal-de-arte-digital"
+    },
+    {
+      "publication":"The Wrong New Digital Art Biennale",
+      "title": "nervous.online", 
+      "author": "Flee Immediately", 
+      "date": "Nov 1 - Dec 23 2017",
+      "text": "",
+      "url": "http://nervous.online/"
+    },
+    {
+      "publication":"Entreprecariat, Institute of Network Cultures",
+      "title": "Special Issue: The Entreprecariat, Pervasive Labour Union zine #11", 
+      "author": "Silvio Lorusso", 
+      "date": "Sept 2017",
+      "text": "",
+      "url": "http://networkcultures.org/entreprecariat/pervasive-labour-union-zine-11/"
+    },
+    {
+      "publication":"Entreprecariat, Institute of Network Cultures",
+      "title": "Notes on Mugtivism and Precarious Merchandising", 
+      "author": "Silvio Lorusso", 
+      "date": "July 17, 2017",
+      "text": "",
+      "url": "http://networkcultures.org/entreprecariat/mugtivism/"
+    },
+    {
+      "publication":"The Luminary",
+      "title": "Precarious Life 2.0 - solo exhibition", 
+      "author": "Anxious to Make", 
+      "date": "June 24 - July 15 2017",
+      "text": "",
+      "url": "http://theluminaryarts.com/exhibitions/anxious-to-make"
+    },
+    {
+      "publication":"Draft Systems, 17th Media Art Biennale WRO 2017",
+      "title": "Contract for the Future - Video Program", 
+      "author": "WRO Art Center", 
+      "date": "May 2017",
+      "text": "",
+      "url": "http://wro2017.wrocenter.pl/en/contract-wideo/"
+    },
+    {
+      "publication":"International Media Arts Award: Publication",
+      "title": "Screengrab7: Resistance", 
+      "author": "Eric Nash", 
+      "date": "Jan 11 2017",
+      "text": "",
+      "url": "https://issuu.com/ericnash3/docs/screengrab7"
+    },
+    {
+      "publication":"V2_ Lab for the Unstable Media",
+      "title": "The Future of Work <small>ePub</small>",
+      "author": "Anxious to Make", 
+      "date": "Dec 18 2016",
+      "text": "",
+      "url": "http://v2.nl/archive/articles/the-future-of-work"
+    },
+    {
+      "publication":"Newhive",
+      "title": "This Month in Net.art", 
+      "author": "Cecily", 
+      "date": "Dec 4 2016",
+      "text": "",
+      "url": "https://newhive.com/b/%E1%B5%97%CA%B0%E1%B6%A4%CB%A2-%EF%BD%8D%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%88%E1%B6%A4%E1%B6%B0-%E1%B6%B0%E1%B5%89%E1%B5%97%C2%B7-%E1%B5%83%CA%B3%E1%B5%97/"
+    },
+    {
+      "publication":"INCA Press",
+      "title": "To Make A Public <small>p 41-46</small>", 
+      "author": "Temporary Art Review", 
+      "date": "Nov 28 2016",
+      "text": "",
+      "url": "http://temporaryartreview.com/announcing-to-make-a-public-book-launch-events/"
+    },
+    {
+      "publication":"V2_ Lab for The Unstable Media",
+      "title": "The Gig is Up", 
+      "author": "Sarah Cooke and V2_", 
+      "date": "Nov 24 2016",
+      "text": "",
+      "url": "http://v2.nl/events/the-gig-is-up"
+    },
+    {
+      "publication":" East Bay Express",
+      "title": "Side Gig at B4BEL4B", 
+      "author": "Sarah Burke", 
+      "date": "Nov 22 2016",
+      "text": "",
+      "url": "https://www.eastbayexpress.com/oakland/side-gig/Content?oid=5040693"
+    },
+    {
+      "publication":"KQED Arts",
+      "title": "Art for the New Economy, Where Everybody's Got a 'Side Gig'", 
+      "author": "Sarah Hotchkiss", 
+      "date": "Nov 15 2016",
+      "text": "",
+      "url": "https://ww2.kqed.org/arts/2016/11/15/art-for-the-new-economy-where-everyones-got-a-side-gig/"
+    },
+    {
+      "publication":"Oakland Museum of California",
+      "title": "Anxious to Make at B4BEL4B", 
+      "author": "Real Future Fair", 
+      "date": "Nov 15 2016",
+      "text": "",
+      "url": "http://realfuturefair.com/"
+    },
+    {
+      "publication":"Museum of Contemporary Art of Vojvodina",
+      "title": "Screening 2016", 
+      "author": "VIDEOMEDEJA", 
+      "date": "Oct 2016",
+      "text": "",
+      "url": "http://videomedeja.org/videomedeja-2016-en/screening-2016/liat-berdugo-emily-martinez-as-five-twins/?lang=en"
+    },
+    {
+      "publication":"A1 Lab Arts",
+      "title": "Curator’s Note on ‘Past and Future Conditions’", 
+      "author": "Emily Schleiner", 
+      "date": "Aug 2 2016",
+      "text": "",
+      "url": "http://www.a1labarts.com/curators-note-on-past-and-future-conditions/"
+    },
+    {
+      "publication":"The Concept Bank, Unnoticed Art Festival",
+      "title": "Three Rituals for Removing Creative Blocks", 
+      "author": "Liat Berdugo, Leora Fridman and Emily Martinez", 
+      "date": "Feb 2016",
+      "text": "",
+      "url": "http://www.theconceptbank.org/PDF/066.pdf"
+    },
+    {
+      "publication":"Always Already Podcast",
+      "title": "Interview with Emily Martinez and Liat Berdugo on Art, Neoliberal Subjectivity, and the Sharing Economy — Epistemic Unruliness 4", 
+      "author": "James Padilioni Jr", 
+      "date": "Nov 23 2015",
+      "text": "",
+      "url": "https://alwaysalreadypodcast.wordpress.com/2015/11/23/making-you/"
+    },
+    {
+      "publication":"Leonardo, Volume 48, Issue 2 MIT Press",
+      "title": "The LAST Festival", 
+      "author": "Erich Richter", 
+      "date": "April 2 2015",
+      "text": "",
+      "url": "https://www.leonardo.info/contributor/6114/emily-martinez"
+    },
+    {
+      "publication":"ANIMAL NEW YORK",
+      "title": "Watch Yourself with this Printable Homeland Security \"Keywords\" Web Tome", 
+      "author": "Kyle Petreycik", 
+      "date": "June 14 2013",
+      "text": "<p>Rhizome — “emerging artistic practices that engage technology” – has been accepting proposals for unique projects that highlight intersections between art and the internet.</p><p>Artist Emily Martinez produced a very timely proposal that thoughtfully combines the 374 keywords actively used by The Department of Homeland Security to monitor your activity on social media and just about everything you’ve been doing on the internet. Martinez plans to develop “an open access, social media monitoring service” that uses these popular keywords in combination with the API of many social media platforms.</p><p>Essentially, Martinez is planning to start her own type of homeland security website that utilizes these readily available resources to let the public monitor itself, creating a large archive ideally available for anyone to order a print on demand version of these search terms at any time.</p><p>As much of today’s breaking news can be seen first on social media, this could provide intelligent insight and a coherent look into what we are saying collectively in today’s largely alarmest state.</p><p>In the artist’s own words:</p><p>\"While my project may amount to nothing more than a provocative gesture that may or may not get me into trouble (as one friend noted without hesitation, ”You’re going to jail.”), one thing is certain: we live in a climate of fear, where we now openly acknowledge, without irony, that everything we do online is game for a system whose tactics for discerning an actual, immanent threat become increasingly indistinguishable and indefensible from the construction of one. homelandsecurityhearts.us is my way of allowing the public to construct their own in-/congruous narratives from this pre-filtered list of keywords that we already unwittingly supply to the watchful eye of government surveillance efforts for that very ambiguous purpose.\"</p><p>See also: TriggerTreat.net from Carlos Sáez and Anthony Antonellis, an automatic NSA surveillance-trigging ”keyword” generator for you social media, launched yesterday. (Images: Emily Martinez)</p><p>Tags: Art, Commission, DEPARTMENT OF HOMELAND SECURITY, DHS, Emily Martinez, homelandsecurityhearts.us, Rhizome</p>",
+      "url": "http://animalnewyork.com/2013/watch-yourself-with-this-printable-homeland-security-keywords-web-tome/"
+    },
+    {
+      "publication":"THE Magazine",
+      "title": "The Future is Here, That Much is Clear", 
+      "author": "Marina La Palma", 
+      "date": "July 2013",
+      "text": "",
+      "url": "https://santafe.com/article/currents-2013-santa-fe-international-the-future-is-here-that-much-is-clear"
+    },
+    {
+      "publication":"Filmmaker Magazine",
+      "title": "Going Digital in the Desert: Currents 2013 New Media Festival", 
+      "author": "Lauren Wissot ", 
+      "date": "June 22 2013",
+      "text": "",
+      "url": "http://filmmakermagazine.com/72764-going-digital-in-the-desert-currents-2013-new-media-festival/"
+    },
+    {
+      "publication":"Currents and SFAI Sponsored Residency",
+      "title": "Parallel Studios and the Santa Fe Art Institute announce Annual Residency Program", 
+      "author": "Currents New Media Festival", 
+      "date": "May 2013",
+      "text": "<p>The Santa Fe Art Institute and Parallel Studios are pleased to announce a new partnership that will provide an annual, two month residency for a visual multimedia artist whose work will be featured in the CURRENTS New Media Festival.</p><p>This year the residency has been awarded to Emily Martinez. Originally from Cuba, Emily received her M.F.A. in Digital Arts and New Media from the University of California, Santa Cruz in 2012, and now lives and works in Los Angeles, California.</p><p>Her interactive video piece, Anti-Apocalypse , can be seen as part of this year’s CURRENTS, opening June 14 at El Museo Cultural and running through June 30, 2013 at various venues throughout Santa Fe, New Mexico.</p>",
+      "url": "http://us4.campaign-archive2.com/?u=66e07f0d927116d472c0048ab&id=3f77c07d33"
+    },
+    {
+      "publication":"O:4W 2012",
+      "title": "Outcasting: Fourth Wall | Oct 1 - Nov 30th", 
+      "author": "Outcasting Moving Image Network", 
+      "date": "Sept 2012",
+      "text": "<p>Finally, after many months of hard work, here is the definitive list of commissions and screenings for the inaugural Outcasting: Fourth Wall Festival 2012. From 1 October Cardiff will be awash with artists' film. But don't worry that you won't get to see it all as we're going to rotate all of the selected work across the city for the period of the festival.</p><p>Throughout October and November you will be able to see new commissions by Richard Bevan, Barnaby Dicker, Stefhan Caddick, Thomas Goddard, Anton Hecht, Ann-Marie LeQuesne, Anthony Shapland, Lisa Stansbie, Christopher Webster & Sue Williams and over 30 screenings selected from a huge number of international submissions featuring amongst others, Shirin Neshat, Michel Boulanger, Stuart Croft, Jayne Parker, Michael Day & Emily Martinez.</p>",
+      "url": "http://us4.campaign-archive2.com/?u=175c12e4e8064673bd19446e2&id=a2df78184b"
+    },
+    {
+      "publication":"beyondmemory Critical Texts",
+      "title": "Archival impulses", 
+      "author": "Marinella Paderni", 
+      "date": "May 2012",
+      "text": "<p>When Celeste Network invited me to curate the first edition of a new prize dedicated to photography and video, it was natural for me to identify as a dominant theme ‘archive fever’ and contemporary photography’s interest in history and the construction of collective memory. Characterizing the prize with a combination of theme and specific language, enhances the contest compared with others, because it serves the dual purpose of investigating the current artistic scene, as well as reflecting on new expressive possibilities in contemporary photography and video.</p><p>We know that the memory industry is in its own way forgetful; collective memory today is more and more instantaneous, short-lived, at times finding it hard even to remember what has just passed. We are all veterans of the recent collapse of utopias and great ideological narratives, immersed in an endless and forgetful present driven by our media age. We live in this timeless condition, inventing paradoxically new technologies to ‘store’ memories, to build networks of shared memory, to eternalize and store every bit of experience, transforming all this human material in new forms of storytelling: open stories in the process of being written, made not to reach a definitive historicization. Art reacts to this unusual form of phenomenology by activating ‘counter-memory’ practices and inventing new devices of storytelling through the exploration and potential inherent in archives.</p><p>Archives have become readymades of time. Through archival documents we perceive the relationship between time and history, reality and representation, between an event and its future. In capturing the spark of time filed in an image, a photograph or a video, we are able to fix the past in an eternal, suspended present as well as offer a glimpse of a possible future.</p><p>This reflection on the active nature of time is what makes photography and video so relevant today. Artists that explore the use of archives and the production of collective memory are asking themselves what are photographic or film images able to remember or forget, and for whom or for what purpose. In this way, artists rethink their authority over the technology of memory and reflect on the authorship of images in a season in which new technologies have disrupted their historical significance.</p><p>368 projects were submitted to ‘beyondmemory’, showing just how urgent and meaningful the phenomenon of ‘archive fever’ is in our culture today. The 10 finalists, selected by members of the jury, Giovanna Calvenzi, Daniele De Luigi and George Tatge, are representative of different lines of research on the subject and forms which photography and video practice have taken compared with other languages such as new media.</p><p>An interesting phenomenon which emerges from this selection is the inter-relationship between still-image photography and moving-image video or film, ending once and for all any limit between the two languages. Of the 10 finalist projects, 3 are photographic projects by Claudio Gobbi, Marta Primavera and Greg Sand; 6 are video projects by Patrizia Bonardi, Dave Farnham, Emily Martinez, Kavit Mody, Caterina Pecchioli and Enrique Ramirez; and 1 project is by Fotoromanzo Italiano, dedicated to the now obsolete ‘picture story’ device revisited as a hybrid of different languages.</p><p>Walter Benjamin wrote that the historical content index in images shows that they are understood only at particular times in their history. In the works of Kavit Mody, Marta Primavera and Caterina Pecchioli the past is \"observed with new eyes,\" described in an open, dynamic time horizon regarding today’s issues, finally revealing it’s hidden character of differing intelligibilities in a wider process of construction of memory. Especially in Mody’s and Pecchioli’s work the narration of history – in Mody the tragic nuclear explosions at Hiroshima and Nagasaki, in Pecchioli the popular figure of a person considered ‘different’ in the memory of her fellow citizens  - isn’t left only to the image, but is supported by word and narrative voices of those who recount events through the practice of remembrance. In Primavera’s work it is the legacy of visual cultural history which needs to be investigated, begging the question: how do images of the past affect the creation of the future?</p><p>Being contemporary in our century and ‘now’, but also in the figures, texts and documents of the past, characterizes the research of Fotoromanzo Italiano and Claudio Gobbi. The history of a territory and nation, the cultural anthropology of landscape, the political reflection on the state of today and the nature of photography in general, are interwoven into forms of counter-narrative realities which meditate on the present having explored the ruins of history.</p><p>The conflictual character of the present, situated between the ‘not yet’ of the future and the ‘no more’ of the past, is sublimated in the works of Enrique Ramirez, Greg Sand and Dave Farnham. The point of departure for all of them is autobiographical memory and personal experience. In Ramirez’s work it is inexorably intertwined with the political history of his country Chile and with collective repression, while Sand’s work becomes a place of exploration and verification of identity over time through the genre of photographic portraiture. In Farnham’s work the presence of collective memory is shifted into sport and its tele-vision: sport is a cathartic moment of collective social expression of instincts, significant as it enables understanding of the dynamic relationship between individuals and their historical identity.</p><p>Even in Patrizia Bonardi’s video individual memory is the fulcrum of an experience of self through time. Her search for a literal fusion with earth denotes the current need to find in nature’s memory a rapprochement with what is human and a distancing from what is artificial. Emily Martinez’s reflection is diametrically opposed to Bonardi’s, she observes in the post-human character of our time, the ways in which network media build our memory processes. In Martinez’s collage of heteroclite, digital images, the artist questions the perception and narration of history, how new technologies incarnate our collective memory, and our ability to process cognitive and emotional responses.</p>",
+      "url": "http://www.celesteprize.com/marinellapadernidanieledeluigi/"
+    },
+    {
+      "publication":"Broward Palm Beach New Times “Best Of Awards”",
+      "title": "Best Exhibition Title of 2010: \"Balbone Martinez: Speaking in Parables Will Get You Nowhere With This Crowd,\" Art and Culture Center of Hollywood ", 
+      "author": "New Times Editors", 
+      "date": "Spring 2010",
+      "text": "<p>The title of this tiny show, which was shoehorned into the Art and Culture Center's smallest display space, is a nifty inside joke that works on multiple levels. First, there's no such artist as Balbone Martinez — the moniker melds the names of collaborators Michael Balbone and Emily Martinez. Then there's the subject matter of several of the works, which appropriate Christian iconography for subversive ends. And finally, there's an implicit dig at two subsets of contemporary museumgoers: literalists who analyze everything to death and the terminally clueless, who never quite seem to \"get it.\" That's a lot of baggage, but these dozen words carry it quite handily.</p>",
+      "url": "http://www.browardpalmbeach.com/bestof/2010/award/best-exhibition-title-1148790/"
+    },
+    {
+      "publication":"Broward Palm Beach New Times",
+      "title": "The Art and Culture Center's Fundraising Exhibition Is Joined by a Trio of Eclectic Shows", 
+      "author": "Michael Mills ", 
+      "date": "Feb 11 2010",
+      "text": "<p>[. . .] Crocco's straightforwardness hardly prepares us for the exhibition that's crammed into the center's tiniest gallery, which measures perhaps only 12 by 15 feet and has been repainted for the occasion with vertical stripes of bold color. \"Balbone Martinez: Speaking in Parables Will Get You Nowhere With This Crowd\" is actually the work of a pair of artists, Michael Balbone and Emily Martinez, working in collaboration. Their little grab bag of a show, consisting of not quite four dozen pieces of varying sizes and in various media, lives up to its pull-you-in title.</p><p>The rack card for the show describes Balbone and Martinez's methodology as \"primarily based upon recycling trash and found imagery,\" and they have assembled a veritable treasure-trove of quirky odds and ends. Among the components of their installation are pieces that play on religious iconography, with an irreverent twist — a Last Supper in which the participants have all been affixed with oversized doll eyes, for instance, or a pairing of the Sphinx and the Great Pyramid couched among words that add up to a paranoid diatribe. An advertising placard such as you might find in a store or restaurant includes the declaration \"WISHES WON'T DO DISHES\" as well as the politically incorrect addendum \"BUT MEXICANS WILL.\"</p><p>Balbone and Martinez are playing with matters of context and interpretation, and the information overload they supply is initially exhilarating. Then a sort of aesthetic delirium sets in, and you may find yourself ready for another contrast, which is readily supplied in the center's Project Room. [. . .]</p>",
+      "url": "http://www.browardpalmbeach.com/2010-02-11/culture/the-art-and-culture-center-s-fundraising-exhibition-is-joined-by-a-trio-of-eclectic-shows/"
+    },
+    {
+      "publication":"Citylink Magazine",
+      "title": "Fresh Art: Balbone Martinez", 
+      "author": "Colleen Dougher ", 
+      "date": "Jan 27, 2010",
+      "text": "<p>Since meeting more than 10 years ago at Florida International University, Michael Balbone and Emily Martinez have collaborated on many artworks and projects as Balbone Martinez, including a sparkling version of the Wendy’s girl for a contest the burger chain held in 2008. The challenge was to re-create Wendy with a Miami feel.</p><p>“I am a vegetarian but I told everyone I would eat a Baconator if we won the $25,000 grand prize from the Wendy’s Great Taste Tour,” Martinez recalls. “We did not win, but our piece lives inside Wendy’s corporate headquarters. … I confess to fantasizing about important board meetings being conducted in the presence of our sequined, glittery version of the redheaded goddess of hamburgers.”</p><p>That contrast is typical of the work of Balbone Martinez, whose exhibition Speaking in Parables Will Get You Nowhere With This Crowd is on display at the Art and Culture Center of Hollywood through May 23.</p><p>In their work, the pair uses old picture frames with images — of poorly rendered seascapes and the like — that typically decorate the homes of what Balbone says people in the fine art world call the “hoi polloi.”</p><p>“I personally do not mean that in any derogatory way,” he explains. “These images have power that is often overlooked and ignored. We are trying to re-instate the power of the images.”</p><p>Take “Ted Haggard,” their digital print named for the former evangelical preacher who resigned after admitting that he solicited a male prostitute for sex and meth. The image depicts an autumn landscape typically seen on cheesy inspirational posters but reads, “Even when I was high on Tina [street slang for crystal meth], bent over the massage table, I knew I was filled with Christ’s love.”</p><p>“Mr. Haggard is very anti-gay in his preachings,” Balbone explains. “The piece wrestles with Christ’s forgiveness vs. the hypocrisy of humanity.”</p><p>“Costa Rica Is Lovely But … ” is an old wooden photo plaque that contains a drawing of a table heaped with cocaine and these words: “Due to the fact that your country made a recent flex of drug control muscle after years of atrophy, my country is flooded with cheap cocaine looking for a home.” Balbone says the piece was based on a conversation he had with a man from Costa Rica, a stop on the smuggling route from Colombia to the United States.</p><p>In “Seaside Fringe,” Balbone added fringe to a seaside painting he believes is similar to those hanging above couches in thousands of homes. “The fringe is a standard in any dance recital costume and just seemed totally opposite the painting,” he says. “I just found them both so interesting, so I combined them.” Speaking in Parables Will Get You Nowhere With This Crowd also contains about two dozen reflections of what Balbone calls “a hyperexaggerated America.” “I like the idea of the parable because it implies a hidden meaning,” he says. “The story is never to be taken at face value. We use a lot of bright, happy, candy colors to disguise some rather dark subject matter.”</p><p>Martinez says the method for connecting seemingly disparate topics stems from “trying to understand things from an infinitely interconnected view of the universe.”</p><p>While working on this show, she strongly considered something political scientist Walter Truett Anderson once said about democracy: “The dilemma is that, while governance issues grow ever more complex and information more copious, the systems of mass communication make it ever more possible for political operators (left, right and center) to distort this complexity — to reduce it down to simple stories most people can understand without too much trouble, and can believe as long as they don’t take in too much information. We move every day into a world that makes greater demands on the intelligence of citizens, while the energies of our communications are focused directly on the creation and dissemination of idiotic stories about what’s going on.”</p>",
+      "url": "http://www.sun-sentinel.com/citylink/art/fresh-art/sfl-fresh-art-balbone-martinez-20110312,0,4053968.story"
+    },
+    {
+      "publication":"Broward Palm Beach New Times",
+      "title": "Holy Cleavage", 
+      "author": "Penn Bullock", 
+      "date": "Jan 21, 2010",
+      "text": "<p>“Speaking in Parables Will Get You Nowhere in this Crowd” is an exhibit about today’s post-industrial landscape — or should I say wasteland? — opening at the Hollywood Art and Culture Center (1650 Harrison St., Hollywood). It’s the joint project of two artists, Michael Balbone and Emily Martinez, who share a flair for throwing recycled trash and old photographs back in the face of society. Their works can also be punch lines, as in “I Saw Mary in My Chest Hair,” a gold-framed inkjet print of the Virgin Mary rising majestically in the fur between two ample male breasts.</p>",
+      "url": "http://www.browardpalmbeach.com/2010-01-21/calendar/holy-cleavage/"
+    }    
+  ]
+}

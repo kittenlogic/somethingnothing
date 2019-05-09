@@ -1,0 +1,196 @@
+var data = {
+  "works": [
+    {
+      "title": "Queer AI",
+      "medium": "Artificial Intelligence",
+      "year": "2018 - ongoing",
+      "description": "AIs trained on erotic literature, feminist and queer theory, and an ethics of embodiment.",
+      "image": "img/ix-queer.jpg",
+      "url": "queerai.html"
+    },
+    {
+      "title": "2018, Bro",
+      "medium": "Custom Calendar",
+      "year": "2018",
+      "description": "365 days of tech masculinity!",
+      "image": "img/ix-bro.jpg",
+      "url": "bro.html"
+    },
+    {
+      "title": "Risk",
+      "medium": "Internet, study",
+      "year": "2018",
+      "description": "Visual risk calculator.",
+      "image": "img/ix-risk.jpg",
+      "url": "risk.html"
+    },
+    {
+      "title": "Unthinking the Sharing Economy",
+      "medium": "Anxious to Make",
+      "year": "2017",
+      "description": "Ideation workshop to help tech and civic workers reimagine sharing platforms and design cooperative solutions for the post-carbon, post-capitalist future.",
+      "image": "img/ix-unthinking.jpg",
+      "url": "unthinking.html"
+    },
+    {
+      "title": "Future of Work",
+      "medium": "Anxious to Make",
+      "year": "2016",
+      "description": "Anxious to Make's book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. Commissioned by V2_",
+      "image": "img/ix-future.jpg",
+      "url": "future.html"
+    },
+    {
+      "title": "WWWORK",
+      "medium": "Anxious to Make",
+      "year": "2016",
+      "description": "Video essay about art, work, and class struggle in the 'always on' networked economy. Made from 100% unoriginal content.",
+      "image": "img/ix-wwwork.jpg",
+      "url": "wwwork.html"
+    },
+    {
+      "title": "How to Make Yourself Into A Commissioning Body",
+      "medium": "Anxious to Make",
+      "year": "2016",
+      "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy.",
+      "image": "img/ix-5easysteps.gif",
+      "url": "5easysteps.html"
+    },
+    {
+      "title": "Making You",
+      "medium": "Anxious to Make",
+      "year": "2015",
+      "description": "Promotional video, durational performance, and market research study for/by art collective, Anxious to Make.",
+      "image": "img/ix-makingyou.gif",
+      "url": "makingyou.html"
+    },
+    {
+      "title": "Anxious to Make",
+      "medium": "Collaboration",
+      "year": "2015- ongoing",
+      "description": "A collaborative project by Liat Berdugo and Emily Martinez about art, labor, entreprenuership, and the so-called \"sharing economy\".</span>",
+      "image": "img/ix-anxious5.jpg",
+      "url": "anxious.html"
+    },
+    {
+      "title": "!Oye, Gringa!",
+      "medium": "Internet, study",
+      "year": "2015",
+      "description": "My ethnic identity according to search algorithms, stock photography, personalized ads, and crowd-sourced intelligence.",
+      "image": "img/ix-oye.jpg",
+      "url": "oyegringa.html"
+    },
+    {
+      "title": "Portraits of Cocaine",
+      "medium": "Internet, study",
+      "year": "2015",
+      "description": "White people really can do anything.",
+      "image": "img/ix-cocaine.jpg",
+      "url": "cocaine.html"
+    },
+    {
+      "title": "never enough",
+      "medium": "Internet, post-digital erotica",
+      "year": "2015",
+      "description": "w4m m4m m4w w4w t4m m4t t4w w4t t4t mw4mw mw4w mw4m w4mw m4mw w4ww m4mm mm4m ww4w ww4m mm4w m4ww w4mm t4mw mw4t",
+      "image": "img/ix-horny.jpg",
+      "url": "neverenough.html"
+    },
+    {
+      "title": "$1,000,000,000 &#8710; scheme",
+      "medium": "Internet",
+      "year": "2014",
+      "description": "Custom audio/visual program for mastering the law of attraction.",
+      "image": "img/ix-billion.jpg",
+      "url": "billiondollarpyramid.html"
+    },
+    {
+      "title": "LA5D",
+      "medium": "Internet",
+      "year": "2013",
+      "description": "A gentle introduction to reverse meditations.",
+      "image": "img/ix-yoga.jpg",
+      "url": "yoga.html"
+    },
+    {
+      "title": "homelandsecurityhearts.us",
+      "medium": "Servers and servers, print on demand",
+      "year": "2013",
+      "description": "An open access, social media monitoring service and archive modeled after an official U.S. Department of Homeland Security \"Items of Interest\" (IOI) list of keywords and search terms.",
+      "image": "img/ix-homeland.jpg",
+      "url": "homeland.html"
+    },
+    {
+      "title": "in theory. . .",
+      "medium": "Internet, generative text",
+      "year": "2012",
+      "description": "A program capable of generating an infinite philosophical text based on recursive google search results originated by the phrase, “in theory”.",
+      "image": "img/ix-theory.jpg",
+      "url": "intheory.html"
+    },
+    {
+      "title": "Anti-Apocalypse",
+      "medium": "Installation, HD video, custom software, EEG brain-computer interface",
+      "year": "2012",
+      "description": "Immersive cinema that looks at how manifestations of the image in digital, networked media function as a social (optical) un-/conscious for catastrophic narratives and traumatic episodes to re-occur",
+      "image": "img/ix-apocalypse.jpg",
+      "url": "anti-apocalypse.html"
+    },
+    {
+      "title": "mysteryPrize( )",
+      "medium": "Internet",
+      "year": "2012",
+      "description": "Homage to Javascript alert( ) spam.",
+      "image": "img/ix-mystery.jpg",
+      "url": "mysteryprize.html"
+    },
+    {
+      "title": "Michael and Me",
+      "medium": "Internet",
+      "year": "2011",
+      "description": "Comprised of every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death.",
+      "image": "img/ix-bed.jpg",
+      "url": "michaelandme.html"
+    },
+    {
+      "title": "A.M.",
+      "medium": "Installation, radios, custom software, custom electronics",
+      "year": "2010",
+      "description": "This life, afterlife, sound immemorial.",
+      "image": "img/clear.png",
+      "url": "A.M.html"
+    },
+    {
+      "title": "Speaking in Parables Will Get You Nowhere With This Crowd",
+      "medium": "Balbone Martinez",
+      "year": "2007-2010",
+      "description": "A collaborative project by Michael Balbone and Emily Martinez about the American psyche and disaster capitalism.",
+      "image": "img/ix-parable.jpg",
+      "url": "balbonemartinez.html"
+    },
+    {
+      "title": "Fun with Numbers!",
+      "medium": "Balbone Martinez",
+      "year": "2008",
+      "description": "A site specific (precognitive) installation about the 2008 U.S. housing crisis.",
+      "image": "img/ix-housingcrash.jpg",
+      "url": "funwithnumbers.html"
+    },
+    {
+      "title": "Meditations (homesick)",
+      "medium": "Digital prints",
+      "year": "2006",
+      "description": "Portraits, still lifes, atmospheres.",
+      "image": "img/ix-homesick.jpg",
+      "url": "meditations.html"
+    },
+    {
+      "title": "Disasters",
+      "medium": "Postcard series",
+      "year": "2005",
+      "description": "Found photographs, \"special events\" photo sticker captions, end times.",
+      "image": "img/ix-disasters.jpg",
+      "url": "disasters.html"
+    }
+  ]
+}

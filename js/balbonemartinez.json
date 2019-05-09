@@ -1,0 +1,175 @@
+var balmar = { 
+  "works": [
+    {
+      "title": "You, a house. . .", 
+      "medium": "Screenshot, Hot Pink Iridescent Frame", 
+      "year": "2010",
+      "size": "8\"x10\"",
+      "image": "bm-house.jpg",
+      "url": "enter.html",
+      "description": ""
+    },
+    {
+      "title": "Speaking in Parables Will Get You Nowhere With This Crowd", 
+      "medium": "Found Illustrations, Photoshop, Incantations", 
+      "year": "2010",
+      "size": "8\"x10\"",
+      "image": "bm-parables.jpg",
+      "url": "parables.html",
+      "description": ""
+    },
+    {
+      "title": "Godhead", 
+      "medium": "Found Photograph, Found Illustration, Found Frame, Rhinestones, Photoshop", 
+      "year": "2010",
+      "size": "8\"x10\"",
+      "image": "bm-akasha.jpg",
+      "url": "akasha.html",
+      "description": ""
+    },
+    {
+      "title": "Baby's Bedtime", 
+      "medium": "Found illustration, found frame, inkjet transparency", 
+      "year": "2008",
+      "size": "8\"x10\"",
+      "image": "bm-shhhhh.jpg",
+      "url": "bedtime.html",
+      "description": ""
+    },
+    {
+      "title": ". . . and The Holy Ghost", 
+      "medium": "Found Plaque, Custom Stickers", 
+      "year": "2008",
+      "size": "11\"x16\"",
+      "image": "bm-holyghost.jpg",
+      "url": "andtheholyghost.html",
+      "description": ""
+    },
+    {
+      "title": "Seaside Fringe", 
+      "medium": "Found Painting, Fluorescent Fringe, Fabric, Thread, Spray Paint, Glue", 
+      "year": "2008",
+      "size": "26\"x39\"",
+      "image": "bm-seasidefringe.jpg",
+      "url": "seasidefringe.html",
+      "description": ""
+    },
+    {
+      "title": "They Keep Multiplying", 
+      "medium": "Found advertisments, plaque, polyurethane", 
+      "year": "2008",
+      "size": "8\"x10\"",
+      "image": "bm-multiply.jpg",
+      "url": "multiply.html",
+      "description": ""
+    },
+    {
+      "title": "Last Supper II", 
+      "medium": "Found lenticular print, googly eyes", 
+      "year": "2008",
+      "size": "32\"x24\"",
+      "image": "bm-lastsupper2.jpg",
+      "url": "lastsupper2.html",
+      "description": ""
+    },
+    {
+      "title": "Everything is Fine", 
+      "medium": "Found Illustration, Op Art, Photoshop", 
+      "year": "2008",
+      "size": "12\"x16\"",
+      "image": "bm-everythingisfine.jpg",
+      "url": "everythingisfine.html",
+      "description": ""
+    },
+    {
+      "title": "PC RIOT", 
+      "medium": "Found Frame, Inkjet Print, Photoshopped Cheerleader, The PATRIOT Act", 
+      "year": "2008",
+      "size": "12\"x18\"",
+      "image": "bm-pcriot.jpg",
+      "url": "pcriot.html",
+      "description": "Inspired during the 2008 Republican National Convention, when Ramsey County prosecutors formally charged eight members of a prominent activist group with “conspiracy to riot in furtherance of terrorism” under the 2002 Minnesota version of the federal PATRIOT Act (re: Probable Cause Riot)."
+    },
+    {
+      "title": "Ted Haggard", 
+      "medium": "Digital C-Print on Plexi", 
+      "year": "2007",
+      "size": "34\"x25\"",
+      "image": "bm-tedhaggard.jpg",
+      "url": "tedhaggard.html",
+      "description": ""
+    },
+    {
+      "title": "Wishes Won't Do Dishes. . .", 
+      "medium": "Found Framed Illustration, Custom Holographic Stickers", 
+      "year": "2008",
+      "size": "16\"x9\"",
+      "image": "bm-wishes.jpg",
+      "url": "wishes.html",
+      "description": ""
+    },
+    {
+      "title": "Debate Night in America", 
+      "medium": "Holographic inkjet paper, Photoshop, CNN (after Baldessari)", 
+      "year": "2008",
+      "size": "8\"x10\"",
+      "image": "bm-debatenightinamerica.gif",
+      "url": "debatenight.html",
+      "description": ""
+    },
+    {
+      "title": "What's Happening?", 
+      "medium": "Found Framed Illustration, Inkjet Transparency, Levees, Sinners", 
+      "year": "2008",
+      "size": "8\"x10\"",
+      "image": "bm-whatshappening.jpg",
+      "url": "whatshappening.html",
+      "description": ""
+    },
+    {
+      "title": "EMPIRE WORLD TOWERS 2K15", 
+      "medium": "Found Backlight Seascape Shadow Box, Custom Printed Vinyl, Built in Ocean Sounds", 
+      "year": "2008",
+      "size": "39\" x 25\" x 3\"",
+      "image": "bm-empireworldtowers.jpg",
+      "url": "empireworldtowers.html",
+      "description": "Inspired by hype of impending apocalypse, giant jellyfish reclaiming warm waters, and a proposal to build the world's tallest condos, aptly named, \"Empire World Towers\" in Downtown Miami by 2015."
+    },
+    {
+      "title": "Cancer Man", 
+      "medium": "Inkjet print of original drawing, Blue Iridescent Frame", 
+      "year": "2008",
+      "size": "8\"x10\"",
+      "image": "bm-cancerman.jpg",
+      "url": "cancerman.html",
+      "description": ""
+    },
+    {
+      "title": "Cross Your Eyes", 
+      "medium": "Found photograph, op art", 
+      "year": "2008",
+      "size": "10\"x10\"",
+      "image": "bm-crossyoureyes.jpg",
+      "url": "crossyoureyes.html",
+      "description": ""
+    },
+    {
+      "title": "United States", 
+      "medium": "Found Photographs, Found Illustration, Main Street, Coffin Catalog", 
+      "year": "2008",
+      "size": "16\"x12\"",
+      "image": "bm-unitedstates.jpg",
+      "url": "unitedstates.html",
+      "description": ""
+    },
+    {
+      "title": "Speaking in Parables Will Get You Nowhere With This Crowd", 
+      "medium": "Installation, Hollywood Art and Culture Center, Hollywood, FL 2010", 
+      "year": "",
+      "size": "",
+      "image": "bm-installation.jpg",
+      "url": "installation.html",
+      "description": ""
+    }
+  ]
+}

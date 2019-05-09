@@ -1,0 +1,655 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700|Open+Sans:400italic,400);
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Black.ttf')  format('truetype'),
+       url('../fonts/Lato-Bold.ttf')  format('truetype'),
+       url('../fonts/Lato-Regular.ttf')  format('truetype'),
+  		 url('../fonts/Lato-Light.ttf')  format('truetype'),
+  		 url('../fonts/Lato-Hairline.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/OpenSans-Regular.ttf')  format('truetype'),
+  		 url('../fonts/OpenSans-Italic.ttf')  format('truetype');
+}
+/***********************************************************
+ main styles
+ ***********************************************************/
+
+body {
+  background: rgb(240, 240, 240);
+}
+figure{
+  margin: 0;
+}
+figcaption{
+  text-align: center;
+  padding-bottom: 4em;
+}
+
+.container {
+  margin-top: 80px;
+}
+.center {
+  text-align: center;
+}
+.center-block{
+  display: block;
+  margin: 0 auto;
+}
+.outline {
+  border: solid 1px #000;
+}
+.fullscreen-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -100;
+  background: transparent;
+}
+#canvas {
+    padding: 350px 0;
+    width: 99%;
+}
+.accordion{
+    margin: 3em 0;
+}
+.accordion dd > a {
+    background: #f0f0f0;
+}
+.accordion dd > a:hover {
+    background: url('../img/strobe1.gif') repeat;
+}
+.accordion dd.active > a{
+    background: #f0f0f0;
+    border: 0px solid #000;
+}
+.accordion dd.active > a:hover{
+    background: url('../img/strobe1.gif') repeat;
+}
+
+/***********************************************************
+ texts
+ ***********************************************************/
+
+.author {
+    font-size: 10px;
+}
+.indent{
+    padding-left: 24px;
+    line-height: 1.2;
+}
+.footnote{
+    font-size: .75em;
+}
+
+/***********************************************************
+ nav .top-bar styles
+ ***********************************************************/
+
+.top-bar {
+	background: #FFF;
+	padding-bottom: 45px;
+	opacity: 0.8;
+	height: 60px;
+}
+
+.top-bar .title-area {
+    margin: 7px;
+}
+
+.top-bar.expanded .title-area,
+.top-bar-section ul {
+	background: #FFF;
+}
+
+.top-bar .name h1 a {
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.name h1 a:hover {
+  color: #d3d3d3;
+}
+
+.top-bar .toggle-topbar.menu-icon a {
+	color: #000;
+	background: #FFF;
+	opacity: 0.8;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	color: #000;
+	background: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	padding-top: 7px;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover,
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+	background: white;
+	border-bottom: 3px solid #d3d3d3;
+	color: #000;
+	padding-bottom: 5px;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+  background: #FFF;
+  color: #d3d3d3;
+  border-bottom: 3px solid #d3d3d3;
+  padding-bottom: 5px;
+  padding-top: 7px;
+}
+
+.top-bar-section .dropdown {
+  top: 60px;
+}
+
+.top-bar-section ul li:hover:not(.has-form) > a {
+  padding-bottom: 10px;
+}
+
+.top-bar-section .dropdown li{
+  height: 40px;
+}
+
+.top-bar-section li:not(.dropdown) li:not(.has-form) a:not(.button),
+.top-bar-section li.active:not(.dropdown) li.active:not(.has-form) a:not(.button),
+.top-bar-section li:not(.dropdown) li:not(.has-form) a:not(.button):hover,
+.top-bar-section li.active:not(.dropdown) li.active:not(.has-form) a:not(.button):hover {
+  border-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.top-bar-section li:not(.dropdown) li:not(.has-form) a:not(.button){
+  height: 100%;
+}
+
+.top-bar-section li:not(.dropdown) li:not(.has-form) a:not(.button):hover{
+  background: url('../img/strobe1.gif') repeat;
+}
+
+.top-bar .toggle-topbar.menu-icon a::after {
+  box-shadow: 0 10px 0 1px #d3d3d3, 0 16px 0 1px #d3d3d3, 0 22px 0 1px #d3d3d3;
+}
+@media only screen and (min-width: 40.063em) {
+  .top-bar-section .has-dropdown > a:after {
+    border-color: #9e9e9e transparent transparent transparent;
+    margin-top: 2.5px;
+  }
+}
+
+
+/***********************************************************
+ projects page
+ ***********************************************************/
+
+/*a[href^="http://mysteryprize.biz"] > .featured-image {
+	background: url('../img/goldskull.gif') repeat, url('../img/explosion.gif') repeat;
+	height: 100%;
+}*/
+
+a[href^="A.M.html"] > .featured-image {
+	background: url('../img/static.gif') repeat;
+	height: 100%;
+}
+
+.featured {
+ margin-bottom: 30px;
+}
+
+.featured-image {
+	max-width: 540px;
+	position: relative;
+}
+
+.featured-image-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.0;
+  background: url('../img/strobe1.gif') repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  z-index: 9;
+  transition: .7s ease-out;
+}
+
+.featured-image:hover .featured-image-overlay {
+	opacity: .3;
+}
+
+.featured .content-section {
+	height: 210px;
+	overflow: hidden;
+	padding: 5px;
+	max-width: 540px;
+	background: #FFF;
+}
+
+.featured .content-section h5 {
+	font-size: 1em;
+}
+
+.featured .content-section h4 {
+	font-size: 1.25em;
+}
+
+.featured .content-section p {
+	font-size: .75em;
+}
+
+.featured .content-section h4,
+.featured .content-section h5 {
+  color: #7c7c7c;
+}
+
+.featured .content-section p {
+  color: #525252;
+}
+
+/***********************************************************
+ press page
+ ***********************************************************/
+
+.container.press {
+  margin-top: 60px;
+}
+
+.article-container {
+	background: #FFF;
+	margin-bottom: 60px;
+	padding: 0;
+}
+
+.individual-article {
+  margin: 30px;
+  padding: 20px 0;
+}
+
+.individual-article a {
+  font-weight: 300;
+  color: #000;
+}
+.individual-article a:hover {
+  color: #fff;
+  background: url('../img/strobe1.gif') repeat;
+}
+
+.individual-article h3 {
+  color: #525252;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  margin-bottom: 0;
+  font-size: 1em;
+}
+
+.individual-article h4 {
+	font-weight: 100;
+}
+
+.individual-article p {
+  color: #525252;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.individual-article hr {
+	padding-top: 5px;
+}
+
+/***********************************************************
+ individual project pages
+ ***********************************************************/
+
+.project-container {
+	background: #FFF;
+	margin: 0 20px 40px 20px;
+	padding: 20px;
+}
+
+.project-container h2 {
+	color: #525252;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+.project-container h3,
+.project-container h4,
+.project-container h5,
+.project-container h6 {
+	color: #525252;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+.project-container h4 {
+  padding-bottom: 2em;
+}
+
+.project-container h6 {
+  padding-bottom: .5em;
+}
+
+.project-container p {
+  color: #525252;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.project-container a {
+  color: #525252;
+}
+
+.project-container img {
+	display: block;
+	margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.project-container .accordion img {
+    margin: 20px 0;
+}
+.project-container iframe {
+    margin-bottom: 10px;
+}
+
+.project-container .img-fat {
+	padding: 4em 0 6em 0;
+}
+.lazy-container {
+  margin-top: 80px;
+  background: #fff;
+  margin: 20px;
+  padding: 20px;
+}
+/***********************************************************
+ about, contact, cv, 404 pages
+ ***********************************************************/
+
+.contact,
+.bio,
+.cv,
+.fourofour {
+	background: #FFF;
+	min-height: 480px;
+	max-width: 540px;
+	position: relative;
+}
+
+.contact h3,
+.contact p,
+.contact a,
+.cv h3,
+.bio h3,
+.fourofour h3 {
+  color: #7c7c7c;
+}
+
+.contact h3,
+.cv h3,
+.bio h3,
+.fourofour h3 {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.contact p{
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
+.bio p {
+  font-size: 1em;
+  padding: 1em 0;
+  color: #525252;
+  font-weight: 300;
+}
+
+.bio a {
+  color: #525252;
+  font-weight: 400;
+}
+.bio img {
+  padding-top: 15px;
+}
+
+.contact{
+  background: url('../img/call-now.gif') no-repeat bottom right;
+  background-color: #fff;
+  background-size: 20%;
+  padding-bottom: 2em;
+}
+
+.contact a:hover,
+.bio a:hover {
+	background: url('../img/strobe1.gif') repeat;
+  color: #fff;
+  padding: 0px;
+}
+
+.contact h3 {
+	margin-bottom: 70px;
+}
+
+.contact img {
+	margin-left: 10%;
+  margin-right: 5%;
+  width: 32px;
+}
+.contact p:last-child img {
+	width: 40px;
+	margin-right: 3%;
+}
+
+.cv p {
+	padding-top: 15%;
+	text-align: center;
+}
+
+/***********************************************************
+ 404 page
+ ***********************************************************/
+
+.fourofour img {
+	margin-left: 40%;
+	margin-top: 15%;
+	padding-bottom: 2%;
+}
+
+.fourofour p {
+	text-align: center;
+}
+
+.fourofour p a {
+  color: #d3d3d3;
+  text-decoration: none;
+}
+
+.fourofour p a:hover {
+	color: white;
+	background: #d3d3d3;
+}
+
+/***********************************************************
+ balbone martinez pages
+ ***********************************************************/
+.bm {
+	margin: 0 auto;
+	max-width: 700px;
+	margin-bottom: 2em;
+}
+
+.bm img {
+  padding-bottom: 1em;
+}
+
+.bm-active {
+  background: url('../img/strobe1.gif') repeat;
+}
+
+a.bm-active  {
+	color: #fff;
+}
+
+.bm-menu p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+
+.bm-menu h5  {
+  text-align: center;
+}
+
+.bm-menu a {
+  font-size: 1em;
+}
+
+.bm-orbit-slider {
+  padding: 2em 0;
+}
+
+.bm-orbit-slider ul li {
+  background: transparent;
+}
+
+.bm .on {
+	display: none;
+}
+
+.bm .off {
+	display: block;
+}
+
+.bm:hover .on {
+	display: block;
+}
+
+.bm:hover .off {
+	display: none;
+}
+
+
+/***********************************************************
+ special link classes
+ ***********************************************************/
+
+.strobe-links a {
+  border-bottom: 3px solid #FFC107;
+}
+
+.strobe-links a:hover {
+	background: url('../img/strobe1.gif') repeat;
+	color: #fff;
+  border-bottom: none;
+}
+
+.strobe {
+    background: url('../img/strobe1.gif') repeat;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+.strobe a {
+    color: #fff;
+    border-bottom: none;
+}
+
+/***********************************************************
+ media queries
+ ***********************************************************/
+
+@media screen and (min-width: 481px) and (max-width: 640px) {
+  .container {
+	  margin-top: 80px;
+	}
+  .container.press {
+	  margin-top: 20px;
+	}
+	.container.press p {
+	  font-size: .9em;
+	}
+  .bio,
+  .contact p {
+  	font-size: .9em;
+  }
+  .top-bar-section li:not(.has-form) a:not(.button):hover,
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: rgb(240, 240, 240);
+		border-bottom: 0;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+	  border-bottom: 0;
+	  padding-bottom: 5px;
+	  padding-top: 5px;
+	}
+	.top-bar-section li:not(.has-form) a:not(.button) {
+	  padding-top: 5px;
+	  padding-bottom: 5px;
+	}
+	.top-bar-section .dropdown {
+	  top: 0px;
+	}
+  .top-bar-section .dropdown li{
+    height: 30px;
+  }
+  #canvas {
+  	width: 99%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+	  margin-top: 80px;
+	}
+  .container.press {
+	  margin-top: 20px;
+	}
+	.container.press p {
+	  font-size: .75em;
+	}
+  .bio p {
+  	font-size: 1em;
+  }
+	.contact p {
+		font-size: .75em;
+	}
+
+  .top-bar-section li:not(.has-form) a:not(.button):hover,
+	.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+		background: rgb(240, 240, 240);
+		border-bottom: 0;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+	.top-bar-section li.active:not(.has-form) a:not(.button) {
+	  border-bottom: 0;
+	  padding-bottom: 5px;
+	  padding-top: 5px;
+	}
+	.top-bar-section li:not(.has-form) a:not(.button) {
+	  padding-top: 5px;
+	  padding-bottom: 5px;
+	}
+	.top-bar-section .dropdown {
+	  top: 0px;
+	}
+	#canvas {
+  	max-width: 480px;
+  }
+}

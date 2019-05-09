@@ -1,0 +1,128 @@
+/*
+	 Mad props to Chris Coyier of http://css-tricks.com for his awesome Circulate jQuery Plugin and half of this stylesheet
+*/
+
+
+body { 
+	font: 14px Georgia, serif; 
+	background-image: url('../img/lol-smile.gif');
+	background-size: 60%;
+}
+
+#page-wrap { 
+	z-index: 20; 
+	width: 480px; 
+	margin: 10px auto;
+	background-image: url('../img/lol-cloudy.gif');
+	background-size: contain; 
+	background-color: white; 
+	padding: 20px 0; 
+	position: relative; 
+}
+
+.hidden {
+	display: none;
+}
+.group:after { 
+	visibility: hidden; 
+	display: block; 
+	font-size: 0; 
+	content: " "; 
+	clear: both; 
+	height: 0; 
+}
+
+.group { 
+	display: inline-block; 
+	margin-left: 15px;
+	margin-bottom: 30px;
+}
+
+.group > div {
+	cursor: pointer;
+}
+/* start commented backslash hack \*/
+* html .group { height: 1%; }
+.group { display: block; }
+/* close commented backslash hack */
+
+h1, h2 { font-weight: normal; margin: 30px 0 10px 0; }
+p { margin: 0 0 10px 0; }
+
+button {
+  padding: 5px;
+  cursor: pointer;
+}
+
+#lol, 
+#bff,
+#brb,
+#fb,
+#wtf,
+#twitter {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.audio-mixer div { 
+	background: #ccc; 
+	width: 80px; 
+	height: 80px; 
+	float: left; 
+	-moz-border-radius: 40px; 
+	-webkit-border-radius: 40px; 
+	border-radius: 40px; 
+}
+.audio-mixer div:nth-child(5n) { 
+	background: transparent url('../img/lol-melting.gif') 48% -8px no-repeat; 
+	background-size: 149%;
+	margin: 5px;
+    }
+.audio-mixer div:nth-child(5n+1) { 
+	background: transparent url('../img/lol-melting.gif') 48% -8px no-repeat; 
+	background-size: 149%;
+	margin: 5px;
+    }
+.audio-mixer div:nth-child(5n+2) { 
+	background: transparent url('../img/lol-melting.gif') 48% -8px no-repeat; 
+	background-size: 149%;
+	margin: 5px;
+    }
+.audio-mixer div:nth-child(5n+3) { 
+	background: transparent url('../img/lol-melting.gif') 48% -8px no-repeat; 
+	background-size: 149%;
+	margin: 5px;
+    }
+.audio-mixer div:nth-child(5n+4) { 
+	background: transparent url('../img/lol-melting.gif') 48% -8px no-repeat; 
+	background-size: 149%;
+	margin: 5px;
+    }
+
+#sphere-area { height: 350px; position: relative; width: 100%; }
+#sphere-area img { width: 150px; position: absolute; top: 50px; left: 250px; cursor: pointer;}
+
+#orbit2,
+#orbit3 { 
+	opacity: 0;
+}
+
+#prize { 
+	z-index: 60; 
+	position: absolute; 
+	top: 40px; 
+	left: 44%; 
+	width: 110px; 
+	display: block;
+	cursor: help;
+}
+
+#spinning-text span { 
+	float: left; 
+	font: 30px bold Helvetica, Sans-Serif;	 
+}
+
+#spinning-text span img {
+	width: 400px;
+	margin-left: 20px;
+}
