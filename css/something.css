@@ -279,7 +279,7 @@ a[href^="A.M.html"] > .featured-image {
 }
 
 .individual-article a {
-  font-weight: 300;
+  font-weight: 400;
 }
 .individual-article a:hover {
   color: #fff;
@@ -295,7 +295,7 @@ a[href^="A.M.html"] > .featured-image {
 }
 
 .individual-article h4 {
-	font-weight: 100;
+	font-weight: 400;
 }
 
 .individual-article p {
