@@ -2,9 +2,9 @@ var data = {
   "works": [
     {
       "title": "The Insufferable Whiteness of Being",
-      "medium": "Video",
+      "medium": "Single-channel video",
       "year": "2018",
-      "description": "Video unpacking crypto-rich investors' utopian project, \"Sol\" (formally, \"Puertopia\"), within the larger historical context of colonialism and exploitation on the island of Puerto Rico.",
+      "description": "Video+text unpacking a crypto-utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
       "image": "img/ix-crypto.png",
       "url": "crypto.html"
     },
@@ -17,16 +17,16 @@ var data = {
       "url": "queerai.html"
     },
     {
-      "title": "2018, Bro",
-      "medium": "Custom Calendar",
+      "title": "2018, Bro!",
+      "medium": "Custom calendar",
       "year": "2018",
-      "description": "365 days of tech masculinity!",
+      "description": "365 days of tech masculinity.",
       "image": "img/ix-bro.jpg",
       "url": "bro.html"
     },
     {
       "title": "Risk",
-      "medium": "Internet, study",
+      "medium": "net art, study",
       "year": "2018",
       "description": "Visual risk calculator.",
       "image": "img/ix-risk.gif",
@@ -34,41 +34,41 @@ var data = {
     },
     {
       "title": "Unthinking the Sharing Economy",
-      "medium": "Anxious to Make",
+      "medium": "Workshop and web app",
       "year": "2017",
-      "description": "Ideation workshop to help tech and civic workers reimagine sharing platforms and design cooperative solutions for the post-carbon, post-capitalist future.",
+      "description": "Ideation workshop to help tech and civic workers reimagine sharing platforms and design cooperative solutions for the post-carbon, post-capitalist future. By Anxious to Make",
       "image": "img/ix-unthinking.jpg",
       "url": "unthinking.html"
     },
     {
       "title": "Future of Work",
-      "medium": "Anxious to Make",
+      "medium": "e-Book",
       "year": "2016",
-      "description": "Anxious to Make's book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. Commissioned by V2_",
+      "description": "Book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. By Anxious to Make. Commissioned by V2_ Lab for the Unstable Media",
       "image": "img/ix-future.jpg",
       "url": "future.html"
     },
     {
       "title": "WWWORK",
-      "medium": "Anxious to Make",
+      "medium": "Single-channel video",
       "year": "2016",
-      "description": "Video essay about art, work, and class struggle in the 'always on' networked economy. Made from 100% unoriginal content.",
+      "description": "Video essay about art, work, and class struggle in the 'always on' networked economy. Made from 100% unoriginal content. By Anxious to Make.",
       "image": "img/ix-wwwork.jpg",
       "url": "wwwork.html"
     },
     {
       "title": "How to Make Yourself Into A Commissioning Body",
-      "medium": "Anxious to Make",
+      "medium": "Workshop",
       "year": "2016",
-      "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy.",
+      "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy. By Anxious to Make. Commissioned by Transmediale.",
       "image": "img/ix-5easysteps.gif",
       "url": "5easysteps.html"
     },
     {
       "title": "Making You",
-      "medium": "Anxious to Make",
+      "medium": "Single-channel video",
       "year": "2015",
-      "description": "Promotional video, durational performance, and market research study for/by art collective, Anxious to Make.",
+      "description": "Promotional video, durational performance, and market research study unpacking the neoliberal subject and creative entrepreneur. By Anxious to Make.",
       "image": "img/ix-makingyou.gif",
       "url": "makingyou.html"
     },
@@ -82,7 +82,7 @@ var data = {
     },
     {
       "title": "!Oye, Gringa!",
-      "medium": "Internet, study",
+      "medium": "Study",
       "year": "2015",
       "description": "My ethnic identity according to search algorithms, stock photography, personalized ads, and crowd-sourced intelligence.",
       "image": "img/ix-oye.jpg",
@@ -90,34 +90,34 @@ var data = {
     },
     {
       "title": "Portraits of Cocaine",
-      "medium": "Internet, study",
+      "medium": "Study",
       "year": "2015",
-      "description": "White people really can do anything.",
+      "description": "A study of white privilege.",
       "image": "img/ix-cocaine.jpg",
       "url": "cocaine.html"
     },
     {
       "title": "never enough",
-      "medium": "Internet, post-digital erotica",
+      "medium": "net art, post-digital erotica",
       "year": "2015",
       "description": "w4m m4m m4w w4w t4m m4t t4w w4t t4t mw4mw mw4w mw4m w4mw m4mw w4ww m4mm mm4m ww4w ww4m mm4w m4ww w4mm t4mw mw4t",
       "image": "img/ix-horny.jpg",
       "url": "neverenough.html"
     },
     {
-      "title": "$1,000,000,000 &#8710; scheme",
-      "medium": "Internet",
+      "title": "$1B &#8710;",
+      "medium": "net art",
       "year": "2014",
       "description": "Custom audio/visual program for mastering the law of attraction.",
-      "image": "img/ix-billion.jpg",
+      "image": "img/ix-freedom.gif",
       "url": "billiondollarpyramid.html"
     },
     {
       "title": "LA5D",
-      "medium": "Internet",
+      "medium": "net art",
       "year": "2013",
       "description": "A gentle introduction to reverse meditations.",
-      "image": "img/ix-yoga.jpg",
+      "image": "img/ix-yoga.gif",
       "url": "yoga.html"
     },
     {
@@ -130,7 +130,7 @@ var data = {
     },
     {
       "title": "in theory. . .",
-      "medium": "Internet, generative text",
+      "medium": "Generative text",
       "year": "2012",
       "description": "A program capable of generating an infinite philosophical text based on recursive google search results originated by the phrase, “in theory”.",
       "image": "img/ix-theory.jpg",
@@ -146,17 +146,17 @@ var data = {
     },
     {
       "title": "mysteryPrize( )",
-      "medium": "Internet",
+      "medium": "net art",
       "year": "2012",
       "description": "Homage to Javascript alert( ) spam.",
-      "image": "img/ix-mystery.jpg",
+      "image": "img/ix-mystery.gif",
       "url": "mysteryprize.html"
     },
     {
       "title": "Michael and Me",
-      "medium": "Internet",
+      "medium": "net art",
       "year": "2011",
-      "description": "Comprised of every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death.",
+      "description": "Every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death.",
       "image": "img/ix-bed.jpg",
       "url": "michaelandme.html"
     },
@@ -185,7 +185,7 @@ var data = {
       "url": "funwithnumbers.html"
     },
     {
-      "title": "Meditations (homesick)",
+      "title": "Homesick",
       "medium": "Digital prints",
       "year": "2006",
       "description": "Portraits, still lifes, atmospheres.",

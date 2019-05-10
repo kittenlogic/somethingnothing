@@ -231,7 +231,7 @@ a[href^="A.M.html"] > .featured-image {
 }
 
 .featured .content-section {
-	height: 210px;
+	height: 230px;
 	overflow: hidden;
 	padding: 5px;
 	max-width: 540px;
@@ -280,7 +280,6 @@ a[href^="A.M.html"] > .featured-image {
 
 .individual-article a {
   font-weight: 300;
-  color: #000;
 }
 .individual-article a:hover {
   color: #fff;
@@ -349,7 +348,7 @@ a[href^="A.M.html"] > .featured-image {
 }
 
 .project-container a {
-  color: #525252;
+  color: #008cba;
 }
 
 .project-container img {
@@ -384,8 +383,6 @@ a[href^="A.M.html"] > .featured-image {
 }
 
 .contact h3,
-.contact p,
-.contact a,
 .cv h3,
 .bio h3,
 .fourofour h3 {
@@ -403,17 +400,18 @@ a[href^="A.M.html"] > .featured-image {
 .contact p{
 	padding-left: 2em;
 	padding-right: 2em;
+  color: #008cba;
 }
 
 .bio p {
   font-size: 1em;
   padding: 1em 0;
   color: #525252;
-  font-weight: 300;
+
 }
 
 .bio a {
-  color: #525252;
+  color: #008cba;
   font-weight: 400;
 }
 .bio img {
@@ -544,13 +542,13 @@ a.bm-active  {
  ***********************************************************/
 
 .strobe-links a {
-  border-bottom: 3px solid #FFC107;
+  color: #008cba;
+  line-height: 1.4;
 }
 
 .strobe-links a:hover {
 	background: url('../img/strobe1.gif') repeat;
 	color: #fff;
-  border-bottom: none;
 }
 
 .strobe {
@@ -657,5 +655,12 @@ a.bm-active  {
   iframe.instagram-media {
     max-width: 480px !important;
     min-width: 260px !important;
+  }
+  .contact p{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .contact h3 {
+    margin-bottom: 30px;
   }
 }
