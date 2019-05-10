@@ -26,7 +26,7 @@ var data = {
     },
     {
       "title": "Risk",
-      "medium": "net art, study",
+      "medium": "Finance, study, net art",
       "year": "2018",
       "description": "Visual risk calculator.",
       "image": "img/ix-risk.gif",
@@ -34,7 +34,7 @@ var data = {
     },
     {
       "title": "Unthinking the Sharing Economy",
-      "medium": "Workshop and web app",
+      "medium": "Workshop, web app",
       "year": "2017",
       "description": "Ideation workshop to help tech and civic workers reimagine sharing platforms and design cooperative solutions for the post-carbon, post-capitalist future. By Anxious to Make",
       "image": "img/ix-unthinking.jpg",
@@ -42,9 +42,9 @@ var data = {
     },
     {
       "title": "Future of Work",
-      "medium": "e-Book",
+      "medium": "Book",
       "year": "2016",
-      "description": "Book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. By Anxious to Make. Commissioned by V2_ Lab for the Unstable Media",
+      "description": "Book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. 140 pages. By Anxious to Make. Commissioned by V2_ Lab for the Unstable Media",
       "image": "img/ix-future.jpg",
       "url": "future.html"
     },
@@ -58,9 +58,9 @@ var data = {
     },
     {
       "title": "How to Make Yourself Into A Commissioning Body",
-      "medium": "Workshop",
+      "medium": "Workshop, workbook, algorithm",
       "year": "2016",
-      "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy. By Anxious to Make. Commissioned by Transmediale.",
+      "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy. 103 pages. By Anxious to Make. Commissioned by Transmediale.",
       "image": "img/ix-ez.jpg",
       "url": "5easysteps.html"
     },
