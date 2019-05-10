@@ -61,16 +61,8 @@ var data = {
       "medium": "Workshop",
       "year": "2016",
       "description": "Workshop and methodology to walk artists through common blockages and offer solutions that can be commissioned through the sharing economy. By Anxious to Make. Commissioned by Transmediale.",
-      "image": "img/ix-5easysteps.gif",
+      "image": "img/ix-ez.jpg",
       "url": "5easysteps.html"
-    },
-    {
-      "title": "Making You",
-      "medium": "Single-channel video",
-      "year": "2015",
-      "description": "Promotional video, durational performance, and market research study unpacking the neoliberal subject and creative entrepreneur. By Anxious to Make.",
-      "image": "img/ix-makingyou.gif",
-      "url": "makingyou.html"
     },
     {
       "title": "Anxious to Make",
@@ -79,6 +71,14 @@ var data = {
       "description": "A collaborative project by Liat Berdugo and Emily Martinez about art, labor, entreprenuership, and the so-called \"sharing economy\".</span>",
       "image": "img/ix-anxious5.jpg",
       "url": "anxious.html"
+    },
+    {
+      "title": "Making You",
+      "medium": "Single-channel video",
+      "year": "2015",
+      "description": "Promotional video, durational performance, and market research study unpacking the neoliberal subject and creative entrepreneur. By Anxious to Make.",
+      "image": "img/ix-makingyou.gif",
+      "url": "makingyou.html"
     },
     {
       "title": "!Oye, Gringa!",
