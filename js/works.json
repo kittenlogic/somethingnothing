@@ -26,7 +26,7 @@ var data = {
     },
     {
       "title": "Risk",
-      "medium": "net art, study",
+      "medium": "Study, net art",
       "year": "2018",
       "description": "Visual risk calculator.",
       "image": "img/ix-risk.gif",

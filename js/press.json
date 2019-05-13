@@ -1,20 +1,20 @@
 var press = {
   "articles": [
     {
-      "publication":"Harama Magazine",
-      "title": "Issue #2: Disorientation (דיסאוריינטציה)",
-      "author": "Harama Magazine",
-      "date": "March 2019",
-      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
-      "url": "//manofim.org/harama/"
-    },
-    {
       "publication":"MIT Museum",
       "title": "Hot Steam II",
       "author": "Cambridge Community Television",
       "date": "April 18 2019",
       "text": "<p>Cambridge Community Television & the MIT Museum partnered up to bring you HOT STEAM II: A screening of beautiful and bizarre videos that investigate the magic combination of science, art, and technology. Participating artists include: Laura Hyunjhee Kim, Allison Kotzig, Nelmarie du Preez, Carla Gannis, Antonella Mignone & Cristiano Panepuccia (APOTROPIA), Duncan Poulton, Mohamadreza Tazari, Andrew Quitmeyer, Isabel Beavers & Laine Rettmer, Alejandro Schianchi, Sally Grizzell Larson, Alif Ibrahim, Francesca Leoni & Davide Mastrangelo, Misha Rabinovich, Haley Albert, James Murphy, Edward Ramsay-Morin, Dho Yee Chung, Anxious to Make (Liat Berdugo + Emily Martinez), Caspar Below, WEATHER MAN, Felice Hapetzeder, Christina Smiros, Derek Larson, & Chen Wang.</p>",
       "url": "//mitmuseum.mit.edu/csf"
+    },
+    {
+      "publication":"Harama Magazine",
+      "title": "Issue #2: Disorientation (דיסאוריינטציה)",
+      "author": "Harama Magazine",
+      "date": "March 2019",
+      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
+      "url": "//manofim.org/harama/"
     },
     {
       "publication":"NeMe Arts Centre",
@@ -42,8 +42,8 @@ var press = {
     },
     {
       "publication":"Telematic",
-      "title": "Eternal Boy Playground",
-      "author": "Telematic",
+      "title": "Eternal Boy Playground – solo exhibition",
+      "author": "Anxious to Make",
       "date": "December 15 2018 - February 2 2019",
       "text": "<p><em>Eternal Boy Playground</em> is a new experimental media art show by Anxious to Make  – the artist collective comprised of Liat Berdugo and Emily Martinez.</p><p>Eternal Boy Playground explores the cultural tropes surrounding cryptocurrencies like Bitcoin, particularly as they relate to the utopian ideals of the new “crypto-paradise” that a growing group of self-proclaimed “Puertopians”[1] have moved to Puerto Rico to realize in the wake of Hurricane Maria.</p><p>Works in the show address technological rituals, disaster capitalism, crypto-colonialism, whiteness, and Western perceptions of tropical landscapes as sites of luxury and indulgence. The exhibition asks, what does it mean to re-colonize Puerto Rico in the image of a crypto-based, techno-utopian fantasy?</p><p>[1] “ Puertopia” translates to “eternal boy playground” in Latin. When the  Puertopians (embarrassingly) discovered this, they changed their project’s name to “Sol”.</p>",
       "url": "//tttelematiccc.com/portfolio-item/eternal-boy-playground/"

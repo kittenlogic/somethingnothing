@@ -20,7 +20,7 @@ var newsArticle = _.template(
     "<div class='article-container small-10 small-centered columns'>" +
       "<article class='individual-article'>" +
         "<h3><%= date %> | <%= publication %></h3>" +
-        "<h4><a href= <%= url %> target='_blank'><%= title %></a> by <%= author %></h4>" +
+        "<h4><a href= <%= url %> target='_blank'><%= title %></a> 💫 <%= author %></h4>" +
         "<%= text %>" +
       "</article>" +
     "</div>"
