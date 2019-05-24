@@ -1,6 +1,46 @@
 var press = {
   "articles": [
     {
+      "publication":"New Media Caucus",
+      "title": "Border Control",
+      "author": "New Media Caucus",
+      "date": "September 20 - November 11, 2019",
+      "text": "<p>'The Insufferable Whiteness of Being' will be screened as part of the New Media Caucus exhibition, 'Border Control' at the Stamps Gallery Penny W. Stamps School of Art & Design in Ann Arbor, MI. Curated by <a href='//stamps.umich.edu/people/detail/srimoyee_mitra' target='_blank'>Srimoyee Mitra</a>, Allison Collins & Carrie Ida Edinger.</p>",
+      "url": ""
+    },
+    {
+      "publication":"Institute of Network Cultures",
+      "title": "Video Vortex",
+      "author": "Institute of Network Cultures",
+      "date": "September 26-28 2019",
+      "text": "<p>Anxious to Make project, 'They Paid Me to Give You a Tour of the Internet' will be on exhibition during the two-day conference, exhibition and screening program, Video Vortex XII at Spazju Kreattiv in Valletta, Malta.</p><p>About: VideoVortex is an artistic network concerned with the aesthetics and politics of online video. Since 2007, Video Vortex events, conferences, workshops, and exhibitions have taken place throughout (and outside of) Europe, and includes the publication of the first Video Vortex Reader (2008), and the second one being published March 2011. With this program, the Institute of Network Cultures in Amsterdam, and its project partners, have been initiating and facilitating a deep study of online video in its diverse forms and uses, and further, its impact both on, and within, the information society.</p>",
+      "url": "//vv12.org"
+    },
+    {
+      "publication":"Vector Festival",
+      "title": "Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes",
+      "author": "Vector Festival",
+      "date": "July 11–14 2019",
+      "text": "<p>'The Insufferable Whiteness of Being' will be screened in the program 'Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes,' curated by Shahbaz Khayambashi (Co-Chair of Pleasure Dome), for a group screening with the Vector Festival, July 11-14, 2019 across various locations in Toronto.</p><p>Participating artists: <a href='//en.wikipedia.org/wiki/Jennifer_Chan_(artist)' target='_blank'>Jennifer Chan</a>, <a href='//www.thirzacuthand.com/' target='_blank'>Thirza Cuthand</a>, Christina Battle, Tom Sherman, Anxious to Make (Liat Berdugo + Emily Martinez), Claire Scherzinger, John Greyson, and Geoffrey Pugen</p><p>About the program: The future is environmental disaster. Humanity is slowly but surely reaching the point of no return, a point of irreversible environmental damage, a point of mass extinction, widespread catastrophe and a step toward uninhabitability. This disaster is a human-made one, a result of a variety of factors including corrupt governance in the western world, dystopic late-stage capitalism, historic colonialism and seemingly endless war. This program is concerned with this current period of human activity, finding a group of artists asking where we can go from here, using views from the past, present and future. When the end seems to be looming and those who can do something about it refuse, what else is there to do but to sit back and watch it happen?</p><p>About Vector: Vector Festival is a participatory and community-oriented initiative dedicated to showcasing digital games and creative media practices. Presenting works across a dynamic range of exhibitions, screenings, performances, lectures, and workshops, Vector acts as a critical bridge between emergent digital platforms and new media art practice. Vector 2019 is curated by Katie Micak and Martin Zeilinger.</p>",
+      "url": "//vectorfestival.org/"
+    },
+    {
+      "publication":"Fringe Arts Bath",
+      "title": "FaB Festival",
+      "author": "Fringe Arts Bath",
+      "date": "May 24 - June 9 2019",
+      "text": "<p>'Liat Berdugo + Emily Martinez as Five Twins' will be screened as part of the program, 'SELF' during FaB Festival, Fringe Arts Bath, UK </p>",
+      "url": "//www.fringeartsbath.co.uk"
+    },
+    {
+      "publication":"Dignity and Power Now",
+      "title": "Rituals of Care: A Healing Justice Art Pop Up celebrating Resilience, Rituals, & (Re)Imagining Health💕",
+      "author": "Dignity and Power Now",
+      "date": "May 11-12 2019",
+      "text": "<p>Some work I’ve never shared publicly will be shared at this beautiful event: Rituals of Care: A Healing Justice Art Pop Up celebrating Resilience, Rituals, & (Re)Imagining Health💕 Celebrate the resilience & care within frontline communities working to abolish the carceral state. Come to CIELO GALLERIES for a weekend full of arts, rituals, & talks by folks impacted by mass incarceration & state violence. Children & Families Welcome! Interpretation Provided. Light snacks & dinner. Organized and curated by Cesia Dominguez. Hosted by Dignity and Power Now. May 11-12 2019</p>",
+      "url": "//bit.ly/ritualsofcare"
+    },
+    {
       "publication":"MIT Museum",
       "title": "Hot Steam II",
       "author": "Cambridge Community Television",
@@ -9,11 +49,19 @@ var press = {
       "url": "//mitmuseum.mit.edu/csf"
     },
     {
+      "publication":"UC Irvine",
+      "title": "Spectacular Grammar: Infrastructure as a Universal Language",
+      "author": "Renée Reizman",
+      "date": "April 6 2019",
+      "text": "<p>I'm co-running a #TechisNotNeutral workshop with my Color Coded fam on April 6 2019 for the 'Spectacular Grammar: Infrastructure as a Universal Language' symposium at UC Irvine. Participating artists / presenters: <a href='//mindyseu.com/' target='_blank'>Mindy Seu</a>, paige watkins, Color Coded, Feminist.AI Curated by Renée Reizman April 4–April 20, 2019 Room Gallery </p>",
+      "url": "//spectaculargrammar.hashbase.io/"
+    },
+    {
       "publication":"Harama Magazine",
       "title": "Issue #2: Disorientation (דיסאוריינטציה)",
       "author": "Harama Magazine",
       "date": "March 2019",
-      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
+      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/' target='_blank'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
       "url": "//manofim.org/harama/"
     },
     {
