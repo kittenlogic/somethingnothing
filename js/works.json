@@ -4,7 +4,7 @@ var data = {
       "title": "The Insufferable Whiteness of Being",
       "medium": "Single-channel video",
       "year": "2018",
-      "description": "Video+text unpacking a crypto-utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
+      "description": "Video+text unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
       "image": "img/ix-crypto.png",
       "url": "crypto.html"
     },
@@ -151,14 +151,6 @@ var data = {
       "description": "Homage to Javascript alert( ) spam.",
       "image": "img/ix-mystery.gif",
       "url": "mysteryprize.html"
-    },
-    {
-      "title": "Michael and Me",
-      "medium": "net art",
-      "year": "2011",
-      "description": "Every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death.",
-      "image": "img/ix-bed.jpg",
-      "url": "michaelandme.html"
     },
     {
       "title": "A.M.",

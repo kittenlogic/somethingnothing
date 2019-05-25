@@ -1,124 +1,124 @@
-var data = { 
+var data = {
   "works": [
     {
-      "title": "never enough", 
-      "medium": "net.art", 
+      "title": "never enough",
+      "medium": "net.art",
       "year": "2014",
       "description": "w4m m4m m4w w4w t4m m4t t4w w4t t4t mw4mw mw4w mw4m w4mw m4mw w4ww m4mm mm4m ww4w ww4m mm4w m4ww w4mm t4mw mw4t",
       "image": "img/ix-horny.png",
       "url": ""
     },
     {
-      "title": "$1,000,000,000 &#8710; scheme", 
-      "medium": "net.art", 
+      "title": "$1,000,000,000 &#8710; scheme",
+      "medium": "net.art",
       "year": "2014",
       "description": "law of attraction, affirmations, hypnosis, money, wealth, freedom",
       "image": "img/ix-billion.png",
       "url": "http://billiondollarpyramidscheme.com"
     },
     {
-      "title": "CTRL &#43; ALT &#43; KARDASHIAN", 
-      "medium": "net.art", 
+      "title": "CTRL &#43; ALT &#43; KARDASHIAN",
+      "medium": "net.art",
       "year": "2014",
       "description": "Kim, Kanye, positive thinking, topless dancers, hotdogs, neo-liberalism, etc",
       "image": "img/ix-ctrl.jpg",
       "url": "http://ctrlaltkardashian.com"
     },
     {
-      "title": "homelandsecurityhearts.us", 
-      "medium": "servers and servers, print on demand", 
+      "title": "homelandsecurityhearts.us",
+      "medium": "servers and servers, print on demand",
       "year": "2013 - ongoing",
       "description": "an open access, social media monitoring service and archive modeled after an official U.S. Department of Homeland Security \"Items of Interest\" (IOI) list of keywords and search terms",
       "image": "img/ix-homeland.jpg",
       "url": "homeland.html"
     },
     {
-      "title": "LOLZ, Los Angeles", 
-      "medium": "net.art, Twitter, and Twilio APIs, reverse meditations", 
+      "title": "LOLZ, Los Angeles",
+      "medium": "net.art, Twitter, and Twilio APIs, reverse meditations",
       "year": "2013",
       "description": "Meditate on that Gucci bag!",
       "image": "img/ix-yoga.png",
       "url": "yoga.html"
-    },  
+    },
     {
-      "title": "Hello World", 
-      "medium": "Google Maps API, Openpaths.cc", 
+      "title": "Hello World",
+      "medium": "Google Maps API, Openpaths.cc",
       "year": "2012 - ongoing",
       "description": "following myself since July 2012",
       "image": "img/ix-map.jpg",
       "url": "nothere.html"
-    },  
+    },
     {
-      "title": "in theory. . .", 
-      "medium": "net.art, generative text, TTS", 
+      "title": "in theory. . .",
+      "medium": "net.art, generative text, TTS",
       "year": "2012 - ongoing",
       "description": "a theoretically infinite, self-generating, epic narrative: on the origins of the universe, the nature of consciousness, and the meaning of life",
       "image": "img/ix-theory.jpg",
       "url": "intheory.html"
     },
     {
-      "title": "Anti-Apocalypse", 
-      "medium": "installation, HD video, custom software, EEG brain-computer interface", 
+      "title": "Anti-Apocalypse",
+      "medium": "installation, HD video, custom software, EEG brain-computer interface",
       "year": "2012",
       "description": "immersive digital cinema composed entirely of appropriated web content re/assembled as animated loops and remixed in real-time by the viewer's fluctuating brainwave rhythms",
       "image": "img/ix-apocalypse.jpg",
       "url": "anti-apocalypse.html"
     },
     {
-      "title": "A.M.", 
-      "medium": "installation, radios, custom software, custom electronics", 
+      "title": "A.M.",
+      "medium": "installation, radios, custom software, custom electronics",
       "year": "2010",
       "description": "this life, afterlife, sound immemorial",
       "image": "img/clear.png",
       "url": "A.M.html"
     },
     {
-      "title": "mysteryPrize( )", 
-      "medium": "net.art", 
+      "title": "mysteryPrize( )",
+      "medium": "net.art",
       "year": "2012",
       "description": "found romance and lottery scams, animated gifs, casino sounds, Juju magic, $, &lt;3, war, classic .js spam",
       "image": "img/ix-mystery.png",
       "url": "http://mysteryprize.biz"
-    }, 
+    },
     {
-      "title": "Michael and Me", 
-      "medium": "installation, social media, love", 
+      "title": "Michael and Me",
+      "medium": "net art",
       "year": "2011",
-      "description": "comprised of every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death",
+      "description": "Every Michael Jackson-related post circulated by my Facebook network within the 24-hour period following the rumor and confirmation of his death.",
       "image": "img/ix-bed.jpg",
       "url": "michaelandme.html"
     },
     {
-      "title": "Speaking in Parables Will Get You Nowhere With This Crowd", 
-      "medium": "Balbone Martinez", 
+      "title": "Speaking in Parables Will Get You Nowhere With This Crowd",
+      "medium": "Balbone Martinez",
       "year": "2007-2010",
       "description": "incantations, psychosis, tactical magic: a selection of works from a collaborative project by Michael Balbone and Emily Martinez",
       "image": "img/ix-parable.jpg",
       "url": "balbonemartinez.html"
-    }, 
+    },
     {
-      "title": "Fun with Numbers!", 
-      "medium": "Balbone Martinez", 
+      "title": "Fun with Numbers!",
+      "medium": "Balbone Martinez",
       "year": "2008",
       "description": "site specific installation, statistics, glitter, trash",
       "image": "img/ix-housingcrash.jpg",
       "url": "funwithnumbers.html"
-    }, 
+    },
     {
-      "title": "Meditations: Homesick", 
-      "medium": "digital prints", 
+      "title": "Meditations: Homesick",
+      "medium": "digital prints",
       "year": "2006",
       "description": "portraits, still lifes, atmospheres",
       "image": "img/ix-homesick.jpg",
       "url": "meditations.html"
     },
     {
-      "title": "Disasters", 
-      "medium": "postcard series", 
+      "title": "Disasters",
+      "medium": "postcard series",
       "year": "2005",
       "description": "found photographs, \"special events\" photo sticker captions, end times",
       "image": "img/ix-disasters.jpg",
       "url": "disasters.html"
-    }   
+    }
   ]
 }
