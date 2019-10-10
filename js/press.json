@@ -17,6 +17,22 @@ var press = {
       "url": "//vv12.org"
     },
     {
+      "publication":"NAVEL.LA",
+      "title": "The Zapatista Wi-Fi Rebellion",
+      "author": "gloria galvez",
+      "date": "September 20, 22-23",
+      "text": "<p>Anxious to Make's project, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition <em>Glitching the System Exhibition</em>, organized by <a href='//gloria-galvez.com' target='_blank'>gloria galvez</a> at NAVEL in Los Angeles. Participating artists: Fran Ilich, Taniel Morales, Anxious to Make, <a href='//taeyoonchoi.com/' target='_blank'>Taeyoon Choi</a>, Aboriginal Territories in Cyberspace.</p><p>I will also be co-facilitating a workshop on <a href='//navel.la/events/zapatista-colorcoded/' target='_blank'>movement technology in the age of big tech</a> with Color Coded.</p><p>About: Inspired by the digital presence of Zapatistas on the internet as a phenomenon with massive possibilities for broad-based resistance beyond Mexico, The Zapatista Wi-Fi Rebellion is a program that aims to educate and activate audiences around rebellious internet usage in corporate imperial cyberspace. Consisting of an exhibition titled Glitching the System, a screening of The Sixth Sun: Mayan Uprising in Chiapas followed by a skype with artist Skawennati, lectures by Fran Ilich and Daniela Lieja Quintanar, a workshop and zine by Color Coded, The Zapatista Wi-Fi Rebellion is the third installment in NAVEL’s ongoing series The New Internet Commons.</p>",
+      "url": "//navel.la/events/zapatista/"
+    },
+    {
+      "publication":"Free Radicals",
+      "title": "The Radical’s Survival Guide to Adventures in Cryptoland: Can Cryptocurrencies Save Us All?",
+      "author": "Anna Khatt",
+      "date": "September 5 2019",
+      "text": "<p>Shout out to <a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> in this amazing zine exploring \"a radical’s perspective on whether cryptocurrencies will help us pave a road to liberation… or further deepen the void. Can a decentralized digital currency free us all or will it replicate and exacerbate current systems of inequity under capitalism?\"</p><p>About: Free Radicals is an activist collective dedicated to creating a more socially just, equitable, and accountable science. They create accessible resources for political education on the intersection of science and social justice and collaborate with local progressive organizing efforts on issues related to science and technology.</p>",
+      "url": "//freerads.org/2019/09/05/the-radicals-survival-guide-to-adventures-in-cryptoland-can-cryptocurrencies-save-us-all/"
+    },
+    {
       "publication":"Vector Festival",
       "title": "Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes",
       "author": "Vector Festival",
