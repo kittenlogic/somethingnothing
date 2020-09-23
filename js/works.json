@@ -1,20 +1,20 @@
 var data = {
   "works": [
     {
-      "title": "The Insufferable Whiteness of Being",
-      "medium": "Single-channel video",
-      "year": "2018",
-      "description": "Video+text unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
-      "image": "img/ix-crypto.png",
-      "url": "insufferable-whiteness-of-being.html"
-    },
-    {
       "title": "Queer AI",
       "medium": "Artificial Intelligence",
       "year": "2018 - ongoing",
       "description": "AIs trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
       "image": "img/ix-queer.jpg",
       "url": "queerai.html"
+    },
+    {
+      "title": "The Insufferable Whiteness of Being",
+      "medium": "Single-channel video",
+      "year": "2018",
+      "description": "Video+text unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
+      "image": "img/ix-crypto.png",
+      "url": "insufferable-whiteness-of-being.html"
     },
     {
       "title": "2018, Bro!",
