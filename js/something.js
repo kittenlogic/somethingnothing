@@ -30,7 +30,7 @@ var fixedTopBarNavigation = _.template(
     "<nav class='top-bar' data-topbar>" +
       "<ul class='title-area'>" +
         "<li class='name'>" +
-           "<h1><a href='index.html'>EMILY MARTINEZ</a></h1>" +
+           "<h1><a href='/'>EMILY MARTINEZ</a></h1>" +
         "</li>" +
         "<li class='toggle-topbar menu-icon'><a href='#''><span></span></a></li>" +
       "</ul>" +
@@ -39,8 +39,8 @@ var fixedTopBarNavigation = _.template(
         "<li class='has-dropdown'>" +
           "<a href='index.html'>PROJECTS</a>" +
           "<ul class='dropdown'>" +
-            "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
             "<li><a href='queerai.html'>Queer AI</a></li>" +
+            "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
             "<li><a href='risk.html'>Risk</a></li>" +
             "<li><a href='bro.html'>2018, Bro!</a></li>" +
             "<li><a href='unthinking.html'>Unthinking the Sharing Economy</a></li>" +
