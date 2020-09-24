@@ -4,7 +4,7 @@ var data = {
       "title": "Queer AI",
       "medium": "Artificial Intelligence",
       "year": "2018 - ongoing",
-      "description": "AIs trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
+      "description": "Machine learning models trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
       "image": "img/ix-queer.jpg",
       "url": "queerai.html"
     },
@@ -12,8 +12,8 @@ var data = {
       "title": "The Insufferable Whiteness of Being",
       "medium": "Single-channel video",
       "year": "2018",
-      "description": "Video+text unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
-      "image": "img/ix-crypto.png",
+      "description": "Video unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
+      "image": "img/ix-crypto-blanco.jpg",
       "url": "insufferable-whiteness-of-being.html"
     },
     {
@@ -140,7 +140,7 @@ var data = {
       "title": "Anti-Apocalypse",
       "medium": "Installation, HD video, custom software, EEG brain-computer interface",
       "year": "2012",
-      "description": "Immersive cinema that looks at how manifestations of the image in digital, networked media function as a social (optical) unconscious for catastrophic narratives and traumatic episodes to re-occur",
+      "description": "Immersive cinema that looks at how manifestations of the image in digital, networked media function as a social (optical) unconscious for catastrophic narratives and traumatic episodes to reoccur",
       "image": "img/ix-apocalypse.jpg",
       "url": "anti-apocalypse.html"
     },
@@ -148,7 +148,7 @@ var data = {
       "title": "mysteryPrize( )",
       "medium": "net art",
       "year": "2012",
-      "description": "Homage to Javascript alert( ) spam.",
+      "description": "Love spells, war, capitalism, and homage to Javascript alert( ) spam.",
       "image": "img/ix-mystery.gif",
       "url": "mysteryprize.html"
     },
