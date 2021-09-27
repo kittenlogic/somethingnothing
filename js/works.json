@@ -1,9 +1,25 @@
 var data = {
   "works": [
     {
+      "title": "ML5.js Community Starter Kit",
+      "medium": "Artificial Intelligence",
+      "year": "2020 - ongoing",
+      "description": "A beginner's guide to machine learning focused on text-generating bots. Centering the needs of communities interested in working with their own texts, archives, and “small data”.",
+      "image": "img/ix-charrnn.gif",
+      "url": "ml5toolkit.html"
+    },
+    {
+      "title": "Unsupervised Pleasures",
+      "medium": "Artificial Intelligence",
+      "year": "2020 - ongoing",
+      "description": "ongoing experiments in machine learning.",
+      "image": "img/ix-pleasures.gif",
+      "url": "unsupervisedpleasures.html"
+    },
+    {
       "title": "Queer AI",
       "medium": "Artificial Intelligence",
-      "year": "2018 - ongoing",
+      "year": "2018 - 2020",
       "description": "Machine learning models trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
       "image": "img/ix-queer.jpg",
       "url": "queerai.html"
@@ -12,17 +28,9 @@ var data = {
       "title": "The Insufferable Whiteness of Being",
       "medium": "Single-channel video",
       "year": "2018",
-      "description": "Video unpacking a crypto-millionaire led utopian project in Puerto Rico within the larger historical context of colonialism and exploitation on the island.",
-      "image": "img/ix-crypto-blanco.jpg",
+      "description": "video about a crypto-millionaire led utopian project in Puerto Rico, framed within the larger historical context of colonialism and exploitation on the island.",
+      "image": "img/ix-crypto-real.jpg",
       "url": "insufferable-whiteness-of-being.html"
-    },
-    {
-      "title": "2018, Bro!",
-      "medium": "Custom calendar",
-      "year": "2018",
-      "description": "365 days of tech masculinity.",
-      "image": "img/ix-bro.jpg",
-      "url": "bro.html"
     },
     {
       "title": "Risk",
@@ -31,6 +39,14 @@ var data = {
       "description": "Visual risk calculator.",
       "image": "img/ix-risk.gif",
       "url": "risk.html"
+    },
+    {
+      "title": "2018, Bro!",
+      "medium": "Custom calendar",
+      "year": "2018",
+      "description": "365 days of tech masculinity.",
+      "image": "img/ix-bro.jpg",
+      "url": "bro.html"
     },
     {
       "title": "Unthinking the Sharing Economy",
@@ -42,9 +58,9 @@ var data = {
     },
     {
       "title": "Future of Work",
-      "medium": "Book",
+      "medium": "e-Book",
       "year": "2016",
-      "description": "Book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. 140 pages. By Anxious to Make. Commissioned by V2_ Lab for the Unstable Media",
+      "description": "e-Book about neoliberal values, entrepreneurship, labor, automation, and the gig economy. Aggregated from 100+ survey results. 140 pages. By Anxious to Make. Commissioned by V2_ Lab for the Unstable Media",
       "image": "img/ix-future.jpg",
       "url": "future.html"
     },
@@ -92,7 +108,7 @@ var data = {
       "title": "Portraits of Cocaine",
       "medium": "Study",
       "year": "2015",
-      "description": "A study of white privilege.",
+      "description": "A study of whiteness.",
       "image": "img/ix-cocaine.jpg",
       "url": "cocaine.html"
     },
