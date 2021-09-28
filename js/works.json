@@ -25,10 +25,10 @@ var data = {
       "url": "zines.html"
     },
     {
-      "title": "Queer AI",
+      "title": "Queer AI Chatbot",
       "medium": "Artificial Intelligence",
       "year": "2018 - 2020",
-      "description": "Machine learning models trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
+      "description": "A chatbot trained on 50,000+ conversational pairs derived from scripts in queer theatre. Collaboration with Ben Lerchin.",
       "image": "img/ix-queer.jpg",
       "url": "queerai.html"
     },
@@ -164,7 +164,7 @@ var data = {
       "title": "Anti-Apocalypse",
       "medium": "Installation, HD video, custom software, EEG brain-computer interface",
       "year": "2012",
-      "description": "Immersive cinema examining how manifestations of the image in digital, networked media function as a social (optical) unconscious of catastrophic narratives and traumatic episodes",
+      "description": "Immersive cinema examining how manifestations of the image in digital, networked media function as a social (optical) unconscious of catastrophic narratives and traumatic episodes.",
       "image": "img/ix-apocalypse.jpg",
       "url": "anti-apocalypse.html"
     },

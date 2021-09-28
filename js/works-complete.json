@@ -1,6 +1,22 @@
 var data = {
   "works": [
     {
+      "title": "Queer AI Chatbots",
+      "medium": "Artificial Intelligence",
+      "year": "2018 - 2020",
+      "description": "Machine learning models trained on erotic literature, feminist and queer theory, and an ethics of embodiment. Collaboration with Ben Lerchin.",
+      "image": "img/ix-queer.jpg",
+      "url": "queerai.html"
+    },
+    {
+      "title": "Cock Unblocker",
+      "medium": "Chrome Browser Extention",
+      "year": "2018",
+      "description": "Job hunting tool.",
+      "image": "img/ix-cock.jpg",
+      "url": "cock-unblocker.html"
+    },
+    {
       "title": "never enough",
       "medium": "net.art",
       "year": "2014",
