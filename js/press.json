@@ -5,7 +5,7 @@ var press = {
       "title": "'Never Shall We Labour' exhibition",
       "author": "Centre Cívic Can Felipa",
       "date": "October 2021",
-      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition, 'Never Shall We Labour' at the Centre Cívic Can Felipa, Barcelona, Spain. Curated by Irene Angenica.",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank' rel='noopener noreferrer'>WWWORK</a> will be screened in the exhibition, 'Never Shall We Labour' at the Centre Cívic Can Felipa, Barcelona, Spain. Curated by Irene Angenica.",
       "url": "//www.cccanfelipa.cat/arts-visuals/"
     },
     {
@@ -21,15 +21,15 @@ var press = {
       "title": "5th International Bad Video Art Festival",
       "author": "International Bad Video Art Festival",
       "date": "September 17-29  2021",
-      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/toughlovegenerator' target='_blank'>Tough Love Generator</a> will be screening at the 5th edition of the International Bad Video Art Festival from September 17-29  2021 at Gallery Bomba (@gallerybomba), Moscow, Russia.</p>",
+      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/toughlovegenerator' target='_blank' rel='noopener noreferrer'>Tough Love Generator</a> will be screening at the 5th edition of the International Bad Video Art Festival from September 17-29  2021 at Gallery Bomba (@gallerybomba), Moscow, Russia.</p>",
       "url": "//www.badvideoart.com/v-selections-2021"
     },
     {
-      "publication":"Wavelength curatorial collaborative and Gardenship.art",
+      "publication":"Wavelength and Gardenship.art",
       "title": "Pandemic Projections: Visions for a New Normal",
-      "author": "Wavelength curatorial collaborative and Gardenship.art",
+      "author": "Wavelength and Gardenship.art",
       "date": "September 3, 2021",
-      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank'>Quitting</a> will be screened on Friday, September 3, 2021 from 8:00 PM  9:00 PM at Gardenship 205 Campus Drive, Kearny, NJ, 07032, United States </p><p>About: Visions for a New Normal follows the first edition of #pandemicprojections which took place over the course of 10 evenings at the height of the pandemic in spring/summer 2020. The events  focused on themes of Nature/Spring/Rebirth. One year later, artists we again asked to consider the future with the following prompts; What do you hope for? What do you envision?  What has been lost? What would you like to regain? What does the future hold?  26 experimental video and sound works were selected for this edition.</p>",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank' rel='noopener noreferrer'>Quitting</a> will be screened on Friday, September 3, 2021 from 8:00 PM  9:00 PM at Gardenship 205 Campus Drive, Kearny, NJ, 07032, United States </p><p>About: Visions for a New Normal follows the first edition of #pandemicprojections which took place over the course of 10 evenings at the height of the pandemic in spring/summer 2020. The events  focused on themes of Nature/Spring/Rebirth. One year later, artists we again asked to consider the future with the following prompts; What do you hope for? What do you envision?  What has been lost? What would you like to regain? What does the future hold?  26 experimental video and sound works were selected for this edition.</p>",
       "url": "//www.gardenship.art/events/pandemic-projections-1"
     },
     {
@@ -45,8 +45,32 @@ var press = {
       "title": "< die digitale dusseldorf > Festival",
       "author": "die digitale dusseldorf",
       "date": "Oct 30 - Nov 15, 2020",
-      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/161268973' target='_blank'>Making Others</a> will be exhibited at this year’s <die digitale dusseldorf> festival for digital art, music and contemporary criticism. The festival runs from Oct 30 - Nov 15, 2020 in Weltkunstzimmer, Düsseldorf, Germany.</p><p>About: die digitale dusseldorf focuses on the productive relationships between creativity and digital technology in subculture clubs and established cultural spaces.</p>",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/161268973' target='_blank' rel='noopener noreferrer'>Making Others</a> will be exhibited at this year’s <die digitale dusseldorf> festival for digital art, music and contemporary criticism. The festival runs from Oct 30 - Nov 15, 2020 in Weltkunstzimmer, Düsseldorf, Germany.</p><p>About: die digitale dusseldorf focuses on the productive relationships between creativity and digital technology in subculture clubs and established cultural spaces.</p>",
       "url": "//die-digitale.net/"
+    },
+    {
+      "publication":"Processing Foundation",
+      "title": "What Can Machine Learning Teach Us About Ourselves?, Interview with Emily Martinez, ml5.js Fellow 2020",
+      "author": "Johanna Hedva",
+      "date": "September 9 2020",
+      "text": "<p>Excerpt: JH: As a writer myself, I’m always fascinated with the language part of working with programming languages — not only that they follow certain grammar rules, but that there are poetic possibilities, narrative possibilities. Can you speak a little about how the many uses of language functioned in your project? How did you conceptualize that?</p><p> EM: Within the context of unsupervised machine learning for text-generation, I’ve been thinking a lot about the difference between using machine learning for poetics vs. prediction. And how to best use ML language-generating bots as tools for world-building, mirroring, and self-reflection.</p><p> So far, my work with AI is focused on using private (one-to-one) conversational chatbots as a strategy for experimenting with machine-learning models trained on carefully curated content that explores pleasure, reflects difference, and accounts for the nuances of small, marginalized, or intentional communities—their identities, lexicons, vernaculars, sexualities, and sub/cultures.</p><p> I like private chatbots because I think they elicit a very different type of interaction than, say, a public Twitter bot. The conditions inherent in private (one-to-one) chat hold the potential to engender an intimate and self-reflexive experience much more easily than the conditions set up by a public (one-to-many) chat, where the inclination to perform habitual tasks of information querying/retrieval or to test the bots limits (e.g. harassment) are more common. When you know no one is watching or that you are your only audience, the dynamic changes, the expectations change, the questions change. As a result, the interactions tend to be more confessional, more introspective, more vulnerable. <a href='https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890' target='_blank' rel='noopener noreferrer'>[Read more...]</a></p>",
+      "url": "//medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890"
+    },
+    {
+      "publication":"Art in America",
+      "title": "Art about Amazon Expresses Vulnerable Humanity in the Face of a Ubiquitous Behemoth",
+      "author": "Kate Durbin",
+      "date": "March 5 2020",
+      "text": "<p>Excerpt: An October 2019 news item about Amazon warehouse workers said they were commanded to continue their shifts after a coworker died on the job.³ The implication was that the life of workers doesn’t matter. Only their labor does. Jeff Bezos’s first name for Amazon was Cadabra, like a spell, but he changed it when people on the phone heard it as “cadaver.”4 The anecdote is horrifically apt.</p><p>Amazon is a totalizing system that has changed how we buy everything from books to groceries. In 2018 it announced a plan to enter the health care industry. The corporation seems to have its fingers in almost every sector. It’s no surprise, then, that Amazon’s negative effects are many. [...]</p><p>The Future of Work (2016), a zine that is part of a larger, ongoing project by the collective Anxious to Make (Liat Berdugo and Emily Martinez), aggregates more than one hundred results from a survey asking participants about the sharing economy and gig labor. Many respondents were contract workers found on MTurk, where surveys are a common form of work. Anxious to Make’s survey questions are equally serious and playful. “Do you ever feel like algorithms are your boss?” asks one. The zine paints an absurdist, ambivalent picture of the present. Some workers feel tenuous and uncertain about the gig economy while others embrace it.</p>",
+      "url": "//www.artnews.com/art-in-america/features/art-amazon-vulnerability-resistance-1202679983/"
+    },
+    {
+      "publication":"Media-N, Journal of the New Media Caucus",
+      "title": "Humans Are Underrated: Art & Labor in the Amazon Economy: 'Seeing Blocks and Crypto Bros', Media-N 16(1): 91-94",
+      "author": "Liat Berdugo and Emily Martinez",
+      "date": "March 2020",
+      "text": "<p>I contributed some writing about class and labor organizing on MTurk to this article. Starts on page 91, second paragraph: \"One of our first projects as Anxious to Make...\" and ends at the top of page 94 with the sentence \"Furthermore, they note that the challenges of online coordination, divided loyalties, and the risks that agitation may expose participants to harm make it difficult to sustain or scale efforts.\" Everything else is Liat, lol.</p>",
+      "url": "//doi.org/10.21900/j.median.v16i1.225"
     },
     {
       "publication":"Processing Foundation",
@@ -61,7 +85,7 @@ var press = {
       "title": "CtrlZ.AI Zine Fair",
       "author": "FAT* CRAFT sessions",
       "date": "January 30, 2020",
-      "text": "<p>Queer AI's zine, \"What do you know about intergenerational trauma?\" is part of the \"Convoluted Layer\" at Ctrl.AI on January 30, 2020 from 9am-5pm at Flowers by Bornay Melcior de Palau, 32-36 08028 Barcelona, Spain</p><p>About: CtrlZ.AI is a zine fair focused on technology and artificial intelligence (AI). It's a creative intervention for those who are critical of AI and what these new technologies have to offer us. While the discourse coming out of Silicon Valley breathlessly promotes the seemingly endless utility and potential of AI, most of the rest of us — especially those of us who are members of marginalized communities — view these technologies with skepticism and concern. CtrlZ.AI is a joint project by Emily Denton and Alex Hanna and is financially supported by Google.</p>",
+      "text": "<p>Queer AI's zine, \"What do you know about intergenerational trauma?\" is part of the \"Convolutional_Layer\" at Ctrl.AI on January 30, 2020 from 9am-5pm at Flowers by Bornay Melcior de Palau, 32-36 08028 Barcelona, Spain</p><p>About: CtrlZ.AI is a zine fair focused on technology and artificial intelligence (AI). It's a creative intervention for those who are critical of AI and what these new technologies have to offer us. While the discourse coming out of Silicon Valley breathlessly promotes the seemingly endless utility and potential of AI, most of the rest of us — especially those of us who are members of marginalized communities — view these technologies with skepticism and concern. CtrlZ.AI is a joint project by Emily Denton and Alex Hanna and is financially supported by Google.</p>",
       "url": "//ctrlz.ai/"
     },
     {
@@ -93,7 +117,7 @@ var press = {
       "title": "Border Control",
       "author": "New Media Caucus 2019 Symposium and Exhibition",
       "date": "September 20 - November 11, 2019",
-      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened as part of the New Media Caucus 2019 Symposium and Exhibition, 'Border Control' at the Stamps Gallery in the Penny W. Stamps School of Art & Design, Ann Arbor, MI. Curated by <a href='//stamps.umich.edu/people/detail/srimoyee_mitra' target='_blank'>Srimoyee Mitra</a>, <a href='//front.bc.ca/?s=Allison+Collins&x=0&y=0' target='_blank'>Allison Collins</a> & Carrie Ida Edinger.</p>",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened as part of the New Media Caucus 2019 Symposium and Exhibition, 'Border Control' at the Stamps Gallery in the Penny W. Stamps School of Art & Design, Ann Arbor, MI. Curated by <a href='//stamps.umich.edu/people/detail/srimoyee_mitra' target='_blank' rel='noopener noreferrer'>Srimoyee Mitra</a>, <a href='//front.bc.ca/?s=Allison+Collins&x=0&y=0' target='_blank' rel='noopener noreferrer'>Allison Collins</a> & Carrie Ida Edinger.</p>",
       "url": "//stamps.umich.edu/exhibitions/detail/border_control_new_media_caucus_2019_symposium_and_exhibition"
     },
     {
@@ -101,7 +125,7 @@ var press = {
       "title": "Video Vortex",
       "author": "Institute of Network Cultures",
       "date": "September 26-28 2019",
-      "text": "<p>Anxious to Make's project, <a href='//anxioustomake.ga/temporaryartreview.html' target='_blank'>They Paid Me to Give You a Tour of the Internet</a> will be on exhibition during Video Vortex XII, a two-day conference and exhibition of 50+ lectures, performances, screenings and workshops at Spazju Kreattiv in Valletta, Malta.</p><p>About: VideoVortex is an artistic network concerned with the aesthetics and politics of online video. Since 2007, Video Vortex events, conferences, workshops, and exhibitions have taken place throughout (and outside of) Europe, and includes the publication of the <a href='//networkcultures.org/videovortex/vv-reader/' target='_blank'>Video Vortex Reader</a> I (2008) and II (2011).</p>",
+      "text": "<p>Anxious to Make's project, <a href='//anxioustomake.ga/temporaryartreview.html' target='_blank' rel='noopener noreferrer'>They Paid Me to Give You a Tour of the Internet</a> will be on exhibition during Video Vortex XII, a two-day conference and exhibition of 50+ lectures, performances, screenings and workshops at Spazju Kreattiv in Valletta, Malta.</p><p>About: VideoVortex is an artistic network concerned with the aesthetics and politics of online video. Since 2007, Video Vortex events, conferences, workshops, and exhibitions have taken place throughout (and outside of) Europe, and includes the publication of the <a href='//networkcultures.org/videovortex/vv-reader/' target='_blank' rel='noopener noreferrer'>Video Vortex Reader</a> I (2008) and II (2011).</p>",
       "url": "//vv12.org"
     },
     {
@@ -109,8 +133,16 @@ var press = {
       "title": "The Zapatista Wi-Fi Rebellion",
       "author": "gloria galvez",
       "date": "September 20, 22-23",
-      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition <em>Glitching the System Exhibition</em>, organized by <a href='//gloria-galvez.com' target='_blank'>gloria galvez</a> at NAVEL in Los Angeles. Participating artists: Fran Ilich, Taniel Morales, Anxious to Make, <a href='//taeyoonchoi.com/' target='_blank'>Taeyoon Choi</a>, Aboriginal Territories in Cyberspace.</p><p>I will also be co-facilitating a workshop on <a href='//navel.la/events/zapatista-colorcoded/' target='_blank'>movement technology in the age of big tech</a> with Color Coded.</p><p>About: Inspired by the digital presence of Zapatistas on the internet as a phenomenon with massive possibilities for broad-based resistance beyond Mexico, The Zapatista Wi-Fi Rebellion is a program that aims to educate and activate audiences around rebellious internet usage in corporate imperial cyberspace. Consisting of an exhibition titled Glitching the System, a screening of The Sixth Sun: Mayan Uprising in Chiapas followed by a skype with artist Skawennati, lectures by Fran Ilich and Daniela Lieja Quintanar, a workshop and zine by Color Coded, The Zapatista Wi-Fi Rebellion is the third installment in NAVEL’s ongoing series The New Internet Commons.</p>",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank' rel='noopener noreferrer'>WWWORK</a> will be screened in the exhibition <em>Glitching the System Exhibition</em>, organized by <a href='//gloria-galvez.com' target='_blank' rel='noopener noreferrer'>gloria galvez</a> at NAVEL in Los Angeles. Participating artists: Fran Ilich, Taniel Morales, Anxious to Make, <a href='//taeyoonchoi.com/' target='_blank' rel='noopener noreferrer'>Taeyoon Choi</a>, Aboriginal Territories in Cyberspace.</p><p>I will also be co-facilitating a workshop on <a href='//navel.la/events/zapatista-colorcoded/' target='_blank' rel='noopener noreferrer'>movement technology in the age of big tech</a> with Color Coded.</p><p>About: Inspired by the digital presence of Zapatistas on the internet as a phenomenon with massive possibilities for broad-based resistance beyond Mexico, The Zapatista Wi-Fi Rebellion is a program that aims to educate and activate audiences around rebellious internet usage in corporate imperial cyberspace. Consisting of an exhibition titled Glitching the System, a screening of The Sixth Sun: Mayan Uprising in Chiapas followed by a skype with artist Skawennati, lectures by Fran Ilich and Daniela Lieja Quintanar, a workshop and zine by Color Coded, The Zapatista Wi-Fi Rebellion is the third installment in NAVEL’s ongoing series The New Internet Commons.</p>",
       "url": "//navel.la/events/zapatista/"
+    },
+    {
+      "publication":"Hyperallergic",
+      "title": "Stamps Gallery and New Media Caucus Present Border Control: Traversing Horizons in Media Practice",
+      "author": "University of Michigan, Stamps School of Art & Design",
+      "date": "September 16 2019",
+      "text": "<p>Excerpt: Border Control, a weekend-long symposium with corresponding exhibition at University of Michigan’s Stamps Gallery, responds to these conditions,  asking: “How has humanity made sense of the world in relation to borders and boundaries, both physically and psychologically?” [...] </p><p>The exhibition is curated by Allison Collins in collaboration with Carrie Edinger and Srimoyee Mitra and presented in partnership with the New Media Caucus. Artists include Annabel Castro, Mahwish Chisty, Lyn Goeringer, Ryan Griffis & Sarah Ross, Kate Hollenbach, Carrie Hott, X.A. Li, Rebekah Modrak, Abhishek Narula, Joel Ong, Jon Packles, Aislinn E. Pentecost-Farren, Susan Rochester, José Carlos Teixeira, Alex Turner, and Sabato Visconti.</p><p> Short film contributions were made by Nadav Assor, Anxious to Make (Liat Berdugo + Emily Martinez), Yaminay Chaudhri, Andrew Demirjian, José Guadalupe Garza & Miriam Ruíz, and Rick Silva.</p>",
+      "url": "//hyperallergic.com/517047/stamps-gallery-and-new-media-caucus-present-border-control-traversing-horizons-in-media-practice/"
     },
     {
       "publication":"Free Radicals",
@@ -125,7 +157,7 @@ var press = {
       "title": "Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes",
       "author": "Vector Festival",
       "date": "July 11–14 2019",
-      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened in the program 'Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes,' curated by Shahbaz Khayambashi (Co-Chair of Pleasure Dome), for a group screening with the Vector Festival, July 11-14, 2019 across various locations in Toronto.</p><p>Participating artists: <a href='//en.wikipedia.org/wiki/Jennifer_Chan_(artist)' target='_blank'>Jennifer Chan</a>, <a href='//www.thirzacuthand.com/' target='_blank'>Thirza Cuthand</a>, Christina Battle, Tom Sherman, Anxious to Make (Liat Berdugo + Emily Martinez), Claire Scherzinger, John Greyson, and Geoffrey Pugen</p><p>About the program: The future is environmental disaster. Humanity is slowly but surely reaching the point of no return, a point of irreversible environmental damage, a point of mass extinction, widespread catastrophe and a step toward uninhabitability. This disaster is a human-made one, a result of a variety of factors including corrupt governance in the western world, dystopic late-stage capitalism, historic colonialism and seemingly endless war. This program is concerned with this current period of human activity, finding a group of artists asking where we can go from here, using views from the past, present and future. When the end seems to be looming and those who can do something about it refuse, what else is there to do but to sit back and watch it happen?</p><p>About Vector: Vector Festival is a participatory and community-oriented initiative dedicated to showcasing digital games and creative media practices. Presenting works across a dynamic range of exhibitions, screenings, performances, lectures, and workshops, Vector acts as a critical bridge between emergent digital platforms and new media art practice. Vector 2019 is curated by Katie Micak and Martin Zeilinger.</p>",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened in the program 'Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes,' curated by Shahbaz Khayambashi (Co-Chair of Pleasure Dome), for a group screening with the Vector Festival, July 11-14, 2019 across various locations in Toronto.</p><p>Participating artists: <a href='//en.wikipedia.org/wiki/Jennifer_Chan_(artist)' target='_blank' rel='noopener noreferrer'>Jennifer Chan</a>, <a href='//www.thirzacuthand.com/' target='_blank' rel='noopener noreferrer'>Thirza Cuthand</a>, Christina Battle, Tom Sherman, Anxious to Make (Liat Berdugo + Emily Martinez), Claire Scherzinger, John Greyson, and Geoffrey Pugen</p><p>About the program: The future is environmental disaster. Humanity is slowly but surely reaching the point of no return, a point of irreversible environmental damage, a point of mass extinction, widespread catastrophe and a step toward uninhabitability. This disaster is a human-made one, a result of a variety of factors including corrupt governance in the western world, dystopic late-stage capitalism, historic colonialism and seemingly endless war. This program is concerned with this current period of human activity, finding a group of artists asking where we can go from here, using views from the past, present and future. When the end seems to be looming and those who can do something about it refuse, what else is there to do but to sit back and watch it happen?</p><p>About Vector: Vector Festival is a participatory and community-oriented initiative dedicated to showcasing digital games and creative media practices. Presenting works across a dynamic range of exhibitions, screenings, performances, lectures, and workshops, Vector acts as a critical bridge between emergent digital platforms and new media art practice. Vector 2019 is curated by Katie Micak and Martin Zeilinger.</p>",
       "url": "//vectorfestival.org/"
     },
     {
@@ -133,7 +165,7 @@ var press = {
       "title": "Single Channel Video Selection",
       "author": "Currents New Media Festival",
       "date": "June 7 - 23 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited at the annual festival of media arts, digital performance, and interactive installation in venues across Santa Fe, New Mexico.</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited at the annual festival of media arts, digital performance, and interactive installation in venues across Santa Fe, New Mexico.</p>",
       "url": "//currentsnewmedia.org/"
     },
     {
@@ -141,7 +173,7 @@ var press = {
       "title": "FaB Festival",
       "author": "Fringe Arts Bath",
       "date": "May 24 - June 9 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank'>Liat Berdugo + Emily Martinez as Five Twins</a> will be screened as part of the program, 'SELF' during FaB Festival, Fringe Arts Bath, UK </p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be screened as part of the program, 'SELF' during FaB Festival, Fringe Arts Bath, UK </p>",
       "url": "//www.fringeartsbath.co.uk"
     },
     {
@@ -149,7 +181,7 @@ var press = {
       "title": "Rituals of Care: A Healing Justice Art Pop Up celebrating Resilience, Rituals, & (Re)Imagining Health",
       "author": "Dignity and Power Now",
       "date": "May 11-12 2019",
-      "text": "<p>Some work I’ve never shared publicly will be shared at this beautiful event: Rituals of Care: A Healing Justice Art Pop Up celebrating Resilience, Rituals, & (Re)Imagining Health💕 Celebrate the resilience & care within frontline communities working to abolish the carceral state. Come to CIELO GALLERIES for a weekend full of arts, rituals, & talks by folks impacted by mass incarceration & state violence. Children & Families Welcome! Interpretation Provided. Light snacks & dinner. Organized and curated by <a href='//www.instagram.com/lanecia_sucia/' target='_blank'>Cesia Dominguez Lopez</a>. Hosted by Dignity and Power Now. May 11-12 2019</p>",
+      "text": "<p>Some work I’ve never shared publicly will be shared at this beautiful event: Rituals of Care: A Healing Justice Art Pop Up celebrating Resilience, Rituals, & (Re)Imagining Health💕 Celebrate the resilience & care within frontline communities working to abolish the carceral state. Come to CIELO GALLERIES for a weekend full of arts, rituals, & talks by folks impacted by mass incarceration & state violence. Children & Families Welcome! Interpretation Provided. Light snacks & dinner. Organized and curated by <a href='//www.instagram.com/lanecia_sucia/' target='_blank' rel='noopener noreferrer'>Cesia Dominguez Lopez</a>. Hosted by Dignity and Power Now. May 11-12 2019</p>",
       "url": "//bit.ly/ritualsofcare"
     },
     {
@@ -157,7 +189,7 @@ var press = {
       "title": "Hot Steam II",
       "author": "Cambridge Community Television",
       "date": "April 18 2019",
-      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/dolphinaccelerator.html'>Dolphin Accelerator</a> will be screened as part of Hot Steam II.</p><p>Cambridge Community Television & the MIT Museum partnered up to bring you HOT STEAM II: A screening of beautiful and bizarre videos that investigate the magic combination of science, art, and technology. Participating artists include: <a href='//www.lauraonsale.com/' target='_blank'>Laura Hyunjhee Kim</a>, Allison Kotzig, Nelmarie du Preez, <a href='//carlagannis.com/' target='_blank'>Carla Gannis</a>, Antonella Mignone & Cristiano Panepuccia (APOTROPIA), Duncan Poulton, Mohamadreza Tazari, Andrew Quitmeyer, Isabel Beavers & Laine Rettmer, Alejandro Schianchi, Sally Grizzell Larson, Alif Ibrahim, Francesca Leoni & Davide Mastrangelo, Misha Rabinovich, Haley Albert, James Murphy, Edward Ramsay-Morin, Dho Yee Chung, Anxious to Make (Liat Berdugo + Emily Martinez), Caspar Below, WEATHER MAN, Felice Hapetzeder, Christina Smiros, Derek Larson, & Chen Wang.</p>",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/dolphinaccelerator.html'>Dolphin Accelerator</a> will be screened as part of Hot Steam II.</p><p>Cambridge Community Television & the MIT Museum partnered up to bring you HOT STEAM II: A screening of beautiful and bizarre videos that investigate the magic combination of science, art, and technology. Participating artists include: <a href='//www.lauraonsale.com/' target='_blank' rel='noopener noreferrer'>Laura Hyunjhee Kim</a>, Allison Kotzig, Nelmarie du Preez, <a href='//carlagannis.com/' target='_blank' rel='noopener noreferrer'>Carla Gannis</a>, Antonella Mignone & Cristiano Panepuccia (APOTROPIA), Duncan Poulton, Mohamadreza Tazari, Andrew Quitmeyer, Isabel Beavers & Laine Rettmer, Alejandro Schianchi, Sally Grizzell Larson, Alif Ibrahim, Francesca Leoni & Davide Mastrangelo, Misha Rabinovich, Haley Albert, James Murphy, Edward Ramsay-Morin, Dho Yee Chung, Anxious to Make (Liat Berdugo + Emily Martinez), Caspar Below, WEATHER MAN, Felice Hapetzeder, Christina Smiros, Derek Larson, & Chen Wang.</p>",
       "url": "//mitmuseum.mit.edu/csf"
     },
     {
@@ -165,7 +197,7 @@ var press = {
       "title": "Spectacular Grammar: Infrastructure as a Universal Language",
       "author": "Renée Reizman",
       "date": "April 6 2019",
-      "text": "<p>I'm co-running a #TechisNotNeutral workshop with my Color Coded fam on April 6 2019 for the 'Spectacular Grammar: Infrastructure as a Universal Language' symposium at UC Irvine. Participating artists / presenters: <a href='//mindyseu.com/' target='_blank'>Mindy Seu</a>, <a href='//www.blackbottomarchives.com/' target='_blank'>paige watkins</a>, <a href='//colorcoded.la' target='_blank'>Color Coded</a>, and <a href='//www.feminist.ai/' target='_blank'>Feminist.AI</a>. Curated by <a href='//www.reneereizman.com/Spectacular-Grammar-Infrastructure-as-a-Universal-Language' target='_blank'>Renée Reizman</a>. Exhibition runs from April 4 – April 20, 2019 Room Gallery </p>",
+      "text": "<p>I'm co-running a #TechisNotNeutral workshop with my Color Coded fam on April 6 2019 for the 'Spectacular Grammar: Infrastructure as a Universal Language' symposium at UC Irvine. Participating artists / presenters: <a href='//mindyseu.com/' target='_blank' rel='noopener noreferrer'>Mindy Seu</a>, <a href='//www.blackbottomarchives.com/' target='_blank' rel='noopener noreferrer'>paige watkins</a>, <a href='//colorcoded.la' target='_blank' rel='noopener noreferrer'>Color Coded</a>, and <a href='//www.feminist.ai/' target='_blank' rel='noopener noreferrer'>Feminist.AI</a>. Curated by <a href='//www.reneereizman.com/Spectacular-Grammar-Infrastructure-as-a-Universal-Language' target='_blank' rel='noopener noreferrer'>Renée Reizman</a>. Exhibition runs from April 4 – April 20, 2019 Room Gallery </p>",
       "url": "//spectaculargrammar.hashbase.io/"
     },
     {
@@ -173,7 +205,7 @@ var press = {
       "title": "Issue #2: Disorientation (דיסאוריינטציה)",
       "author": "Harama Magazine",
       "date": "March 2019",
-      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/' target='_blank'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
+      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/' target='_blank' rel='noopener noreferrer'>anxioustomake.ga</a> is featured as part of Issue #2: Disorientation in Harama Magazine</p>",
       "url": "//manofim.org/harama/"
     },
     {
@@ -181,7 +213,7 @@ var press = {
       "title": "Self as Actor: Colonising Identity",
       "author": "NeMe Arts Centre",
       "date": "February 15 - March 25 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited in this show that considers the colonization of personal data online.</p><p>Participating artists: Benjamin Grosser, Derek Curry and Jennifer Gradecki, Tyler Coburn, Alexia Achilleos, Anxious to Make (Liat Berdugo and Emily Martinez), The Kammari Research Group (Sakari Laurila, Lau Lukkarila, Niklas Toivakainen), Christina Smiros, Lanfranco Aceti, Hazel Soper, Baris Parlan, Andreas Papallas, Sid and Jim (Sidney Smith and Jim Bicknell Knight), Maria Alexandrou. Invited artist: Adam Harvey</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited in this show that considers the colonization of personal data online.</p><p>Participating artists: Benjamin Grosser, Derek Curry and Jennifer Gradecki, Tyler Coburn, Alexia Achilleos, Anxious to Make (Liat Berdugo and Emily Martinez), The Kammari Research Group (Sakari Laurila, Lau Lukkarila, Niklas Toivakainen), Christina Smiros, Lanfranco Aceti, Hazel Soper, Baris Parlan, Andreas Papallas, Sid and Jim (Sidney Smith and Jim Bicknell Knight), Maria Alexandrou. Invited artist: Adam Harvey</p>",
       "url": "//www.neme.org/blog/self-as-actor-press"
     },
     {
@@ -189,7 +221,7 @@ var press = {
       "title": "Who Does What?",
       "author": "Drugo More",
       "date": "February 14 - March 7 2019",
-      "text": "<p>Anxious to Make's <a href='//anxioustomake.ga/nevertalkaboutyourworkagain.html' target='_blank'>This Artwork is About the Sharing Economy</a> will be in the exhibition, <em>Who Does What?</em> at Drugo More, Rijeka, Croatia. </p><p>About: Together with the symposium of the same name, as part of the fourteenth edition of <em>Mine, Yours, Ours festival</em>, the exhibition <em>Who Does What?</em> looks at how work is performed, delegated, outsourced, crowdsourced, transformed, destabilized, disguised, displaced, concealed and revealed, rejected and reclaimed. <em>WDW?</em> focuses on the present of work, a time in which work is as present as ever.</p><p>Curated by <a href='//silviolorusso.com/' target='_blank'>Silvio Lorusso</a>. Featuring works by <a href='//anxioustomake.ga/' target='_blank'>Anxious to Make</a>, <a href='//deconstructeam.itch.io/' target='_blank'>Deconstructeam</a>, <a href='//constantdullaart.com/' target='_blank'>Constant Dullaart</a>, <a href='//en.wikipedia.org/wiki/Maria_Eichhorn' target='_blank'>Maria Eichhorn</a>, <a href='//samkidel.bandcamp.com/' target='_blank'>Sam Kidel</a>, <a href='//theofficeofalinalupu.com/' target='_blank'>Alina Lupu</a>, <a href='//www.francoisgm.com/' target='_blank'>François Girard Meunier</a>, <a href='//www.elisagiardinapapa.org/' target='_blank'>Elisa Giardina Papa</a>, <a href='//www.ottonieroeder.de/' target='_blank'>Ottonie Von Roeder</a>, <a href='//sebastianschmieg.com/' target='_blank'>Sebastian Schmieg</a> and <a href='//www.jeffreythompson.org/'>Jeff Thompson</a>.</p>",
+      "text": "<p>Anxious to Make's <a href='//anxioustomake.ga/nevertalkaboutyourworkagain.html' target='_blank' rel='noopener noreferrer'>This Artwork is About the Sharing Economy</a> will be in the exhibition, <em>Who Does What?</em> at Drugo More, Rijeka, Croatia. </p><p>About: Together with the symposium of the same name, as part of the fourteenth edition of <em>Mine, Yours, Ours festival</em>, the exhibition <em>Who Does What?</em> looks at how work is performed, delegated, outsourced, crowdsourced, transformed, destabilized, disguised, displaced, concealed and revealed, rejected and reclaimed. <em>WDW?</em> focuses on the present of work, a time in which work is as present as ever.</p><p>Curated by <a href='//silviolorusso.com/' target='_blank' rel='noopener noreferrer'>Silvio Lorusso</a>. Featuring works by <a href='//anxioustomake.ga/' target='_blank' rel='noopener noreferrer'>Anxious to Make</a>, <a href='//deconstructeam.itch.io/' target='_blank' rel='noopener noreferrer'>Deconstructeam</a>, <a href='//constantdullaart.com/' target='_blank' rel='noopener noreferrer'>Constant Dullaart</a>, <a href='//en.wikipedia.org/wiki/Maria_Eichhorn' target='_blank' rel='noopener noreferrer'>Maria Eichhorn</a>, <a href='//samkidel.bandcamp.com/' target='_blank' rel='noopener noreferrer'>Sam Kidel</a>, <a href='//theofficeofalinalupu.com/' target='_blank' rel='noopener noreferrer'>Alina Lupu</a>, <a href='//www.francoisgm.com/' target='_blank' rel='noopener noreferrer'>François Girard Meunier</a>, <a href='//www.elisagiardinapapa.org/' target='_blank' rel='noopener noreferrer'>Elisa Giardina Papa</a>, <a href='//www.ottonieroeder.de/' target='_blank' rel='noopener noreferrer'>Ottonie Von Roeder</a>, <a href='//sebastianschmieg.com/' target='_blank' rel='noopener noreferrer'>Sebastian Schmieg</a> and <a href='//www.jeffreythompson.org/'>Jeff Thompson</a>.</p>",
       "url": "//drugo-more.hr/en/who-does-what/"
     },
     {
@@ -229,7 +261,7 @@ var press = {
       "title": "CRYP2PTO: Imaginarios y máquinas para la autodeterminación",
       "author": "Centro Cultural Border y Centro Cultural de España en Mexico City",
       "date": "October 25 2018 - January 13 2019",
-      "text": "<p>A working prototype of <a href='queerai.html'>Queer AI</a> will be exhibited at <em>CRYPTO: Imaginaries and machines for self-determination</em> in Mexico City.</p><p>About: In the course of the last decades, various agents have emerged that denounce the ways in which technology is used and co-opted by power as a means of social, economic and cultural control.</p><p><em>CRYPTO: Imaginaries and machines for self-determination</em> articulates and  confronts aspects of the structures of the mentioned powers through digital tools, applications, pieces of art, DIY instructions, websites, global initiatives, groups of programmers, artists, technologists, crypto-democrats, info-activists, civic hackers and associations chosen for their genuine interest in defending the freedoms of information and other areas of public life that relate to decentralizing imaginaries and P2P philosophies ( peer to peer or networks between pairs). Curated by <a href='//www.gibrannmorgado.com/' target='_blank'>Gibrann Morgado</a>. Selection committee: Siobhan Guerrero, Javier Lara, Eugenio Echeverría.</p>",
+      "text": "<p>A working prototype of <a href='queerai.html'>Queer AI</a> will be exhibited at <em>CRYPTO: Imaginaries and machines for self-determination</em> in Mexico City.</p><p>About: In the course of the last decades, various agents have emerged that denounce the ways in which technology is used and co-opted by power as a means of social, economic and cultural control.</p><p><em>CRYPTO: Imaginaries and machines for self-determination</em> articulates and  confronts aspects of the structures of the mentioned powers through digital tools, applications, pieces of art, DIY instructions, websites, global initiatives, groups of programmers, artists, technologists, crypto-democrats, info-activists, civic hackers and associations chosen for their genuine interest in defending the freedoms of information and other areas of public life that relate to decentralizing imaginaries and P2P philosophies ( peer to peer or networks between pairs). Curated by <a href='//www.gibrannmorgado.com/' target='_blank' rel='noopener noreferrer'>Gibrann Morgado</a>. Selection committee: Siobhan Guerrero, Javier Lara, Eugenio Echeverría.</p>",
       "url": "//www.border.com.mx/crypto-imaginarios-y-maquinas-para-la-autodeterminacion-gibrann-morgado/"
     },
     {
@@ -237,7 +269,7 @@ var press = {
       "title": "OFF THE WALL",
       "author": "Arts + Literature Laboratory",
       "date": "August 2018",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank'>Liat Berdugo + Emily Martinez as Five Twins</a> is screening along with M.I.A. and Flying Lotus during the first weekend at OFF THE WALL.</p><p>About: OFF THE WALL is a nighttime, outdoor screening series of contemporary video art. The series aims to present a survey of the most compelling and innovative moving image works from a broad cross-section of artists—local to international, emerging to mid-career.</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> is screening along with M.I.A. and Flying Lotus during the first weekend at OFF THE WALL.</p><p>About: OFF THE WALL is a nighttime, outdoor screening series of contemporary video art. The series aims to present a survey of the most compelling and innovative moving image works from a broad cross-section of artists—local to international, emerging to mid-career.</p>",
       "url": "//artlitlab.org/events/off-the-wall-2018"
     },
     {
@@ -261,7 +293,7 @@ var press = {
       "title": "La Faz de la Tierra",
       "author": "Espacio Pla",
       "date": "July 2018",
-      "text": "<p>Anxious to Make's <a href='//anxioustomake.ga/afterwork.html' target='_blank'>After Work</a> will be shown in the framework of a reboot of Eduardo Pla’s video installation <em>Videomundo Virtual</em>, a work made in 1995 for the 50th anniversary of the United Nations. On this occasion the installation is presented with videos selected from an international call, which invites curators and artists to reflect on the concept of Globalization and the distance between two moments in history: 1995 and 2018.</p><p>Shout out to my mom and dad, for helping to translate the text into Español. 💕 </p>",
+      "text": "<p>Anxious to Make's <a href='//anxioustomake.ga/afterwork.html' target='_blank' rel='noopener noreferrer'>After Work</a> will be shown in the framework of a reboot of Eduardo Pla’s video installation <em>Videomundo Virtual</em>, a work made in 1995 for the 50th anniversary of the United Nations. On this occasion the installation is presented with videos selected from an international call, which invites curators and artists to reflect on the concept of Globalization and the distance between two moments in history: 1995 and 2018.</p><p>Shout out to my mom and dad, for helping to translate the text into Español. 💕 </p>",
       "url": "//lafazdelatierravideo.wordpress.com/"
     },
     {
@@ -269,7 +301,7 @@ var press = {
       "title": "Artistic Approaches to the Interface",
       "author": "Hangar Centre for Art Research and Production",
       "date": "June 2018",
-      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/' target='_blank'>anxioustomake.ga</a> is featured as part of the Critical Interface Toolbox, in Section 4: Artistic Approaches to the Interface</p><p>About: The Critical Interface Toolbox unfolds as an online resource that exposes experimental methodologies, practices, and tools aimed at enhancing critical thought towards the actual configuration of the Interface. These actions were developed within a year-long research project at HANGAR. This initiative is part of the European Consortium IMAGIT and fits in with the research and actions developed at the <a href='//interfacemanifesto.hangar.org/index.php/Main_Page' target='_blank'>Interface Manifesto</a>. Main research topics: #Internet Physicality; #Geopolitics of the Internet; #Internet Backbone; #Data Flows & CO2 emissions; #Online Tracking; #Data Privacy; #Code; #Language; #Cognitive Capitalism; #Anthropocene; #Algorithmic Politics; #Social Engineering; #Interface Governance; #Critical Design; #Quantification; #Corporate Design; #Community Design; #Hacktivism. </p>",
+      "text": "<p>Anxious to Make's website, <a href='//anxioustomake.ga/' target='_blank' rel='noopener noreferrer'>anxioustomake.ga</a> is featured as part of the Critical Interface Toolbox, in Section 4: Artistic Approaches to the Interface</p><p>About: The Critical Interface Toolbox unfolds as an online resource that exposes experimental methodologies, practices, and tools aimed at enhancing critical thought towards the actual configuration of the Interface. These actions were developed within a year-long research project at HANGAR. This initiative is part of the European Consortium IMAGIT and fits in with the research and actions developed at the <a href='//interfacemanifesto.hangar.org/index.php/Main_Page' target='_blank' rel='noopener noreferrer'>Interface Manifesto</a>. Main research topics: #Internet Physicality; #Geopolitics of the Internet; #Internet Backbone; #Data Flows & CO2 emissions; #Online Tracking; #Data Privacy; #Code; #Language; #Cognitive Capitalism; #Anthropocene; #Algorithmic Politics; #Social Engineering; #Interface Governance; #Critical Design; #Quantification; #Corporate Design; #Community Design; #Hacktivism. </p>",
       "url": "//crit.hangar.org/toolbox/"
     },
     {
