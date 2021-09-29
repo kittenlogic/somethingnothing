@@ -44,7 +44,7 @@ var data = {
       "title": "Risk",
       "medium": "Finance app",
       "year": "2018",
-      "description": "Visual risk calculator.",
+      "description": "A visual risk calculator, monitoring the stock prices of the top ten U.S. weapons manufacturers.",
       "image": "img/ix-risk.gif",
       "url": "risk.html"
     },

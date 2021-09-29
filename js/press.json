@@ -1,6 +1,94 @@
 var press = {
   "articles": [
     {
+      "publication":"Centre Cívic Can Felipa",
+      "title": "'Never Shall We Labour' exhibition",
+      "author": "Centre Cívic Can Felipa",
+      "date": "October 2021",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition, 'Never Shall We Labour' at the Centre Cívic Can Felipa, Barcelona, Spain. Curated by Irene Angenica.",
+      "url": "//www.cccanfelipa.cat/arts-visuals/"
+    },
+    {
+      "publication":"Berkeley Center for New Media",
+      "title": "'Refamiliarization' exhibition",
+      "author": "Berkeley Center for New Media",
+      "date": "Sep 29 - Oct 1 2021",
+      "text": "<p>Anxious to Make's 'Performative Validations' video series will be screening at the Berkeley Center for New Media, University of California, Berkeley from Sep 29 - Oct 1 2021. Curated by Justin Berner and Julia Irwin.</p>",
+      "url": "//www.refamiliarization.org/"
+    },
+    {
+      "publication":"International Bad Video Art Festival",
+      "title": "5th International Bad Video Art Festival",
+      "author": "International Bad Video Art Festival",
+      "date": "September 17-29  2021",
+      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/toughlovegenerator' target='_blank'>Tough Love Generator</a> will be screening at the 5th edition of the International Bad Video Art Festival from September 17-29  2021 at Gallery Bomba (@gallerybomba), Moscow, Russia.</p>",
+      "url": "//www.badvideoart.com/v-selections-2021"
+    },
+    {
+      "publication":"Wavelength curatorial collaborative and Gardenship.art",
+      "title": "Pandemic Projections: Visions for a New Normal",
+      "author": "Wavelength curatorial collaborative and Gardenship.art",
+      "date": "September 3, 2021",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank'>Quitting</a> will be screened on Friday, September 3, 2021 from 8:00 PM  9:00 PM at Gardenship 205 Campus Drive, Kearny, NJ, 07032, United States </p><p>About: Visions for a New Normal follows the first edition of #pandemicprojections which took place over the course of 10 evenings at the height of the pandemic in spring/summer 2020. The events  focused on themes of Nature/Spring/Rebirth. One year later, artists we again asked to consider the future with the following prompts; What do you hope for? What do you envision?  What has been lost? What would you like to regain? What does the future hold?  26 experimental video and sound works were selected for this edition.</p>",
+      "url": "//www.gardenship.art/events/pandemic-projections-1"
+    },
+    {
+      "publication":"IMPAKT Centre for Media Culture",
+      "title": "Disrupt and Reflect",
+      "author": "IMPAKT Centre for Media Culture",
+      "date": "Feb - August 2021",
+      "text": "<p>Anxious to Make has work online in “Disrupt and Reflect”, curated by Nadine Roestenburg and the research track Post-Digital Cultures at Fontys University of Applied Sciences, Utrecht, NL.</p>",
+      "url": "//disrupt.impakt.nl/#HOME"
+    },
+    {
+      "publication":"die digitale dusseldorf",
+      "title": "< die digitale dusseldorf > Festival",
+      "author": "die digitale dusseldorf",
+      "date": "Oct 30 - Nov 15, 2020",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/161268973' target='_blank'>Making Others</a> will be exhibited at this year’s <die digitale dusseldorf> festival for digital art, music and contemporary criticism. The festival runs from Oct 30 - Nov 15, 2020 in Weltkunstzimmer, Düsseldorf, Germany.</p><p>About: die digitale dusseldorf focuses on the productive relationships between creativity and digital technology in subculture clubs and established cultural spaces.</p>",
+      "url": "//die-digitale.net/"
+    },
+    {
+      "publication":"Processing Foundation",
+      "title": "P5.js 1.0 Release Party x Processing Community Day",
+      "author": "USC School of Cinematic Arts Gallery",
+      "date": "Feb 29, 2020 ",
+      "text": "<p>Some weird thing I made in P5.js many years ago will be on display at this party. 👽</p>",
+      "url": "//twitter.com/p5xjs/status/1233832777381924864?lang=en"
+    },
+    {
+      "publication":"2020 ACM Conference on Fairness, Accountability, and Transparency (FAT*)",
+      "title": "CtrlZ.AI Zine Fair",
+      "author": "FAT* CRAFT sessions",
+      "date": "January 30, 2020",
+      "text": "<p>Queer AI's zine, \"What do you know about intergenerational trauma?\" is part of the \"Convoluted Layer\" at Ctrl.AI on January 30, 2020 from 9am-5pm at Flowers by Bornay Melcior de Palau, 32-36 08028 Barcelona, Spain</p><p>About: CtrlZ.AI is a zine fair focused on technology and artificial intelligence (AI). It's a creative intervention for those who are critical of AI and what these new technologies have to offer us. While the discourse coming out of Silicon Valley breathlessly promotes the seemingly endless utility and potential of AI, most of the rest of us — especially those of us who are members of marginalized communities — view these technologies with skepticism and concern. CtrlZ.AI is a joint project by Emily Denton and Alex Hanna and is financially supported by Google.</p>",
+      "url": "//ctrlz.ai/"
+    },
+    {
+      "publication":"Unrequited Leisure",
+      "title": "Solo show at Unrequited Leisure, Nashville, TN.",
+      "author": "Unrequited Leisure",
+      "date": "Jan 4 - Feb 2, 2020",
+      "text": "<p>Anxious to Make will have a solo exhibition of its video works at this artist-run space in downtown Nashville. Opening Reception Jan 4, 6-10pm.</p>",
+      "url": "//unrequitedleisure.com"
+    },
+    {
+      "publication":"Institute of Network Cultures",
+      "title": "MoneyLab #7: Outside of Finance",
+      "author": "Institute of Network Cultures",
+      "date": "November 14-15 2019",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will screen in Tolhuistuin, Amsterdam at the seventh edition of MoneyLab, which considers feminist economics, social payments, corporate crime, and the blockchain.</p>",
+      "url": "//networkcultures.org/moneylab/events/moneylab-7-outside-of-finance/"
+    },
+    {
+      "publication":"Mozilla Festival",
+      "title": "Queering the Corpus Workshop: AI agents for an internet of kin",
+      "author": "Mozfest 2019",
+      "date": "October 27 2019",
+      "text": "<p>Emily and Ben run a UX workshop featuring Queer AI on Sunday, October 27, 2019 from 14:00-15:00. In this session they explore ways to create safe, fun, and pleasurable human-machine interactions that meet the needs and desires of a diversity of sensibilities and actors.</p>",
+      "url": "//discourse.mozilla.org/t/queering-the-corpus-workshop-ai-agents-for-an-internet-of-kin/46748"
+    },
+    {
       "publication":"New Media Caucus",
       "title": "Border Control",
       "author": "New Media Caucus 2019 Symposium and Exhibition",
@@ -21,7 +109,7 @@ var press = {
       "title": "The Zapatista Wi-Fi Rebellion",
       "author": "gloria galvez",
       "date": "September 20, 22-23",
-      "text": "<p>Anxious to Make's project, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition <em>Glitching the System Exhibition</em>, organized by <a href='//gloria-galvez.com' target='_blank'>gloria galvez</a> at NAVEL in Los Angeles. Participating artists: Fran Ilich, Taniel Morales, Anxious to Make, <a href='//taeyoonchoi.com/' target='_blank'>Taeyoon Choi</a>, Aboriginal Territories in Cyberspace.</p><p>I will also be co-facilitating a workshop on <a href='//navel.la/events/zapatista-colorcoded/' target='_blank'>movement technology in the age of big tech</a> with Color Coded.</p><p>About: Inspired by the digital presence of Zapatistas on the internet as a phenomenon with massive possibilities for broad-based resistance beyond Mexico, The Zapatista Wi-Fi Rebellion is a program that aims to educate and activate audiences around rebellious internet usage in corporate imperial cyberspace. Consisting of an exhibition titled Glitching the System, a screening of The Sixth Sun: Mayan Uprising in Chiapas followed by a skype with artist Skawennati, lectures by Fran Ilich and Daniela Lieja Quintanar, a workshop and zine by Color Coded, The Zapatista Wi-Fi Rebellion is the third installment in NAVEL’s ongoing series The New Internet Commons.</p>",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/wwwork.html' target='_blank'>WWWORK</a> will be screened in the exhibition <em>Glitching the System Exhibition</em>, organized by <a href='//gloria-galvez.com' target='_blank'>gloria galvez</a> at NAVEL in Los Angeles. Participating artists: Fran Ilich, Taniel Morales, Anxious to Make, <a href='//taeyoonchoi.com/' target='_blank'>Taeyoon Choi</a>, Aboriginal Territories in Cyberspace.</p><p>I will also be co-facilitating a workshop on <a href='//navel.la/events/zapatista-colorcoded/' target='_blank'>movement technology in the age of big tech</a> with Color Coded.</p><p>About: Inspired by the digital presence of Zapatistas on the internet as a phenomenon with massive possibilities for broad-based resistance beyond Mexico, The Zapatista Wi-Fi Rebellion is a program that aims to educate and activate audiences around rebellious internet usage in corporate imperial cyberspace. Consisting of an exhibition titled Glitching the System, a screening of The Sixth Sun: Mayan Uprising in Chiapas followed by a skype with artist Skawennati, lectures by Fran Ilich and Daniela Lieja Quintanar, a workshop and zine by Color Coded, The Zapatista Wi-Fi Rebellion is the third installment in NAVEL’s ongoing series The New Internet Commons.</p>",
       "url": "//navel.la/events/zapatista/"
     },
     {
@@ -29,7 +117,7 @@ var press = {
       "title": "The Radical’s Survival Guide to Adventures in Cryptoland: Can Cryptocurrencies Save Us All?",
       "author": "Anna Khatt",
       "date": "September 5 2019",
-      "text": "<p>Shout out to <a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> in this amazing zine exploring \"a radical’s perspective on whether cryptocurrencies will help us pave a road to liberation… or further deepen the void. Can a decentralized digital currency free us all or will it replicate and exacerbate current systems of inequity under capitalism?\"</p><p>About: Free Radicals is an activist collective dedicated to creating a more socially just, equitable, and accountable science. They create accessible resources for political education on the intersection of science and social justice and collaborate with local progressive organizing efforts on issues related to science and technology.</p>",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> is referenced in this zine exploring \"a radical’s perspective on whether cryptocurrencies will help us pave a road to liberation… or further deepen the void. Can a decentralized digital currency free us all or will it replicate and exacerbate current systems of inequity under capitalism?\"</p><p>About: Free Radicals is an activist collective dedicated to creating a more socially just, equitable, and accountable science. They create accessible resources for political education on the intersection of science and social justice and collaborate with local progressive organizing efforts on issues related to science and technology.</p>",
       "url": "//freerads.org/2019/09/05/the-radicals-survival-guide-to-adventures-in-cryptoland-can-cryptocurrencies-save-us-all/"
     },
     {
