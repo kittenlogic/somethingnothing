@@ -416,6 +416,9 @@ a[href^="A.M.html"] > .featured-image {
 }
 .bio img {
   padding-top: 15px;
+  width: 200px;
+  float: left;
+  padding-right: 20px;
 }
 
 .contact{
