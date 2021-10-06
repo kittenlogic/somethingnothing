@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Goethe-Institut San Francisco",
+      "title": "NODES. ART+TECH ENCOUNTER: Creativity and AI, Panel discussion",
+      "author": "Goethe-Institut San Francisco",
+      "date": "Oct. 7, 2021",
+      "text": "Join R. Buse Çetin, Luc Steels, Sarah Ciston and Emily Martinez for a discussion about the intersection of creativity and AI. Moderated by Xiaowei Wang and Bettina Wodianka. Oct. 7, 2021 at 10:00 am PDT/1 pm EDT/7pm CEST",
+      "url": "https://www.goethe.de/ins/us/en/sta/sfr/ver.cfm?fuseaction=events.detail&event_id=22368835"
+    },
+    {
       "publication":"Centre Cívic Can Felipa",
       "title": "'Never Shall We Labour' exhibition",
       "author": "Centre Cívic Can Felipa",
