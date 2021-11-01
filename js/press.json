@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Oxy Arts",
+      "title": "Speculative Blueprints for Critical AI",
+      "author": "Encoding Future: Critical Imaginaries of AI",
+      "date": "Oct. 30, 2021",
+      "text": "<p>Join us on Zoom 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟑𝟎, 2021 𝐟𝐫𝐨𝐦 𝟏-𝟑𝐩𝐦 for a virtual symposium—𝘚𝘱𝘦𝘤𝘶𝘭𝘢𝘵𝘪𝘷𝘦 𝘉𝘭𝘶𝘦𝘱𝘳𝘪𝘯𝘵𝘴 𝘧𝘰𝘳 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘈𝘐. Hear from a select group of cultural workers, machine learning researchers, and media studies scholars as they share their conceptual blueprints for critical AI. Link in bio to register. ⁣This virtual symposium invites participants to envision speculative AI futures articulated in the form of creative blueprints. Participants will imagine how both extant technologies and those not yet developed could contribute to just systems and visions of futurity. The primary criterion for the blueprints will be alignment with FAccT rubrics, i.e., fairness, accountability, and transparency in sociotechnical systems.⁣ Participants include: 𝐍𝐚𝐧𝐜𝐲 𝐁𝐚𝐤𝐞𝐫 𝐂𝐚𝐡𝐢𝐥𝐥, 𝐀𝐦𝐢𝐫 𝐁𝐚𝐫𝐚𝐝𝐚𝐫𝐚𝐧, 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐨 𝐃𝐢𝐚𝐳 (𝐜𝐨-𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐫), 𝐀𝐥𝐥𝐢𝐬𝐨𝐧 𝐝𝐞 𝐅𝐫𝐞𝐧, 𝐌𝐚𝐬𝐡𝐢𝐧𝐤𝐚 𝐅𝐢𝐫𝐮𝐧𝐭𝐬 𝐇𝐚𝐤𝐨𝐩𝐢𝐚𝐧 (𝐜𝐨-𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐫), 𝐍𝐨𝐫𝐚 𝐊𝐡𝐚𝐧, 𝐒𝐮𝐳𝐚𝐧𝐧𝐞 𝐊𝐢𝐭𝐞, 𝐄𝐦𝐢𝐥𝐲 𝐌𝐚𝐫𝐭𝐢𝐧𝐞𝐳, 𝐋𝐚𝐮𝐫𝐞𝐧 𝐋𝐞𝐞 𝐌𝐜𝐂𝐚𝐫𝐭𝐡𝐲, 𝐍𝐢𝐚𝐦𝐚 𝐒𝐚𝐟𝐢𝐚 𝐒𝐚𝐧𝐝𝐲, 𝐀𝐧𝐮𝐫𝐚𝐝𝐡𝐚 𝐕𝐢𝐤𝐫𝐚𝐦, 𝐚𝐧𝐝 𝐂𝐥𝐚𝐢𝐫𝐞 𝐖𝐞𝐛𝐛.⁣</p>",
+      "url": "https://occidental.zoom.us/webinar/register/WN_-busRBa9RQ2C_fp1u77rTA"
+    },
+    {
       "publication":"Goethe-Institut San Francisco",
       "title": "NODES. ART+TECH ENCOUNTER: Creativity and AI, Panel discussion",
       "author": "Goethe-Institut San Francisco",
