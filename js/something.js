@@ -45,6 +45,7 @@ var fixedTopBarNavigation = _.template(
             "<li><a href='queerai.html'>Queer AI Chatbots</a></li>" +
             "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
             "<li><a href='risk.html'>Risk</a></li>" +
+            "<li><a href='cockunblocker.html'>Cock Unblocker</a></li>" +
             "<li><a href='bro.html'>2018, Bro!</a></li>" +
             "<li><a href='unthinking.html'>Unthinking the Sharing Economy</a></li>" +
             "<li><a href='future.html'>The Future of Work</a></li>" +
