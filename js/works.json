@@ -4,7 +4,7 @@ var data = {
       "title": "Unsupervised Pleasures",
       "medium": "Artificial Intelligence",
       "year": "2020 - ongoing",
-      "description": "Experiments in AI poetry and multimodal AI",
+      "description": "Experiments in AI poetry and multimodal AI. ft 'Ultimate Fantasy', a collection of short stories and poems written by Queer AI (v2)",
       "image": "img/ix-pleasures.jpg",
       "url": "unsupervisedpleasures.html"
     },
@@ -49,10 +49,18 @@ var data = {
       "url": "risk.html"
     },
     {
+      "title": "Cock Unblocker",
+      "medium": "Browser Extension",
+      "year": "2018",
+      "description": "Job search tool. Replaces 'ninja', 'wizard', 'stallion', 'rockstar' and 'unicorn' with what tech startups really want... COCK",
+      "image": "img/ix-cockunblocker.jpg",
+      "url": "cockunblocker.html"
+    },
+    {
       "title": "2018, Bro!",
       "medium": "Custom calendar",
       "year": "2018",
-      "description": "365 days of tech masculinity.",
+      "description": "365 days of tech masculinity! Custom calendar, featuring a curated selection of shirtless men with laptops, laptop millionaires, tech bro memes, and tech CEO birthdays.",
       "image": "img/ix-bro.jpg",
       "url": "bro.html"
     },
