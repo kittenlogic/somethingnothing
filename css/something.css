@@ -42,6 +42,9 @@ figcaption{
 .img-responsive {
   width: 100%;
 }
+.img-rounded{
+  border-radius: 15px;
+}
 .outline {
   border: solid 1px #000;
 }

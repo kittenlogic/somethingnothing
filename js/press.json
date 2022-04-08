@@ -1,12 +1,44 @@
 var press = {
   "articles": [
     {
+      "publication":"Artists & Hackers podcast",
+      "title": "Ep. 11 - Intimate Bots and QueerAI",
+      "author": "Lee Tusman",
+      "date": "March 15, 2022",
+      "text": "<p>Hello friends, I’m on a podcast! ⁣ Talking about Twitter bots, chat bots, AI language models, and working with Ben Lerchin on Queer AI.</p>",
+      "url": "https://www.artistsandhackers.org/queerai"
+    },
+    {
+      "publication":"Hebbel am Ufer HAU4",
+      "title": "The House of Monstress Intelligenzia",
+      "author": "allapopp & Janne Kummer aka.alaska with Luna Nane & Portrait XO",
+      "date": "March 4, 2022",
+      "text": "<p>I gave a brief talk about my work followed by a Q+A with some amazing people at the hybrid performance “The House of Monstress Intelligenzia”, a digital space for collective reflection on how a glitchy, queer-feminist AI could function, look and feel.</p>",
+      "url": "https://www.hau4.de/en/the-house-of-monstress-intelligenzia/"
+    },
+    {
+      "publication":"Encounters with Incomprehension Podcast",
+      "title": "Hypnosis for Artists by Anxious to Make",
+      "author": "The Wrong Biennale",
+      "date": "Feb 14, 2022",
+      "text": "<p>Listen to a custom hypnosis track by Anxious to Make made for our times! The program is designed to engender trust and addresses artists struggling with the growing sense of distrust in the systems that govern our lives, careers, communities, nations, and planet.</p>",
+      "url": "https://open.spotify.com/show/0ZJxmKv0oZMBGOBfb6heEz"
+    },
+    {
+      "publication":"Frictionless: Holding on for Dear Life",
+      "title": "Conversation #3: Acceleration & Slowness",
+      "author": "Center for Art Research at University of Oregon, Eugene, Oregon",
+      "date": "Feb. 4, 2022",
+      "text": "<p>🐢 This conversation is the most fun I’ve had talking about my art practice, AI, and finding strategies of resistance in small, slow, messy, and nuanced approaches for working with machine learning and cultivating forms of intelligence that are undervalued by the mainstream narratives surrounding artificial “intelligence”. Thank you DB Amorin, Tabitha Nikolai, Ralph Pugay for inviting me to share 🏓🧠👽 in your magical collab diy talkshow container! You all are 🔥</p>",
+      "url": "https://frictionless.fail/conversation/03-acceleration-slowness/"
+    },
+    {
       "publication":"Oxy Arts",
       "title": "Speculative Blueprints for Critical AI",
       "author": "Encoding Future: Critical Imaginaries of AI",
       "date": "Oct. 30, 2021",
-      "text": "<p>Join us on Zoom 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟑𝟎, 2021 𝐟𝐫𝐨𝐦 𝟏-𝟑𝐩𝐦 for a virtual symposium—𝘚𝘱𝘦𝘤𝘶𝘭𝘢𝘵𝘪𝘷𝘦 𝘉𝘭𝘶𝘦𝘱𝘳𝘪𝘯𝘵𝘴 𝘧𝘰𝘳 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘈𝘐. Hear from a select group of cultural workers, machine learning researchers, and media studies scholars as they share their conceptual blueprints for critical AI. Link in bio to register. ⁣This virtual symposium invites participants to envision speculative AI futures articulated in the form of creative blueprints. Participants will imagine how both extant technologies and those not yet developed could contribute to just systems and visions of futurity. The primary criterion for the blueprints will be alignment with FAccT rubrics, i.e., fairness, accountability, and transparency in sociotechnical systems.⁣ Participants include: 𝐍𝐚𝐧𝐜𝐲 𝐁𝐚𝐤𝐞𝐫 𝐂𝐚𝐡𝐢𝐥𝐥, 𝐀𝐦𝐢𝐫 𝐁𝐚𝐫𝐚𝐝𝐚𝐫𝐚𝐧, 𝐅𝐞𝐫𝐧𝐚𝐧𝐝𝐨 𝐃𝐢𝐚𝐳 (𝐜𝐨-𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐫), 𝐀𝐥𝐥𝐢𝐬𝐨𝐧 𝐝𝐞 𝐅𝐫𝐞𝐧, 𝐌𝐚𝐬𝐡𝐢𝐧𝐤𝐚 𝐅𝐢𝐫𝐮𝐧𝐭𝐬 𝐇𝐚𝐤𝐨𝐩𝐢𝐚𝐧 (𝐜𝐨-𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐫), 𝐍𝐨𝐫𝐚 𝐊𝐡𝐚𝐧, 𝐒𝐮𝐳𝐚𝐧𝐧𝐞 𝐊𝐢𝐭𝐞, 𝐄𝐦𝐢𝐥𝐲 𝐌𝐚𝐫𝐭𝐢𝐧𝐞𝐳, 𝐋𝐚𝐮𝐫𝐞𝐧 𝐋𝐞𝐞 𝐌𝐜𝐂𝐚𝐫𝐭𝐡𝐲, 𝐍𝐢𝐚𝐦𝐚 𝐒𝐚𝐟𝐢𝐚 𝐒𝐚𝐧𝐝𝐲, 𝐀𝐧𝐮𝐫𝐚𝐝𝐡𝐚 𝐕𝐢𝐤𝐫𝐚𝐦, 𝐚𝐧𝐝 𝐂𝐥𝐚𝐢𝐫𝐞 𝐖𝐞𝐛𝐛.⁣</p>",
-      "url": "https://occidental.zoom.us/webinar/register/WN_-busRBa9RQ2C_fp1u77rTA"
+      "text": "<p>Hear from a select group of cultural workers, machine learning researchers, and media studies scholars as they share their conceptual blueprints for critical AI. ⁣This virtual symposium invites participants to envision speculative AI futures articulated in the form of creative blueprints. Participants will imagine how both extant technologies and those not yet developed could contribute to just systems and visions of futurity. The primary criterion for the blueprints will be alignment with FAccT rubrics, i.e., fairness, accountability, and transparency in sociotechnical systems.</p>⁣<p>Participants include: Nancy Baker Cahill, Amir Baradaran, Fernando Diaz (co-organizer), Allison de Fren, Mashinka Firunts Hakopian (co-organizer), Nora Khan, Suzanne Kite, Emily Martinez, Lauren Lee McCarthy, Niama Safia Sandy, Anuradha Vikram, and Claire Webb.⁣</p>",
+      "url": "https://www.youtube.com/watch?v=krbWDqHvac8"
     },
     {
       "publication":"Goethe-Institut San Francisco",
@@ -14,7 +46,7 @@ var press = {
       "author": "Goethe-Institut San Francisco",
       "date": "Oct. 7, 2021",
       "text": "<p>Join R. Buse Çetin, Luc Steels, Sarah Ciston and Emily Martinez for a discussion about the intersection of creativity and AI. Moderated by Xiaowei Wang and Bettina Wodianka. Oct. 7, 2021 at 10:00 am PDT/1 pm EDT/7pm CEST</p>",
-      "url": "https://www.goethe.de/ins/us/en/sta/sfr/ver.cfm?fuseaction=events.detail&event_id=22368835"
+      "url": "https://www.youtube.com/watch?v=klcoCwPqgg0"
     },
     {
       "publication":"Centre Cívic Can Felipa",

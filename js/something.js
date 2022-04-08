@@ -39,6 +39,7 @@ var fixedTopBarNavigation = _.template(
         "<li class='has-dropdown'>" +
           "<a href='index.html'>PROJECTS</a>" +
           "<ul class='dropdown'>" +
+            "<li><a href='ultimatefantasy.html'>Ultimate Fantasy</a></li>" +
             "<li><a href='unsupervisedpleasures.html'>Unsupervised Pleasures</a></li>" +
             "<li><a href='zines.html'>Queer AI Zines</a></li>" +
             "<li><a href='ml5toolkit.html'>ML5 Community Starter Kit</a></li>" +
