@@ -12,7 +12,7 @@ var data = {
       "title": "Unsupervised Pleasures",
       "medium": "Artificial Intelligence",
       "year": "2020 - ongoing",
-      "description": "DIY community using queer methodologies to create datasets, machine learning models, bots, zines, publications, and art with AI.",
+      "description": "DIY community library and practice space using queer methodologies to create datasets, machine learning models, bots, zines, publications, and art with AI.",
       "image": "img/ix-pleasure.jpg",
       "url": "unsupervisedpleasures.html"
     },
