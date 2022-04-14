@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"University of Buffalo",
+      "title": "PLASMA Speaker Series",
+      "author": "UB Department of Media Study",
+      "date": "April 11, 2022",
+      "text": "<p>I'm giving a talk titled, 'How to Survive and Prosper as an Artist in the age of Web3, Accelerated Capitalism and Climate Collapse.' and chatting with students about blockchain, NFTs and navigating the hype of Web3.</p>",
+      "url": "https://arts-sciences.buffalo.edu/media-study/news-events/plasma.html"
+    },
+    {
       "publication":"Artists & Hackers podcast",
       "title": "Ep. 11 - Intimate Bots and QueerAI",
       "author": "Lee Tusman",
@@ -29,7 +37,7 @@ var press = {
       "title": "Conversation #3: Acceleration & Slowness",
       "author": "Center for Art Research at University of Oregon, Eugene, Oregon",
       "date": "Feb. 4, 2022",
-      "text": "<p>🐢 This conversation is the most fun I’ve had talking about my art practice, AI, and finding strategies of resistance in small, slow, messy, and nuanced approaches for working with machine learning and cultivating forms of intelligence that are undervalued by the mainstream narratives surrounding artificial “intelligence”. Thank you DB Amorin, Tabitha Nikolai, Ralph Pugay for inviting me to share 🏓🧠👽 in your magical collab diy talkshow container! You all are 🔥</p>",
+      "text": "<p>This conversation is the most fun I’ve had talking about my art practice, AI, and finding strategies of resistance in small, slow, messy, and nuanced approaches for working with machine learning and cultivating forms of intelligence that are undervalued by the mainstream narratives surrounding artificial “intelligence”. Thank you DB Amorin, Tabitha Nikolai, Ralph Pugay for inviting me to share 🏓🧠👽 in your magical collab diy talkshow container! You all are 🔥</p>",
       "url": "https://frictionless.fail/conversation/03-acceleration-slowness/"
     },
     {
