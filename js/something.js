@@ -50,6 +50,7 @@ var fixedTopBarNavigation = _.template(
             "<li><a href='bro.html'>2018, Bro!</a></li>" +
             "<li><a href='unthinking.html'>Unthinking the Sharing Economy</a></li>" +
             "<li><a href='future.html'>The Future of Work</a></li>" +
+            "<li><a href='futureofwork.html'>Future of Work Testimonials</a></li>" +
             "<li><a href='5easysteps.html'>How to Make Yourself Into A Commissioning Body</a></li>" +
             "<li><a href='wwwork.html'>WWWORK</a></li>" +
             "<li><a href='makingyou.html'>Making You</a></li>" +

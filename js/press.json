@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"AIxDesign",
+      "title": "Recl(AI)ming Pleasure through F(AI)lure ",
+      "author": "AIxDesign",
+      "date": "June 9 2022",
+      "text": "<p>About the talk: the tools we use to create narratives with AI, furthering and expanding our human language, are modern in their performance but stuck in the past carrying our ingrained biases and stereotyping. How can one reclaim agency and fight biases with (AI) storytelling?</p>",
+      "url": "https://www.youtube.com/watch?v=X8j14ADdN6A"
+    },
+    {
       "publication":"University of Buffalo",
       "title": "PLASMA Speaker Series",
       "author": "UB Department of Media Study",
