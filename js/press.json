@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Poetic Research Bureau and 2220 Arts + Archives",
+      "title": "The Institute of Other Intelligences book launch + readings",
+      "author": "X Artists’ Books",
+      "date": "February 10, 2023",
+      "text": "<p>Join X Artists’ Books, Poetic Research Bureau, and 2220 Arts + Archives for a launch of The Institute of Other Intelligences by Mashinka Firunts Hakopian (XAB, 2022). The event will feature readings by the author, K. Allado-McDowell, Emily Martinez, and Lauren Lee McCarthy. Friday, February 10, 7pm.</p>",
+      "url": "https://link.dice.fm/Lbfe39d8f45b?pid=1426c053"
+    },
+    {
       "publication":"AIxDesign",
       "title": "Recl(AI)ming Pleasure through F(AI)lure ",
       "author": "AIxDesign",
