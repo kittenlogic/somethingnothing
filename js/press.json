@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Mozilla Festival",
+      "title": "Unsupervised Pleasures: Imagining Better Large Language Models",
+      "author": "Mozfest 2023",
+      "date": "March 23, 2023",
+      "text": "<p> If you're interested in what's under the hood of GPT-4 and the like, come hang with us.</p>",
+      "url": "https://schedule.mozillafestival.org/session/W3JNLS-1"
+    },
+    {
       "publication":"Poetic Research Bureau and 2220 Arts + Archives",
       "title": "The Institute of Other Intelligences book launch + readings",
       "author": "X Artists’ Books",

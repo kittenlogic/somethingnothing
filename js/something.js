@@ -41,9 +41,9 @@ var fixedTopBarNavigation = _.template(
           "<ul class='dropdown'>" +
             "<li><a href='ultimatefantasy.html'>Ultimate Fantasy</a></li>" +
             "<li><a href='unsupervisedpleasures.html'>Unsupervised Pleasures</a></li>" +
-            "<li><a href='zines.html'>Queer AI Zines</a></li>" +
+            "<li><a href='zines.html'>Queer AI Zine</a></li>" +
             "<li><a href='ml5toolkit.html'>ML5 Community Starter Kit</a></li>" +
-            "<li><a href='queerai.html'>Queer AI Chatbots</a></li>" +
+            "<li><a href='queerai.html'>Queer AI Chatbot</a></li>" +
             "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
             "<li><a href='risk.html'>Risk</a></li>" +
             "<li><a href='cockunblocker.html'>Cock Unblocker</a></li>" +
@@ -75,7 +75,7 @@ var fixedTopBarNavigation = _.template(
           "<li><a href='contact.html'>CONTACT</a></li>" +
           "<li><a href='cv.html'>CV</a></li>" +
           "<li><a href='https://www.instagram.com/queerai/' target='_blank'><i class='fa fa-instagram'></i></a></li>" +
-          "<li><a href='https://twitter.com/Resonator11' target='_blank'><i class='fa fa-twitter'></i></a></li>" +
+          "<li><a href='https://twitter.com/queermachines' target='_blank'><i class='fa fa-twitter'></i></a></li>" +
         "</ul>" +
       "</section>" +
     "</nav>"
