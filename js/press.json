@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Processing Foundation",
+      "title": "Announcing p5.js 2024 Google Season of Docs!",
+      "author": "Processing Foundation",
+      "date": "July 5, 2024",
+      "text": "<p> Mentor on project to create tutorials that contextualize critical AI approaches for the p5.js community, by focusing on conscientious use. Sarah Ciston is the techincal writer, Minne Atairu is the Technical Writer Advisor.</p>",
+      "url": "https://medium.com/@ProcessingOrg/announcing-p5-js-2024-google-season-of-docs-fbe1cc769d5f"
+    },
+    {
       "publication":"Mozilla Festival",
       "title": "Unsupervised Pleasures: Imagining Better Large Language Models",
       "author": "Mozfest 2023",
