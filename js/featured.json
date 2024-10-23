@@ -1,0 +1,52 @@
+var data = {
+  "works": [
+    {
+      "title": "Año de la Revelación, Olvidar los Sueños",
+      "medium": "Single-channel video",
+      "year": "2023",
+      "description": "¿Qué pasa cuando dejas de soñar? ¿Cuando no puedes ver un futuro? ¿Cuando tu corazón deja de emanar su luz propia?",
+      "image": "img/ix-revelacion.jpg",
+      "url": "revelacion.html"
+    },
+    {
+      "title": "Unsupervised Pleasures",
+      "medium": "Artificial Intelligence",
+      "year": "2020 - ongoing",
+      "description": "Research blog and DIY community practice space; using queer methodologies to create datasets, machine learning models, publications, and art with AI.",
+      "image": "img/ix-audre-data-care.gif",
+      "url": "unsupervisedpleasures.html"
+    },
+    {
+      "title": "The Insufferable Whiteness of Being",
+      "medium": "Single-channel video",
+      "year": "2018",
+      "description": "Video about a crypto-millionaire led utopian project in Puerto Rico, framed within the larger historical context of colonialism and exploitation on the island.",
+      "image": "img/ix-crypto2.jpg",
+      "url": "insufferable-whiteness-of-being.html"
+    },
+    {
+      "title": "Risk",
+      "medium": "Finance app",
+      "year": "2018",
+      "description": "A visual risk calculator, monitoring the stock prices of the top ten U.S. weapons manufacturers.",
+      "image": "img/ix-risk.gif",
+      "url": "risk.html"
+    },
+    {
+      "title": "Anti-Apocalypse",
+      "medium": "Installation, HD video, custom software, EEG brain-computer interface",
+      "year": "2012",
+      "description": "Immersive cinema examining how manifestations of the image in digital, networked media function as a social (optical) unconscious of catastrophic narratives and traumatic episodes.",
+      "image": "img/ix-apocalypse.jpg",
+      "url": "anti-apocalypse.html"
+    },
+    {
+      "title": "A.M.",
+      "medium": "Installation, radios, custom software, custom electronics",
+      "year": "2010",
+      "description": "This life, afterlife, sound immemorial.",
+      "image": "img/clear.png",
+      "url": "A.M.html"
+    }
+  ]
+}

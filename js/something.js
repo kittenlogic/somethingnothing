@@ -36,49 +36,70 @@ var fixedTopBarNavigation = _.template(
       "</ul>" +
       "<section class='top-bar-section'>" +
         "<ul class='right'>" +
-        "<li class='has-dropdown'>" +
-          "<a href='index.html'>PROJECTS</a>" +
-          "<ul class='dropdown'>" +
-            "<li><a href='ultimatefantasy.html'>Ultimate Fantasy</a></li>" +
-            "<li><a href='unsupervisedpleasures.html'>Unsupervised Pleasures</a></li>" +
-            "<li><a href='zines.html'>Queer AI Zine</a></li>" +
-            "<li><a href='ml5toolkit.html'>ML5 Community Starter Kit</a></li>" +
-            "<li><a href='queerai.html'>Queer AI Chatbot</a></li>" +
-            "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
-            "<li><a href='risk.html'>Risk</a></li>" +
-            "<li><a href='cockunblocker.html'>Cock Unblocker</a></li>" +
-            "<li><a href='bro.html'>2018, Bro!</a></li>" +
-            "<li><a href='unthinking.html'>Unthinking the Sharing Economy</a></li>" +
-            "<li><a href='future.html'>The Future of Work</a></li>" +
-            "<li><a href='futureofwork.html'>Future of Work Testimonials</a></li>" +
-            "<li><a href='5easysteps.html'>How to Make Yourself Into A Commissioning Body</a></li>" +
-            "<li><a href='wwwork.html'>WWWORK</a></li>" +
-            "<li><a href='makingyou.html'>Making You</a></li>" +
-            "<li><a href='anxious.html'>Anxious to Make</a></li>" +
-            "<li><a href='cocaine.html'>Portraits of Cocaine</a></li>" +
-            "<li><a href='oyegringa.html'>Oye, gringa!</a></li>" +
-            "<li><a href='homeland.html'>homelandsecurityhearts.us</a></li>" +
-            "<li><a href='anti-apocalypse.html'>Anti-Apocalypse</a></li>" +
-            "<li><a href='A.M.html'>A.M.</a></li>" +
-            "<li><a href='intheory.html'>In Theory</a></li>" +
-            "<li><a href='billiondollarpyramid.html'>$1B &#8710;</a></li>" +
-            "<li><a href='yoga.html'>LA5D</a></li>" +
-            "<li><a href='mysteryprize.html'>mysteryPrize( )</a></li>" +
-            "<li><a href='balbonemartinez.html'>Balbone Martinez</a></li>" +
-            "<li><a href='funwithnumbers.html'>Fun with Numbers!</a></li>" +
-            "<li><a href='meditations.html'>Meditations</a></li>" +
-            "<li><a href='disasters.html'>Disasters</a></li>" +
-          "</ul>" +
-        "</li>" +
           "<li><a href='about.html'>BIO</a></li>" +
           "<li><a href='press.html'>NEWS</a></li>" +
-          "<li><a href='contact.html'>CONTACT</a></li>" +
           "<li><a href='cv.html'>CV</a></li>" +
+          "<li><a href='contact.html'>CONTACT</a></li>" +
+          "<li><a href='archive.html'><i class='fa fa-database'></i></a></a></li>" +
           "<li><a href='https://www.instagram.com/queerai/' target='_blank'><i class='fa fa-instagram'></i></a></li>" +
-          "<li><a href='https://twitter.com/queermachines' target='_blank'><i class='fa fa-twitter'></i></a></li>" +
         "</ul>" +
       "</section>" +
     "</nav>"
+);
+
+var fixedTopBarNavigationFull = _.template(
+  "<nav class='top-bar' data-topbar>" +
+    "<ul class='title-area'>" +
+      "<li class='name'>" +
+         "<h1><a href='/'>EMILY MARTINEZ</a></h1>" +
+      "</li>" +
+      "<li class='toggle-topbar menu-icon'><a href='#''><span></span></a></li>" +
+    "</ul>" +
+    "<section class='top-bar-section'>" +
+      "<ul class='right'>" +
+      "<li class='has-dropdown'>" +
+        "<a href='index.html'>PROJECTS</a>" +
+        "<ul class='dropdown'>" +
+          "<li><a href='ultimatefantasy.html'>Ultimate Fantasy</a></li>" +
+          "<li><a href='unsupervisedpleasures.html'>Unsupervised Pleasures</a></li>" +
+          "<li><a href='zines.html'>Queer AI Zine</a></li>" +
+          "<li><a href='ml5toolkit.html'>ML5 Community Starter Kit</a></li>" +
+          "<li><a href='queerai.html'>Queer AI Chatbot</a></li>" +
+          "<li><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a></li>" +
+          "<li><a href='risk.html'>Risk</a></li>" +
+          "<li><a href='cockunblocker.html'>Cock Unblocker</a></li>" +
+          "<li><a href='bro.html'>2018, Bro!</a></li>" +
+          "<li><a href='unthinking.html'>Unthinking the Sharing Economy</a></li>" +
+          "<li><a href='future.html'>The Future of Work</a></li>" +
+          "<li><a href='futureofwork.html'>Future of Work Testimonials</a></li>" +
+          "<li><a href='5easysteps.html'>How to Make Yourself Into A Commissioning Body</a></li>" +
+          "<li><a href='wwwork.html'>WWWORK</a></li>" +
+          "<li><a href='makingyou.html'>Making You</a></li>" +
+          "<li><a href='anxious.html'>Anxious to Make</a></li>" +
+          "<li><a href='cocaine.html'>Portraits of Cocaine</a></li>" +
+          "<li><a href='oyegringa.html'>Oye, gringa!</a></li>" +
+          "<li><a href='homeland.html'>homelandsecurityhearts.us</a></li>" +
+          "<li><a href='anti-apocalypse.html'>Anti-Apocalypse</a></li>" +
+          "<li><a href='A.M.html'>A.M.</a></li>" +
+          "<li><a href='intheory.html'>In Theory</a></li>" +
+          "<li><a href='billiondollarpyramid.html'>$1B &#8710;</a></li>" +
+          "<li><a href='yoga.html'>LA5D</a></li>" +
+          "<li><a href='mysteryprize.html'>mysteryPrize( )</a></li>" +
+          "<li><a href='balbonemartinez.html'>Balbone Martinez</a></li>" +
+          "<li><a href='funwithnumbers.html'>Fun with Numbers!</a></li>" +
+          "<li><a href='meditations.html'>Meditations</a></li>" +
+          "<li><a href='disasters.html'>Disasters</a></li>" +
+        "</ul>" +
+      "</li>" +
+        "<li><a href='about.html'>BIO</a></li>" +
+        "<li><a href='press.html'>NEWS</a></li>" +
+        "<li><a href='contact.html'>CONTACT</a></li>" +
+        "<li><a href='cv.html'>CV</a></li>" +
+        "<li><a href='https://www.instagram.com/queerai/' target='_blank'><i class='fa fa-instagram'></i></a></li>" +
+        "<li><a href='https://twitter.com/queermachines' target='_blank'><i class='fa fa-twitter'></i></a></li>" +
+      "</ul>" +
+    "</section>" +
+  "</nav>"
 );
 
 var balboneMartinez = _.template(
