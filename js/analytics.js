@@ -1,7 +1,7 @@
 //Google Analytics somethingnothing.me
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2161839-3']);
+  _gaq.push(['_setAccount', 'G-4B1BBS8EWC']);
   _gaq.push(['_trackPageview']);
 
   (function() {
