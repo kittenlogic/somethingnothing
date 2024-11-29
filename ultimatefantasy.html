@@ -30,6 +30,8 @@
   <link href="css/something.css" rel="stylesheet" />
   <script src="js/vendor/modernizr.js"></script>
   <script src="js/analytics.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.7.2/plyr.css" />
 </head>
 
 <body>
@@ -41,9 +43,16 @@
         <h2>Ultimate Fantasy<br></h2>
         <h4>2022</h4>
         <p><span class="strobe"><a href="//ultimatefantasy.club" target="_blank" rel="noopener noreferrer">ULTIMATEFANTASY.CLUB <i class="fa fa-external-link"></i></a></span><br/><br/></p>
+        <div class="player-overlay">
+          <video class="js-player" playsinline controls data-poster="/nft/fantasy111.png" >
+            <source type="video/mp4" src="https://ultimatefantasy.b-cdn.net/fantasy111.mp4" />
+            Your browser does not support the video tag.
+          </video>
+          <figcaption class="text-fig text-center py-1">Ultimate Fantasy no.111 Queer Geographer (preview)</figcaption>
+        </div>
         <h5>DOCUMENTATION</h5>
         <div>
-          <img src="https://ultimatefantasy.club/img/cassette2.jpg" class="img-responsive" alt="Ultimate Fantasy cassette">
+          <img src="/img/cassette.jpg" class="img-responsive" alt="Ultimate Fantasy cassette">
           <!-- <figcaption>Ultimate Fantasy, audio cassette</figcaption> -->
         </div>
         <h5>PROJECT DESCRIPTION</h5>
@@ -58,9 +67,11 @@
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
   <script src="js/foundation.min.js"></script>
   <script type="text/javascript" src="js/something.js"></script>
+  <script src="https://cdn.plyr.io/3.7.2/plyr.js"></script>
   <script>
     topNav();
     $(document).foundation();
+    const players = Array.from(document.querySelectorAll('.js-player')).map((p) => new Plyr(p));
   </script>
 
 </body>

@@ -1,6 +1,14 @@
 var press = {
   "articles": [
     {
+      "publication":"Addis Video Art Festival",
+      "title": "The Insufferable Whiteness of Being, screening at Addis Video Art Festival 5th edition.",
+      "author": "Addis Video Art Festival",
+      "date": "November 29, 2024",
+      "text": "<p><a href='/insufferable-whiteness-of-being.html' target='_blank' rel='noopener'>The Insufferable Whiteness of Being</a> was selected from more than 350 works from 86 countries to screen at the Addis Video Art Festival 5th edition runs from December 26-30 2024 in Addis Ababa, Ethiopia.</p><p>The Insufferable Whiteness of Being critiques the utopian fantasies of crypto-colonialists in Puerto Rico. Using satire, archival footage, and text overlays, the film exposes the exploitative visions behind modern technological promises. By connecting past colonial legacies to present-day inequalities, this piece demands a critical examination of who benefits from notions of progress. The film's temporal disjunctions reflect the dissonance between utopian dreams and the realities they often obscure, challenging viewers to question the ethics of contemporary development.</p><p>Festival Theme: Re(Cover) Story. Daily front pages across platforms circulate crisis, desperation and disasters, fueling division and despair. Our focus fragmented, analysis paralyzed, we struggle to discern urgent news from narratives designed to mask them. War, post-pandemic economic doom, scarcity, conflicts, inflation, deficit, unregulated AI, climate apocalypse, displacement, and new wars broadcast a hopeless reading of our times.</p>",
+      "url": "http://www.addisvideoartfestival.net/programs.htm"
+    },
+    {
       "publication":"Processing Foundation",
       "title": "Announcing p5.js 2024 Google Season of Docs!",
       "author": "Processing Foundation",

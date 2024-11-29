@@ -1,6 +1,14 @@
 var data = {
   "works": [
     {
+      "title": "Technologies of Exile",
+      "medium": "Artificial Intelligence",
+      "year": "2024",
+      "description": "Technologies of Exile reimagines the makeshift rafts of the 1990s Cuban rafter crisis through AI-generated imagery, drawing parallels between human ingenuity under scarcity and the limitations of machine creativity.",
+      "image": "img/ix-exile.jpg",
+      "url": "technologies-of-exile.html"
+    },
+    {
       "title": "Año de la Revelación, Olvidar los Sueños",
       "medium": "Single-channel video",
       "year": "2023",
