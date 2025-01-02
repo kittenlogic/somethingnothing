@@ -3,7 +3,7 @@ var press = {
     {
       "publication":"Addis Video Art Festival",
       "title": "The Insufferable Whiteness of Being, screening at Addis Video Art Festival 5th edition.",
-      "author": "Addis Video Art Festival",
+      "author": "Addis Video Art Festival, Addis Ababa, Ethiopia",
       "date": "November 29, 2024",
       "text": "<p><a href='/insufferable-whiteness-of-being.html' target='_blank' rel='noopener'>The Insufferable Whiteness of Being</a> was selected from more than 350 works from 86 countries to screen at the Addis Video Art Festival 5th edition runs from December 26-30 2024 in Addis Ababa, Ethiopia.</p><p>The Insufferable Whiteness of Being critiques the utopian fantasies of crypto-colonialists in Puerto Rico. Using satire, archival footage, and text overlays, the film exposes the exploitative visions behind modern technological promises. By connecting past colonial legacies to present-day inequalities, this piece demands a critical examination of who benefits from notions of progress. The film's temporal disjunctions reflect the dissonance between utopian dreams and the realities they often obscure, challenging viewers to question the ethics of contemporary development.</p><p>Festival Theme: Re(Cover) Story. Daily front pages across platforms circulate crisis, desperation and disasters, fueling division and despair. Our focus fragmented, analysis paralyzed, we struggle to discern urgent news from narratives designed to mask them. War, post-pandemic economic doom, scarcity, conflicts, inflation, deficit, unregulated AI, climate apocalypse, displacement, and new wars broadcast a hopeless reading of our times.</p>",
       "url": "http://www.addisvideoartfestival.net/programs.htm"
@@ -17,12 +17,44 @@ var press = {
       "url": "https://medium.com/@ProcessingOrg/announcing-p5-js-2024-google-season-of-docs-fbe1cc769d5f"
     },
     {
+      "publication":"STIFF Film Festival",
+      "title": "Anxious to Make has work at “Démondé”, STIFF 2023 ",
+      "author": "STIFF Film Festival, Rijeka, Croatia",
+      "date": "Nov 22 - Nov 26, 2023",
+      "text": "<p> The exhibition “Démondé”, features fifteen international artists that reflect on global and personal change in their audiovisual works. The five day program features 40 short films from 17 countries around the world, grouped into 11 program blocks.</p> ",
+      "url": "https://studentfilmfestival.eu/festival/previous-editions/"
+    },
+    {
+      "publication":"Vector Festival",
+      "title": "Anxious to Make at Insomniac Film Festival",
+      "author": "Vector Festival",
+      "date": "July 15, 2023",
+      "text": "<p> Anxious to Make video <em>Quitting</em>, authored by Liat Berdugo, screened in “A Very Human Screening” curated by Insomniac Film Festival in partnership with Vector Festival 2023, Charles Street Video, Toronto, Canada.</p> ",
+      "url": "https://vectorfestival.org/a-very-human-screening-screening/"
+    },
+    {
+      "publication":"Electronic Literature Organization",
+      "title": "“Overcoming Divides,” ELO 2023 Exhibition, Coimbra, Portugal",
+      "author": "Electronic Literature Organization",
+      "date": "July 12-15, 2023",
+      "text": "<p>Anxious to Make's <em>Unthinking the Sharing Economy</em> featured at “Overcoming Divides,” the Electronic Literature Organization (ELO) conference in Coimbra, Portugal; as part of the exhibition, “Arborescent || Resistance”</p>",
+      "url": "https://eloconference2023exhibitions.wordpress.com/exhibition2_resistance/unthinking-the-sharing-economy/"
+    },
+    {
+      "publication":"Processing Foundation",
+      "title": "Anxious to Make in 20th Anniversary Processing Community Catalog",
+      "author": "Processing Foundation",
+      "date": "May 30, 2023",
+      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/confidencegenerator' target='_blank'>Confidence Generator</a>, authored by Liat Berdugo, was featured in the Processing Community Catalog. Fun Fact: The images of the Confidence Generator in the book low key honor Emily's ancestors, whose names were typed into the app for the purposes of documentation.</p><p>The Processing Community Catalog! Designed by New Info Studio, and edited by Lauren Lee McCarthy, Casey Reas, Qianqian Ye, and Nikki Makagiansar, this nearly 1000 page book celebrates the Processing, p5.js, and art+tech community.</p>",
+      "url": "https://medium.com/processing-foundation/20th-anniversary-processing-community-catalog-out-now-c737c2867ae7"
+    },
+    {
       "publication":"Mozilla Festival",
       "title": "Unsupervised Pleasures: Imagining Better Large Language Models",
       "author": "Mozfest 2023",
       "date": "March 23, 2023",
-      "text": "<p> If you're interested in what's under the hood of GPT-4 and the like, come hang with us.</p>",
-      "url": "https://schedule.mozillafestival.org/session/W3JNLS-1"
+      "text": "<p>Workshop with Sarah Ciston and Emily Martinez exploring LLMs at Mozilla Fest 2023. If you're interested in what's under the hood of GPT-4 and the like, watch the replay. One of my favorite sessions.</p>",
+      "url": "https://vimeo.com/manage/videos/978601898"
     },
     {
       "publication":"Poetic Research Bureau and 2220 Arts + Archives",
@@ -31,6 +63,14 @@ var press = {
       "date": "February 10, 2023",
       "text": "<p>Join X Artists’ Books, Poetic Research Bureau, and 2220 Arts + Archives for a launch of The Institute of Other Intelligences by Mashinka Firunts Hakopian (XAB, 2022). The event will feature readings by the author, K. Allado-McDowell, Emily Martinez, and Lauren Lee McCarthy. Friday, February 10, 7pm.</p>",
       "url": "https://link.dice.fm/Lbfe39d8f45b?pid=1426c053"
+    },
+    {
+      "publication":"Unrequited Leisure",
+      "title": "The Insufferable Whiteness of Being screening at  …displacing",
+      "author": "Unrequited Leisure, Nashville, TN",
+      "date": "February 5 - Mar 26, 2023",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> screened at …displacing, an exhibition focused on tourism and travel as an extension of colonialism. The exhibition coincides with the Tennessee Triennial.</p>",
+      "url": "https://unrequitedleisure.com/displacing"
     },
     {
       "publication":"AIxDesign",
@@ -89,6 +129,14 @@ var press = {
       "url": "https://www.youtube.com/watch?v=krbWDqHvac8"
     },
     {
+      "publication":"Museum of Contemporary Art: Long Island",
+      "title": "MOCA L.I.ghts: Night Visions",
+      "author": "Museum of Contemporary Art: Long Island",
+      "date": "October 14-17, 2021",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank' rel='noopener noreferrer'>Quitting</a>, authored by Liat Berdugo, will be screening in this pop-up projection gallery project, curated by Beth Giacummo. </p>",
+      "url": "https://patchoguearts.org/moca-l-i-ghts-2021/"
+    },
+    {
       "publication":"Goethe-Institut San Francisco",
       "title": "NODES. ART+TECH ENCOUNTER: Creativity and AI, Panel discussion",
       "author": "Goethe-Institut San Francisco",
@@ -109,7 +157,7 @@ var press = {
       "title": "'Refamiliarization' exhibition",
       "author": "Berkeley Center for New Media",
       "date": "Sep 29 - Oct 1 2021",
-      "text": "<p>Anxious to Make's 'Performative Validations' video series will be exhibited at the Berkeley Center for New Media, University of California, Berkeley from Sep 29 - Oct 1 2021. Curated by Justin Berner and Julia Irwin.</p>",
+      "text": "<p>Anxious to Make's 'Performative Validations' video series, authored by Liat Berdugo, will be exhibited at the Berkeley Center for New Media, University of California, Berkeley from Sep 29 - Oct 1 2021. Curated by Justin Berner and Julia Irwin.</p>",
       "url": "//www.refamiliarization.org/"
     },
     {
@@ -117,7 +165,7 @@ var press = {
       "title": "5th International Bad Video Art Festival",
       "author": "International Bad Video Art Festival",
       "date": "September 17-29  2021",
-      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/toughlovegenerator' target='_blank' rel='noopener noreferrer'>Tough Love Generator</a> will be exhibited at the 5th edition of the International Bad Video Art Festival from September 17-29  2021 at Gallery Bomba (@gallerybomba), Moscow, Russia.</p>",
+      "text": "<p>Anxious to Make's <a href='https://anxioustomake.ga/toughlovegenerator' target='_blank' rel='noopener noreferrer'>Tough Love Generator</a>, authored by Liat Berdugo, will be exhibited at the 5th edition of the International Bad Video Art Festival from September 17-29  2021 at Gallery Bomba (@gallerybomba), Moscow, Russia.</p>",
       "url": "//www.badvideoart.com/v-selections-2021"
     },
     {
@@ -125,7 +173,7 @@ var press = {
       "title": "Pandemic Projections: Visions for a New Normal",
       "author": "Wavelength and Gardenship.art",
       "date": "September 3, 2021",
-      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank' rel='noopener noreferrer'>Quitting</a> will be screening on Friday, September 3, 2021 from 8:00 PM  9:00 PM at Gardenship 205 Campus Drive, Kearny, NJ, 07032, United States. Twenty-six experimental video and sound works were selected for this edition. </p>",
+      "text": "<p>Anxious to Make's video <a href='https://vimeo.com/200595854' target='_blank' rel='noopener noreferrer'>Quitting</a>, authored by Liat Berdugo, will be screening on Friday, September 3, 2021 from 8:00 PM  9:00 PM at Gardenship 205 Campus Drive, Kearny, NJ, 07032, United States. Twenty-six experimental video and sound works were selected for this edition. </p>",
       "url": "//www.gardenship.art/events/pandemic-projections-1"
     },
     {
@@ -253,7 +301,7 @@ var press = {
       "title": "Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes",
       "author": "Vector Festival",
       "date": "July 11–14 2019",
-      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened in the program 'Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes,' curated by Shahbaz Khayambashi (Co-Chair of Pleasure Dome), for a group screening with the Vector Festival, July 11-14, 2019 across various locations in Toronto.</p><p>Participating artists: <a href='//en.wikipedia.org/wiki/Jennifer_Chan_(artist)' target='_blank' rel='noopener noreferrer'>Jennifer Chan</a>, <a href='//www.thirzacuthand.com/' target='_blank' rel='noopener noreferrer'>Thirza Cuthand</a>, Christina Battle, Tom Sherman, Anxious to Make (Liat Berdugo + Emily Martinez), Claire Scherzinger, John Greyson, and Geoffrey Pugen</p><p>About the program: The future is environmental disaster. Humanity is slowly but surely reaching the point of no return, a point of irreversible environmental damage, a point of mass extinction, widespread catastrophe and a step toward uninhabitability. This disaster is a human-made one, a result of a variety of factors including corrupt governance in the western world, dystopic late-stage capitalism, historic colonialism and seemingly endless war. This program is concerned with this current period of human activity, finding a group of artists asking where we can go from here, using views from the past, present and future. When the end seems to be looming and those who can do something about it refuse, what else is there to do but to sit back and watch it happen?</p><p>About Vector: Vector Festival is a participatory and community-oriented initiative dedicated to showcasing digital games and creative media practices. Presenting works across a dynamic range of exhibitions, screenings, performances, lectures, and workshops, Vector acts as a critical bridge between emergent digital platforms and new media art practice. Vector 2019 is curated by Katie Micak and Martin Zeilinger.</p>",
+      "text": "<p><a href='insufferable-whiteness-of-being.html'>The Insufferable Whiteness of Being</a> will be screened in the program 'Eschatological Autopsy: The Act of Seeing the End of the World with One’s Own Eyes,' curated by Shahbaz Khayambashi (Co-Chair of Pleasure Dome), for a group screening with the Vector Festival, July 11-14, 2019 across various locations in Toronto.</p><p>Participating artists: Jennifer Chan, Thirza Cuthand, Christina Battle, Tom Sherman, Anxious to Make (Liat Berdugo + Emily Martinez), Claire Scherzinger, John Greyson, and Geoffrey Pugen</p><p>About the program: The future is environmental disaster. Humanity is slowly but surely reaching the point of no return, a point of irreversible environmental damage, a point of mass extinction, widespread catastrophe and a step toward uninhabitability. This disaster is a human-made one, a result of a variety of factors including corrupt governance in the western world, dystopic late-stage capitalism, historic colonialism and seemingly endless war. This program is concerned with this current period of human activity, finding a group of artists asking where we can go from here, using views from the past, present and future. When the end seems to be looming and those who can do something about it refuse, what else is there to do but to sit back and watch it happen?</p><p>About Vector: Vector Festival is a participatory and community-oriented initiative dedicated to showcasing digital games and creative media practices. Presenting works across a dynamic range of exhibitions, screenings, performances, lectures, and workshops, Vector acts as a critical bridge between emergent digital platforms and new media art practice. Vector 2019 is curated by Katie Micak and Martin Zeilinger.</p>",
       "url": "//vectorfestival.org/"
     },
     {
@@ -261,7 +309,7 @@ var press = {
       "title": "Single Channel Video Selection",
       "author": "Currents New Media Festival",
       "date": "June 7 - 23 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited at the annual festival of media arts, digital performance, and interactive installation in venues across Santa Fe, New Mexico.</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a>, authored by Liat Berdugo, will be exhibited at the annual festival of media arts, digital performance, and interactive installation in venues across Santa Fe, New Mexico.</p>",
       "url": "//currentsnewmedia.org/"
     },
     {
@@ -269,7 +317,7 @@ var press = {
       "title": "FaB Festival",
       "author": "Fringe Arts Bath",
       "date": "May 24 - June 9 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be screened as part of the program, 'SELF' during FaB Festival, Fringe Arts Bath, UK </p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a>, authored by Liat Berdugo, will be screened as part of the program, 'SELF' during FaB Festival, Fringe Arts Bath, UK </p>",
       "url": "//www.fringeartsbath.co.uk"
     },
     {
@@ -285,7 +333,7 @@ var press = {
       "title": "Hot Steam II",
       "author": "Cambridge Community Television",
       "date": "April 18 2019",
-      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/dolphinaccelerator.html'>Dolphin Accelerator</a> will be screened as part of Hot Steam II.</p><p>Cambridge Community Television & the MIT Museum partnered up to bring you HOT STEAM II: A screening of beautiful and bizarre videos that investigate the magic combination of science, art, and technology. Participating artists include: <a href='//www.lauraonsale.com/' target='_blank' rel='noopener noreferrer'>Laura Hyunjhee Kim</a>, Allison Kotzig, Nelmarie du Preez, <a href='//carlagannis.com/' target='_blank' rel='noopener noreferrer'>Carla Gannis</a>, Antonella Mignone & Cristiano Panepuccia (APOTROPIA), Duncan Poulton, Mohamadreza Tazari, Andrew Quitmeyer, Isabel Beavers & Laine Rettmer, Alejandro Schianchi, Sally Grizzell Larson, Alif Ibrahim, Francesca Leoni & Davide Mastrangelo, Misha Rabinovich, Haley Albert, James Murphy, Edward Ramsay-Morin, Dho Yee Chung, Anxious to Make (Liat Berdugo + Emily Martinez), Caspar Below, WEATHER MAN, Felice Hapetzeder, Christina Smiros, Derek Larson, & Chen Wang.</p>",
+      "text": "<p>Anxious to Make's video, <a href='//anxioustomake.ga/dolphinaccelerator.html'>Dolphin Accelerator</a>, authored by Liat Berdugo, will be screened as part of Hot Steam II.</p><p>Cambridge Community Television & the MIT Museum partnered up to bring you HOT STEAM II: A screening of beautiful and bizarre videos that investigate the magic combination of science, art, and technology. Participating artists include: <a href='//www.lauraonsale.com/' target='_blank' rel='noopener noreferrer'>Laura Hyunjhee Kim</a>, Allison Kotzig, Nelmarie du Preez, <a href='//carlagannis.com/' target='_blank' rel='noopener noreferrer'>Carla Gannis</a>, Antonella Mignone & Cristiano Panepuccia (APOTROPIA), Duncan Poulton, Mohamadreza Tazari, Andrew Quitmeyer, Isabel Beavers & Laine Rettmer, Alejandro Schianchi, Sally Grizzell Larson, Alif Ibrahim, Francesca Leoni & Davide Mastrangelo, Misha Rabinovich, Haley Albert, James Murphy, Edward Ramsay-Morin, Dho Yee Chung, Anxious to Make (Liat Berdugo + Emily Martinez), Caspar Below, WEATHER MAN, Felice Hapetzeder, Christina Smiros, Derek Larson, & Chen Wang.</p>",
       "url": "//mitmuseum.mit.edu/csf"
     },
     {
@@ -309,7 +357,7 @@ var press = {
       "title": "Self as Actor: Colonising Identity",
       "author": "NeMe Arts Centre",
       "date": "February 15 - March 25 2019",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> will be exhibited in this show that considers the colonization of personal data online.</p><p>Participating artists: Benjamin Grosser, Derek Curry and Jennifer Gradecki, Tyler Coburn, Alexia Achilleos, Anxious to Make (Liat Berdugo and Emily Martinez), The Kammari Research Group (Sakari Laurila, Lau Lukkarila, Niklas Toivakainen), Christina Smiros, Lanfranco Aceti, Hazel Soper, Baris Parlan, Andreas Papallas, Sid and Jim (Sidney Smith and Jim Bicknell Knight), Maria Alexandrou. Invited artist: Adam Harvey</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a>, authored by Liat Berdugo, will be exhibited in this show that considers the colonization of personal data online.</p><p>Participating artists: Benjamin Grosser, Derek Curry and Jennifer Gradecki, Tyler Coburn, Alexia Achilleos, Anxious to Make (Liat Berdugo and Emily Martinez), The Kammari Research Group (Sakari Laurila, Lau Lukkarila, Niklas Toivakainen), Christina Smiros, Lanfranco Aceti, Hazel Soper, Baris Parlan, Andreas Papallas, Sid and Jim (Sidney Smith and Jim Bicknell Knight), Maria Alexandrou. Invited artist: Adam Harvey</p>",
       "url": "//www.neme.org/blog/self-as-actor-press"
     },
     {
@@ -365,7 +413,7 @@ var press = {
       "title": "OFF THE WALL",
       "author": "Arts + Literature Laboratory",
       "date": "August 2018",
-      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a> is screening along with M.I.A. and Flying Lotus during the first weekend at OFF THE WALL.</p><p>About: OFF THE WALL is a nighttime, outdoor screening series of contemporary video art. The series aims to present a survey of the most compelling and innovative moving image works from a broad cross-section of artists—local to international, emerging to mid-career.</p>",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a>, authored by Liat Berdugo, is screening along with M.I.A. and Flying Lotus during the first weekend at OFF THE WALL.</p><p>About: OFF THE WALL is a nighttime, outdoor screening series of contemporary video art. The series aims to present a survey of the most compelling and innovative moving image works from a broad cross-section of artists—local to international, emerging to mid-career.</p>",
       "url": "//artlitlab.org/events/off-the-wall-2018"
     },
     {
@@ -533,7 +581,7 @@ var press = {
       "title": "Screening 2016",
       "author": "VIDEOMEDEJA",
       "date": "Oct 2016",
-      "text": "",
+      "text": "<p>Anxious to Make's <a href='//vimeo.com/154158545' target='_blank' rel='noopener noreferrer'>Liat Berdugo + Emily Martinez as Five Twins</a>, authored by Liat Berdugo, is screening.</p>",
       "url": "//videomedeja.org/videomedeja-2016-en/screening-2016/liat-berdugo-emily-martinez-as-five-twins/?lang=en"
     },
     {
