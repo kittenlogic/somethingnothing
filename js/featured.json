@@ -4,7 +4,7 @@ var data = {
       "title": "Technologies of Exile",
       "medium": "Photography, Artificial Intelligence",
       "year": "2024",
-      "description": "Technologies of Exile reimagines the makeshift rafts of the 1990s Cuban rafter crisis through AI-generated imagery, drawing parallels between human ingenuity under scarcity and the limitations of machine creativity.",
+      "description": "Technologies of Exile reimagines the makeshift rafts of the 1990s Cuban rafter crisis through AI-generated imagery, drawing parallels between human ingenuity under scarcity and systems of control with the limitations of machine creativity.",
       "image": "img/ix-exile.jpg",
       "url": "technologies-of-exile.html"
     },
